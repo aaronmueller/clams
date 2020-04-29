@@ -1,0 +1,10 @@
+vary: V_2[]
+
+S[] Det[3,p,n] N_1[3,p,m,anim] , die Det[3,p,n] N_2[3,p,m] V_1[3,p] , V_2[3,p]
+S[] Det[3,p,n] N_1[3,p,m,anim] , die NP_2[3,s,m] V_1[3,s] , V_2[3,p]
+
+S[] NP_1[3,s,m,anim] , den Det[3,p,n] N_2[3,p,m] V_1[3,p] , V_2[3,s]
+S[] NP_1[3,s,m,anim] , den NP_2[3,s,m] V_1[3,s] , V_2[3,s]
+
+V_2[3,s] schwimmt | lacht | spricht | ist alt | ist klein | ist jung | ist groß 
+V_2[3,p] schwimmen | lachen | sprechen | sind alt | sind klein | sind jung | sind groß 

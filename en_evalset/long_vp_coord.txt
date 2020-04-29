@@ -1,0 +1,800 @@
+True	the author knows many different foreign languages and likes to watch television shows
+False	the author knows many different foreign languages and like to watch television shows
+True	the author knows many different foreign languages and is twenty three years old
+False	the author knows many different foreign languages and are twenty three years old
+True	the author knows many different foreign languages and enjoys playing tennis with colleagues
+False	the author knows many different foreign languages and enjoy playing tennis with colleagues
+True	the author knows many different foreign languages and writes in a journal every day
+False	the author knows many different foreign languages and write in a journal every day
+True	the author likes to watch television shows and knows many different foreign languages
+False	the author likes to watch television shows and know many different foreign languages
+True	the author likes to watch television shows and is twenty three years old
+False	the author likes to watch television shows and are twenty three years old
+True	the author likes to watch television shows and enjoys playing tennis with colleagues
+False	the author likes to watch television shows and enjoy playing tennis with colleagues
+True	the author likes to watch television shows and writes in a journal every day
+False	the author likes to watch television shows and write in a journal every day
+True	the author is twenty three years old and knows many different foreign languages
+False	the author is twenty three years old and know many different foreign languages
+True	the author is twenty three years old and likes to watch television shows
+False	the author is twenty three years old and like to watch television shows
+True	the author is twenty three years old and enjoys playing tennis with colleagues
+False	the author is twenty three years old and enjoy playing tennis with colleagues
+True	the author is twenty three years old and writes in a journal every day
+False	the author is twenty three years old and write in a journal every day
+True	the author enjoys playing tennis with colleagues and knows many different foreign languages
+False	the author enjoys playing tennis with colleagues and know many different foreign languages
+True	the author enjoys playing tennis with colleagues and likes to watch television shows
+False	the author enjoys playing tennis with colleagues and like to watch television shows
+True	the author enjoys playing tennis with colleagues and is twenty three years old
+False	the author enjoys playing tennis with colleagues and are twenty three years old
+True	the author enjoys playing tennis with colleagues and writes in a journal every day
+False	the author enjoys playing tennis with colleagues and write in a journal every day
+True	the author writes in a journal every day and knows many different foreign languages
+False	the author writes in a journal every day and know many different foreign languages
+True	the author writes in a journal every day and likes to watch television shows
+False	the author writes in a journal every day and like to watch television shows
+True	the author writes in a journal every day and is twenty three years old
+False	the author writes in a journal every day and are twenty three years old
+True	the author writes in a journal every day and enjoys playing tennis with colleagues
+False	the author writes in a journal every day and enjoy playing tennis with colleagues
+True	the pilot knows many different foreign languages and likes to watch television shows
+False	the pilot knows many different foreign languages and like to watch television shows
+True	the pilot knows many different foreign languages and is twenty three years old
+False	the pilot knows many different foreign languages and are twenty three years old
+True	the pilot knows many different foreign languages and enjoys playing tennis with colleagues
+False	the pilot knows many different foreign languages and enjoy playing tennis with colleagues
+True	the pilot knows many different foreign languages and writes in a journal every day
+False	the pilot knows many different foreign languages and write in a journal every day
+True	the pilot likes to watch television shows and knows many different foreign languages
+False	the pilot likes to watch television shows and know many different foreign languages
+True	the pilot likes to watch television shows and is twenty three years old
+False	the pilot likes to watch television shows and are twenty three years old
+True	the pilot likes to watch television shows and enjoys playing tennis with colleagues
+False	the pilot likes to watch television shows and enjoy playing tennis with colleagues
+True	the pilot likes to watch television shows and writes in a journal every day
+False	the pilot likes to watch television shows and write in a journal every day
+True	the pilot is twenty three years old and knows many different foreign languages
+False	the pilot is twenty three years old and know many different foreign languages
+True	the pilot is twenty three years old and likes to watch television shows
+False	the pilot is twenty three years old and like to watch television shows
+True	the pilot is twenty three years old and enjoys playing tennis with colleagues
+False	the pilot is twenty three years old and enjoy playing tennis with colleagues
+True	the pilot is twenty three years old and writes in a journal every day
+False	the pilot is twenty three years old and write in a journal every day
+True	the pilot enjoys playing tennis with colleagues and knows many different foreign languages
+False	the pilot enjoys playing tennis with colleagues and know many different foreign languages
+True	the pilot enjoys playing tennis with colleagues and likes to watch television shows
+False	the pilot enjoys playing tennis with colleagues and like to watch television shows
+True	the pilot enjoys playing tennis with colleagues and is twenty three years old
+False	the pilot enjoys playing tennis with colleagues and are twenty three years old
+True	the pilot enjoys playing tennis with colleagues and writes in a journal every day
+False	the pilot enjoys playing tennis with colleagues and write in a journal every day
+True	the pilot writes in a journal every day and knows many different foreign languages
+False	the pilot writes in a journal every day and know many different foreign languages
+True	the pilot writes in a journal every day and likes to watch television shows
+False	the pilot writes in a journal every day and like to watch television shows
+True	the pilot writes in a journal every day and is twenty three years old
+False	the pilot writes in a journal every day and are twenty three years old
+True	the pilot writes in a journal every day and enjoys playing tennis with colleagues
+False	the pilot writes in a journal every day and enjoy playing tennis with colleagues
+True	the surgeon knows many different foreign languages and likes to watch television shows
+False	the surgeon knows many different foreign languages and like to watch television shows
+True	the surgeon knows many different foreign languages and is twenty three years old
+False	the surgeon knows many different foreign languages and are twenty three years old
+True	the surgeon knows many different foreign languages and enjoys playing tennis with colleagues
+False	the surgeon knows many different foreign languages and enjoy playing tennis with colleagues
+True	the surgeon knows many different foreign languages and writes in a journal every day
+False	the surgeon knows many different foreign languages and write in a journal every day
+True	the surgeon likes to watch television shows and knows many different foreign languages
+False	the surgeon likes to watch television shows and know many different foreign languages
+True	the surgeon likes to watch television shows and is twenty three years old
+False	the surgeon likes to watch television shows and are twenty three years old
+True	the surgeon likes to watch television shows and enjoys playing tennis with colleagues
+False	the surgeon likes to watch television shows and enjoy playing tennis with colleagues
+True	the surgeon likes to watch television shows and writes in a journal every day
+False	the surgeon likes to watch television shows and write in a journal every day
+True	the surgeon is twenty three years old and knows many different foreign languages
+False	the surgeon is twenty three years old and know many different foreign languages
+True	the surgeon is twenty three years old and likes to watch television shows
+False	the surgeon is twenty three years old and like to watch television shows
+True	the surgeon is twenty three years old and enjoys playing tennis with colleagues
+False	the surgeon is twenty three years old and enjoy playing tennis with colleagues
+True	the surgeon is twenty three years old and writes in a journal every day
+False	the surgeon is twenty three years old and write in a journal every day
+True	the surgeon enjoys playing tennis with colleagues and knows many different foreign languages
+False	the surgeon enjoys playing tennis with colleagues and know many different foreign languages
+True	the surgeon enjoys playing tennis with colleagues and likes to watch television shows
+False	the surgeon enjoys playing tennis with colleagues and like to watch television shows
+True	the surgeon enjoys playing tennis with colleagues and is twenty three years old
+False	the surgeon enjoys playing tennis with colleagues and are twenty three years old
+True	the surgeon enjoys playing tennis with colleagues and writes in a journal every day
+False	the surgeon enjoys playing tennis with colleagues and write in a journal every day
+True	the surgeon writes in a journal every day and knows many different foreign languages
+False	the surgeon writes in a journal every day and know many different foreign languages
+True	the surgeon writes in a journal every day and likes to watch television shows
+False	the surgeon writes in a journal every day and like to watch television shows
+True	the surgeon writes in a journal every day and is twenty three years old
+False	the surgeon writes in a journal every day and are twenty three years old
+True	the surgeon writes in a journal every day and enjoys playing tennis with colleagues
+False	the surgeon writes in a journal every day and enjoy playing tennis with colleagues
+True	the farmer knows many different foreign languages and likes to watch television shows
+False	the farmer knows many different foreign languages and like to watch television shows
+True	the farmer knows many different foreign languages and is twenty three years old
+False	the farmer knows many different foreign languages and are twenty three years old
+True	the farmer knows many different foreign languages and enjoys playing tennis with colleagues
+False	the farmer knows many different foreign languages and enjoy playing tennis with colleagues
+True	the farmer knows many different foreign languages and writes in a journal every day
+False	the farmer knows many different foreign languages and write in a journal every day
+True	the farmer likes to watch television shows and knows many different foreign languages
+False	the farmer likes to watch television shows and know many different foreign languages
+True	the farmer likes to watch television shows and is twenty three years old
+False	the farmer likes to watch television shows and are twenty three years old
+True	the farmer likes to watch television shows and enjoys playing tennis with colleagues
+False	the farmer likes to watch television shows and enjoy playing tennis with colleagues
+True	the farmer likes to watch television shows and writes in a journal every day
+False	the farmer likes to watch television shows and write in a journal every day
+True	the farmer is twenty three years old and knows many different foreign languages
+False	the farmer is twenty three years old and know many different foreign languages
+True	the farmer is twenty three years old and likes to watch television shows
+False	the farmer is twenty three years old and like to watch television shows
+True	the farmer is twenty three years old and enjoys playing tennis with colleagues
+False	the farmer is twenty three years old and enjoy playing tennis with colleagues
+True	the farmer is twenty three years old and writes in a journal every day
+False	the farmer is twenty three years old and write in a journal every day
+True	the farmer enjoys playing tennis with colleagues and knows many different foreign languages
+False	the farmer enjoys playing tennis with colleagues and know many different foreign languages
+True	the farmer enjoys playing tennis with colleagues and likes to watch television shows
+False	the farmer enjoys playing tennis with colleagues and like to watch television shows
+True	the farmer enjoys playing tennis with colleagues and is twenty three years old
+False	the farmer enjoys playing tennis with colleagues and are twenty three years old
+True	the farmer enjoys playing tennis with colleagues and writes in a journal every day
+False	the farmer enjoys playing tennis with colleagues and write in a journal every day
+True	the farmer writes in a journal every day and knows many different foreign languages
+False	the farmer writes in a journal every day and know many different foreign languages
+True	the farmer writes in a journal every day and likes to watch television shows
+False	the farmer writes in a journal every day and like to watch television shows
+True	the farmer writes in a journal every day and is twenty three years old
+False	the farmer writes in a journal every day and are twenty three years old
+True	the farmer writes in a journal every day and enjoys playing tennis with colleagues
+False	the farmer writes in a journal every day and enjoy playing tennis with colleagues
+True	the manager knows many different foreign languages and likes to watch television shows
+False	the manager knows many different foreign languages and like to watch television shows
+True	the manager knows many different foreign languages and is twenty three years old
+False	the manager knows many different foreign languages and are twenty three years old
+True	the manager knows many different foreign languages and enjoys playing tennis with colleagues
+False	the manager knows many different foreign languages and enjoy playing tennis with colleagues
+True	the manager knows many different foreign languages and writes in a journal every day
+False	the manager knows many different foreign languages and write in a journal every day
+True	the manager likes to watch television shows and knows many different foreign languages
+False	the manager likes to watch television shows and know many different foreign languages
+True	the manager likes to watch television shows and is twenty three years old
+False	the manager likes to watch television shows and are twenty three years old
+True	the manager likes to watch television shows and enjoys playing tennis with colleagues
+False	the manager likes to watch television shows and enjoy playing tennis with colleagues
+True	the manager likes to watch television shows and writes in a journal every day
+False	the manager likes to watch television shows and write in a journal every day
+True	the manager is twenty three years old and knows many different foreign languages
+False	the manager is twenty three years old and know many different foreign languages
+True	the manager is twenty three years old and likes to watch television shows
+False	the manager is twenty three years old and like to watch television shows
+True	the manager is twenty three years old and enjoys playing tennis with colleagues
+False	the manager is twenty three years old and enjoy playing tennis with colleagues
+True	the manager is twenty three years old and writes in a journal every day
+False	the manager is twenty three years old and write in a journal every day
+True	the manager enjoys playing tennis with colleagues and knows many different foreign languages
+False	the manager enjoys playing tennis with colleagues and know many different foreign languages
+True	the manager enjoys playing tennis with colleagues and likes to watch television shows
+False	the manager enjoys playing tennis with colleagues and like to watch television shows
+True	the manager enjoys playing tennis with colleagues and is twenty three years old
+False	the manager enjoys playing tennis with colleagues and are twenty three years old
+True	the manager enjoys playing tennis with colleagues and writes in a journal every day
+False	the manager enjoys playing tennis with colleagues and write in a journal every day
+True	the manager writes in a journal every day and knows many different foreign languages
+False	the manager writes in a journal every day and know many different foreign languages
+True	the manager writes in a journal every day and likes to watch television shows
+False	the manager writes in a journal every day and like to watch television shows
+True	the manager writes in a journal every day and is twenty three years old
+False	the manager writes in a journal every day and are twenty three years old
+True	the manager writes in a journal every day and enjoys playing tennis with colleagues
+False	the manager writes in a journal every day and enjoy playing tennis with colleagues
+True	the customer knows many different foreign languages and likes to watch television shows
+False	the customer knows many different foreign languages and like to watch television shows
+True	the customer knows many different foreign languages and is twenty three years old
+False	the customer knows many different foreign languages and are twenty three years old
+True	the customer knows many different foreign languages and enjoys playing tennis with colleagues
+False	the customer knows many different foreign languages and enjoy playing tennis with colleagues
+True	the customer knows many different foreign languages and writes in a journal every day
+False	the customer knows many different foreign languages and write in a journal every day
+True	the customer likes to watch television shows and knows many different foreign languages
+False	the customer likes to watch television shows and know many different foreign languages
+True	the customer likes to watch television shows and is twenty three years old
+False	the customer likes to watch television shows and are twenty three years old
+True	the customer likes to watch television shows and enjoys playing tennis with colleagues
+False	the customer likes to watch television shows and enjoy playing tennis with colleagues
+True	the customer likes to watch television shows and writes in a journal every day
+False	the customer likes to watch television shows and write in a journal every day
+True	the customer is twenty three years old and knows many different foreign languages
+False	the customer is twenty three years old and know many different foreign languages
+True	the customer is twenty three years old and likes to watch television shows
+False	the customer is twenty three years old and like to watch television shows
+True	the customer is twenty three years old and enjoys playing tennis with colleagues
+False	the customer is twenty three years old and enjoy playing tennis with colleagues
+True	the customer is twenty three years old and writes in a journal every day
+False	the customer is twenty three years old and write in a journal every day
+True	the customer enjoys playing tennis with colleagues and knows many different foreign languages
+False	the customer enjoys playing tennis with colleagues and know many different foreign languages
+True	the customer enjoys playing tennis with colleagues and likes to watch television shows
+False	the customer enjoys playing tennis with colleagues and like to watch television shows
+True	the customer enjoys playing tennis with colleagues and is twenty three years old
+False	the customer enjoys playing tennis with colleagues and are twenty three years old
+True	the customer enjoys playing tennis with colleagues and writes in a journal every day
+False	the customer enjoys playing tennis with colleagues and write in a journal every day
+True	the customer writes in a journal every day and knows many different foreign languages
+False	the customer writes in a journal every day and know many different foreign languages
+True	the customer writes in a journal every day and likes to watch television shows
+False	the customer writes in a journal every day and like to watch television shows
+True	the customer writes in a journal every day and is twenty three years old
+False	the customer writes in a journal every day and are twenty three years old
+True	the customer writes in a journal every day and enjoys playing tennis with colleagues
+False	the customer writes in a journal every day and enjoy playing tennis with colleagues
+True	the officer knows many different foreign languages and likes to watch television shows
+False	the officer knows many different foreign languages and like to watch television shows
+True	the officer knows many different foreign languages and is twenty three years old
+False	the officer knows many different foreign languages and are twenty three years old
+True	the officer knows many different foreign languages and enjoys playing tennis with colleagues
+False	the officer knows many different foreign languages and enjoy playing tennis with colleagues
+True	the officer knows many different foreign languages and writes in a journal every day
+False	the officer knows many different foreign languages and write in a journal every day
+True	the officer likes to watch television shows and knows many different foreign languages
+False	the officer likes to watch television shows and know many different foreign languages
+True	the officer likes to watch television shows and is twenty three years old
+False	the officer likes to watch television shows and are twenty three years old
+True	the officer likes to watch television shows and enjoys playing tennis with colleagues
+False	the officer likes to watch television shows and enjoy playing tennis with colleagues
+True	the officer likes to watch television shows and writes in a journal every day
+False	the officer likes to watch television shows and write in a journal every day
+True	the officer is twenty three years old and knows many different foreign languages
+False	the officer is twenty three years old and know many different foreign languages
+True	the officer is twenty three years old and likes to watch television shows
+False	the officer is twenty three years old and like to watch television shows
+True	the officer is twenty three years old and enjoys playing tennis with colleagues
+False	the officer is twenty three years old and enjoy playing tennis with colleagues
+True	the officer is twenty three years old and writes in a journal every day
+False	the officer is twenty three years old and write in a journal every day
+True	the officer enjoys playing tennis with colleagues and knows many different foreign languages
+False	the officer enjoys playing tennis with colleagues and know many different foreign languages
+True	the officer enjoys playing tennis with colleagues and likes to watch television shows
+False	the officer enjoys playing tennis with colleagues and like to watch television shows
+True	the officer enjoys playing tennis with colleagues and is twenty three years old
+False	the officer enjoys playing tennis with colleagues and are twenty three years old
+True	the officer enjoys playing tennis with colleagues and writes in a journal every day
+False	the officer enjoys playing tennis with colleagues and write in a journal every day
+True	the officer writes in a journal every day and knows many different foreign languages
+False	the officer writes in a journal every day and know many different foreign languages
+True	the officer writes in a journal every day and likes to watch television shows
+False	the officer writes in a journal every day and like to watch television shows
+True	the officer writes in a journal every day and is twenty three years old
+False	the officer writes in a journal every day and are twenty three years old
+True	the officer writes in a journal every day and enjoys playing tennis with colleagues
+False	the officer writes in a journal every day and enjoy playing tennis with colleagues
+True	the teacher knows many different foreign languages and likes to watch television shows
+False	the teacher knows many different foreign languages and like to watch television shows
+True	the teacher knows many different foreign languages and is twenty three years old
+False	the teacher knows many different foreign languages and are twenty three years old
+True	the teacher knows many different foreign languages and enjoys playing tennis with colleagues
+False	the teacher knows many different foreign languages and enjoy playing tennis with colleagues
+True	the teacher knows many different foreign languages and writes in a journal every day
+False	the teacher knows many different foreign languages and write in a journal every day
+True	the teacher likes to watch television shows and knows many different foreign languages
+False	the teacher likes to watch television shows and know many different foreign languages
+True	the teacher likes to watch television shows and is twenty three years old
+False	the teacher likes to watch television shows and are twenty three years old
+True	the teacher likes to watch television shows and enjoys playing tennis with colleagues
+False	the teacher likes to watch television shows and enjoy playing tennis with colleagues
+True	the teacher likes to watch television shows and writes in a journal every day
+False	the teacher likes to watch television shows and write in a journal every day
+True	the teacher is twenty three years old and knows many different foreign languages
+False	the teacher is twenty three years old and know many different foreign languages
+True	the teacher is twenty three years old and likes to watch television shows
+False	the teacher is twenty three years old and like to watch television shows
+True	the teacher is twenty three years old and enjoys playing tennis with colleagues
+False	the teacher is twenty three years old and enjoy playing tennis with colleagues
+True	the teacher is twenty three years old and writes in a journal every day
+False	the teacher is twenty three years old and write in a journal every day
+True	the teacher enjoys playing tennis with colleagues and knows many different foreign languages
+False	the teacher enjoys playing tennis with colleagues and know many different foreign languages
+True	the teacher enjoys playing tennis with colleagues and likes to watch television shows
+False	the teacher enjoys playing tennis with colleagues and like to watch television shows
+True	the teacher enjoys playing tennis with colleagues and is twenty three years old
+False	the teacher enjoys playing tennis with colleagues and are twenty three years old
+True	the teacher enjoys playing tennis with colleagues and writes in a journal every day
+False	the teacher enjoys playing tennis with colleagues and write in a journal every day
+True	the teacher writes in a journal every day and knows many different foreign languages
+False	the teacher writes in a journal every day and know many different foreign languages
+True	the teacher writes in a journal every day and likes to watch television shows
+False	the teacher writes in a journal every day and like to watch television shows
+True	the teacher writes in a journal every day and is twenty three years old
+False	the teacher writes in a journal every day and are twenty three years old
+True	the teacher writes in a journal every day and enjoys playing tennis with colleagues
+False	the teacher writes in a journal every day and enjoy playing tennis with colleagues
+True	the senator knows many different foreign languages and likes to watch television shows
+False	the senator knows many different foreign languages and like to watch television shows
+True	the senator knows many different foreign languages and is twenty three years old
+False	the senator knows many different foreign languages and are twenty three years old
+True	the senator knows many different foreign languages and enjoys playing tennis with colleagues
+False	the senator knows many different foreign languages and enjoy playing tennis with colleagues
+True	the senator knows many different foreign languages and writes in a journal every day
+False	the senator knows many different foreign languages and write in a journal every day
+True	the senator likes to watch television shows and knows many different foreign languages
+False	the senator likes to watch television shows and know many different foreign languages
+True	the senator likes to watch television shows and is twenty three years old
+False	the senator likes to watch television shows and are twenty three years old
+True	the senator likes to watch television shows and enjoys playing tennis with colleagues
+False	the senator likes to watch television shows and enjoy playing tennis with colleagues
+True	the senator likes to watch television shows and writes in a journal every day
+False	the senator likes to watch television shows and write in a journal every day
+True	the senator is twenty three years old and knows many different foreign languages
+False	the senator is twenty three years old and know many different foreign languages
+True	the senator is twenty three years old and likes to watch television shows
+False	the senator is twenty three years old and like to watch television shows
+True	the senator is twenty three years old and enjoys playing tennis with colleagues
+False	the senator is twenty three years old and enjoy playing tennis with colleagues
+True	the senator is twenty three years old and writes in a journal every day
+False	the senator is twenty three years old and write in a journal every day
+True	the senator enjoys playing tennis with colleagues and knows many different foreign languages
+False	the senator enjoys playing tennis with colleagues and know many different foreign languages
+True	the senator enjoys playing tennis with colleagues and likes to watch television shows
+False	the senator enjoys playing tennis with colleagues and like to watch television shows
+True	the senator enjoys playing tennis with colleagues and is twenty three years old
+False	the senator enjoys playing tennis with colleagues and are twenty three years old
+True	the senator enjoys playing tennis with colleagues and writes in a journal every day
+False	the senator enjoys playing tennis with colleagues and write in a journal every day
+True	the senator writes in a journal every day and knows many different foreign languages
+False	the senator writes in a journal every day and know many different foreign languages
+True	the senator writes in a journal every day and likes to watch television shows
+False	the senator writes in a journal every day and like to watch television shows
+True	the senator writes in a journal every day and is twenty three years old
+False	the senator writes in a journal every day and are twenty three years old
+True	the senator writes in a journal every day and enjoys playing tennis with colleagues
+False	the senator writes in a journal every day and enjoy playing tennis with colleagues
+True	the consultant knows many different foreign languages and likes to watch television shows
+False	the consultant knows many different foreign languages and like to watch television shows
+True	the consultant knows many different foreign languages and is twenty three years old
+False	the consultant knows many different foreign languages and are twenty three years old
+True	the consultant knows many different foreign languages and enjoys playing tennis with colleagues
+False	the consultant knows many different foreign languages and enjoy playing tennis with colleagues
+True	the consultant knows many different foreign languages and writes in a journal every day
+False	the consultant knows many different foreign languages and write in a journal every day
+True	the consultant likes to watch television shows and knows many different foreign languages
+False	the consultant likes to watch television shows and know many different foreign languages
+True	the consultant likes to watch television shows and is twenty three years old
+False	the consultant likes to watch television shows and are twenty three years old
+True	the consultant likes to watch television shows and enjoys playing tennis with colleagues
+False	the consultant likes to watch television shows and enjoy playing tennis with colleagues
+True	the consultant likes to watch television shows and writes in a journal every day
+False	the consultant likes to watch television shows and write in a journal every day
+True	the consultant is twenty three years old and knows many different foreign languages
+False	the consultant is twenty three years old and know many different foreign languages
+True	the consultant is twenty three years old and likes to watch television shows
+False	the consultant is twenty three years old and like to watch television shows
+True	the consultant is twenty three years old and enjoys playing tennis with colleagues
+False	the consultant is twenty three years old and enjoy playing tennis with colleagues
+True	the consultant is twenty three years old and writes in a journal every day
+False	the consultant is twenty three years old and write in a journal every day
+True	the consultant enjoys playing tennis with colleagues and knows many different foreign languages
+False	the consultant enjoys playing tennis with colleagues and know many different foreign languages
+True	the consultant enjoys playing tennis with colleagues and likes to watch television shows
+False	the consultant enjoys playing tennis with colleagues and like to watch television shows
+True	the consultant enjoys playing tennis with colleagues and is twenty three years old
+False	the consultant enjoys playing tennis with colleagues and are twenty three years old
+True	the consultant enjoys playing tennis with colleagues and writes in a journal every day
+False	the consultant enjoys playing tennis with colleagues and write in a journal every day
+True	the consultant writes in a journal every day and knows many different foreign languages
+False	the consultant writes in a journal every day and know many different foreign languages
+True	the consultant writes in a journal every day and likes to watch television shows
+False	the consultant writes in a journal every day and like to watch television shows
+True	the consultant writes in a journal every day and is twenty three years old
+False	the consultant writes in a journal every day and are twenty three years old
+True	the consultant writes in a journal every day and enjoys playing tennis with colleagues
+False	the consultant writes in a journal every day and enjoy playing tennis with colleagues
+True	the authors know many different foreign languages and like to watch television shows
+False	the authors know many different foreign languages and likes to watch television shows
+True	the authors know many different foreign languages and are twenty three years old
+False	the authors know many different foreign languages and is twenty three years old
+True	the authors know many different foreign languages and enjoy playing tennis with colleagues
+False	the authors know many different foreign languages and enjoys playing tennis with colleagues
+True	the authors know many different foreign languages and write in a journal every day
+False	the authors know many different foreign languages and writes in a journal every day
+True	the authors like to watch television shows and know many different foreign languages
+False	the authors like to watch television shows and knows many different foreign languages
+True	the authors like to watch television shows and are twenty three years old
+False	the authors like to watch television shows and is twenty three years old
+True	the authors like to watch television shows and enjoy playing tennis with colleagues
+False	the authors like to watch television shows and enjoys playing tennis with colleagues
+True	the authors like to watch television shows and write in a journal every day
+False	the authors like to watch television shows and writes in a journal every day
+True	the authors are twenty three years old and know many different foreign languages
+False	the authors are twenty three years old and knows many different foreign languages
+True	the authors are twenty three years old and like to watch television shows
+False	the authors are twenty three years old and likes to watch television shows
+True	the authors are twenty three years old and enjoy playing tennis with colleagues
+False	the authors are twenty three years old and enjoys playing tennis with colleagues
+True	the authors are twenty three years old and write in a journal every day
+False	the authors are twenty three years old and writes in a journal every day
+True	the authors enjoy playing tennis with colleagues and know many different foreign languages
+False	the authors enjoy playing tennis with colleagues and knows many different foreign languages
+True	the authors enjoy playing tennis with colleagues and like to watch television shows
+False	the authors enjoy playing tennis with colleagues and likes to watch television shows
+True	the authors enjoy playing tennis with colleagues and are twenty three years old
+False	the authors enjoy playing tennis with colleagues and is twenty three years old
+True	the authors enjoy playing tennis with colleagues and write in a journal every day
+False	the authors enjoy playing tennis with colleagues and writes in a journal every day
+True	the authors write in a journal every day and know many different foreign languages
+False	the authors write in a journal every day and knows many different foreign languages
+True	the authors write in a journal every day and like to watch television shows
+False	the authors write in a journal every day and likes to watch television shows
+True	the authors write in a journal every day and are twenty three years old
+False	the authors write in a journal every day and is twenty three years old
+True	the authors write in a journal every day and enjoy playing tennis with colleagues
+False	the authors write in a journal every day and enjoys playing tennis with colleagues
+True	the pilots know many different foreign languages and like to watch television shows
+False	the pilots know many different foreign languages and likes to watch television shows
+True	the pilots know many different foreign languages and are twenty three years old
+False	the pilots know many different foreign languages and is twenty three years old
+True	the pilots know many different foreign languages and enjoy playing tennis with colleagues
+False	the pilots know many different foreign languages and enjoys playing tennis with colleagues
+True	the pilots know many different foreign languages and write in a journal every day
+False	the pilots know many different foreign languages and writes in a journal every day
+True	the pilots like to watch television shows and know many different foreign languages
+False	the pilots like to watch television shows and knows many different foreign languages
+True	the pilots like to watch television shows and are twenty three years old
+False	the pilots like to watch television shows and is twenty three years old
+True	the pilots like to watch television shows and enjoy playing tennis with colleagues
+False	the pilots like to watch television shows and enjoys playing tennis with colleagues
+True	the pilots like to watch television shows and write in a journal every day
+False	the pilots like to watch television shows and writes in a journal every day
+True	the pilots are twenty three years old and know many different foreign languages
+False	the pilots are twenty three years old and knows many different foreign languages
+True	the pilots are twenty three years old and like to watch television shows
+False	the pilots are twenty three years old and likes to watch television shows
+True	the pilots are twenty three years old and enjoy playing tennis with colleagues
+False	the pilots are twenty three years old and enjoys playing tennis with colleagues
+True	the pilots are twenty three years old and write in a journal every day
+False	the pilots are twenty three years old and writes in a journal every day
+True	the pilots enjoy playing tennis with colleagues and know many different foreign languages
+False	the pilots enjoy playing tennis with colleagues and knows many different foreign languages
+True	the pilots enjoy playing tennis with colleagues and like to watch television shows
+False	the pilots enjoy playing tennis with colleagues and likes to watch television shows
+True	the pilots enjoy playing tennis with colleagues and are twenty three years old
+False	the pilots enjoy playing tennis with colleagues and is twenty three years old
+True	the pilots enjoy playing tennis with colleagues and write in a journal every day
+False	the pilots enjoy playing tennis with colleagues and writes in a journal every day
+True	the pilots write in a journal every day and know many different foreign languages
+False	the pilots write in a journal every day and knows many different foreign languages
+True	the pilots write in a journal every day and like to watch television shows
+False	the pilots write in a journal every day and likes to watch television shows
+True	the pilots write in a journal every day and are twenty three years old
+False	the pilots write in a journal every day and is twenty three years old
+True	the pilots write in a journal every day and enjoy playing tennis with colleagues
+False	the pilots write in a journal every day and enjoys playing tennis with colleagues
+True	the surgeons know many different foreign languages and like to watch television shows
+False	the surgeons know many different foreign languages and likes to watch television shows
+True	the surgeons know many different foreign languages and are twenty three years old
+False	the surgeons know many different foreign languages and is twenty three years old
+True	the surgeons know many different foreign languages and enjoy playing tennis with colleagues
+False	the surgeons know many different foreign languages and enjoys playing tennis with colleagues
+True	the surgeons know many different foreign languages and write in a journal every day
+False	the surgeons know many different foreign languages and writes in a journal every day
+True	the surgeons like to watch television shows and know many different foreign languages
+False	the surgeons like to watch television shows and knows many different foreign languages
+True	the surgeons like to watch television shows and are twenty three years old
+False	the surgeons like to watch television shows and is twenty three years old
+True	the surgeons like to watch television shows and enjoy playing tennis with colleagues
+False	the surgeons like to watch television shows and enjoys playing tennis with colleagues
+True	the surgeons like to watch television shows and write in a journal every day
+False	the surgeons like to watch television shows and writes in a journal every day
+True	the surgeons are twenty three years old and know many different foreign languages
+False	the surgeons are twenty three years old and knows many different foreign languages
+True	the surgeons are twenty three years old and like to watch television shows
+False	the surgeons are twenty three years old and likes to watch television shows
+True	the surgeons are twenty three years old and enjoy playing tennis with colleagues
+False	the surgeons are twenty three years old and enjoys playing tennis with colleagues
+True	the surgeons are twenty three years old and write in a journal every day
+False	the surgeons are twenty three years old and writes in a journal every day
+True	the surgeons enjoy playing tennis with colleagues and know many different foreign languages
+False	the surgeons enjoy playing tennis with colleagues and knows many different foreign languages
+True	the surgeons enjoy playing tennis with colleagues and like to watch television shows
+False	the surgeons enjoy playing tennis with colleagues and likes to watch television shows
+True	the surgeons enjoy playing tennis with colleagues and are twenty three years old
+False	the surgeons enjoy playing tennis with colleagues and is twenty three years old
+True	the surgeons enjoy playing tennis with colleagues and write in a journal every day
+False	the surgeons enjoy playing tennis with colleagues and writes in a journal every day
+True	the surgeons write in a journal every day and know many different foreign languages
+False	the surgeons write in a journal every day and knows many different foreign languages
+True	the surgeons write in a journal every day and like to watch television shows
+False	the surgeons write in a journal every day and likes to watch television shows
+True	the surgeons write in a journal every day and are twenty three years old
+False	the surgeons write in a journal every day and is twenty three years old
+True	the surgeons write in a journal every day and enjoy playing tennis with colleagues
+False	the surgeons write in a journal every day and enjoys playing tennis with colleagues
+True	the farmers know many different foreign languages and like to watch television shows
+False	the farmers know many different foreign languages and likes to watch television shows
+True	the farmers know many different foreign languages and are twenty three years old
+False	the farmers know many different foreign languages and is twenty three years old
+True	the farmers know many different foreign languages and enjoy playing tennis with colleagues
+False	the farmers know many different foreign languages and enjoys playing tennis with colleagues
+True	the farmers know many different foreign languages and write in a journal every day
+False	the farmers know many different foreign languages and writes in a journal every day
+True	the farmers like to watch television shows and know many different foreign languages
+False	the farmers like to watch television shows and knows many different foreign languages
+True	the farmers like to watch television shows and are twenty three years old
+False	the farmers like to watch television shows and is twenty three years old
+True	the farmers like to watch television shows and enjoy playing tennis with colleagues
+False	the farmers like to watch television shows and enjoys playing tennis with colleagues
+True	the farmers like to watch television shows and write in a journal every day
+False	the farmers like to watch television shows and writes in a journal every day
+True	the farmers are twenty three years old and know many different foreign languages
+False	the farmers are twenty three years old and knows many different foreign languages
+True	the farmers are twenty three years old and like to watch television shows
+False	the farmers are twenty three years old and likes to watch television shows
+True	the farmers are twenty three years old and enjoy playing tennis with colleagues
+False	the farmers are twenty three years old and enjoys playing tennis with colleagues
+True	the farmers are twenty three years old and write in a journal every day
+False	the farmers are twenty three years old and writes in a journal every day
+True	the farmers enjoy playing tennis with colleagues and know many different foreign languages
+False	the farmers enjoy playing tennis with colleagues and knows many different foreign languages
+True	the farmers enjoy playing tennis with colleagues and like to watch television shows
+False	the farmers enjoy playing tennis with colleagues and likes to watch television shows
+True	the farmers enjoy playing tennis with colleagues and are twenty three years old
+False	the farmers enjoy playing tennis with colleagues and is twenty three years old
+True	the farmers enjoy playing tennis with colleagues and write in a journal every day
+False	the farmers enjoy playing tennis with colleagues and writes in a journal every day
+True	the farmers write in a journal every day and know many different foreign languages
+False	the farmers write in a journal every day and knows many different foreign languages
+True	the farmers write in a journal every day and like to watch television shows
+False	the farmers write in a journal every day and likes to watch television shows
+True	the farmers write in a journal every day and are twenty three years old
+False	the farmers write in a journal every day and is twenty three years old
+True	the farmers write in a journal every day and enjoy playing tennis with colleagues
+False	the farmers write in a journal every day and enjoys playing tennis with colleagues
+True	the managers know many different foreign languages and like to watch television shows
+False	the managers know many different foreign languages and likes to watch television shows
+True	the managers know many different foreign languages and are twenty three years old
+False	the managers know many different foreign languages and is twenty three years old
+True	the managers know many different foreign languages and enjoy playing tennis with colleagues
+False	the managers know many different foreign languages and enjoys playing tennis with colleagues
+True	the managers know many different foreign languages and write in a journal every day
+False	the managers know many different foreign languages and writes in a journal every day
+True	the managers like to watch television shows and know many different foreign languages
+False	the managers like to watch television shows and knows many different foreign languages
+True	the managers like to watch television shows and are twenty three years old
+False	the managers like to watch television shows and is twenty three years old
+True	the managers like to watch television shows and enjoy playing tennis with colleagues
+False	the managers like to watch television shows and enjoys playing tennis with colleagues
+True	the managers like to watch television shows and write in a journal every day
+False	the managers like to watch television shows and writes in a journal every day
+True	the managers are twenty three years old and know many different foreign languages
+False	the managers are twenty three years old and knows many different foreign languages
+True	the managers are twenty three years old and like to watch television shows
+False	the managers are twenty three years old and likes to watch television shows
+True	the managers are twenty three years old and enjoy playing tennis with colleagues
+False	the managers are twenty three years old and enjoys playing tennis with colleagues
+True	the managers are twenty three years old and write in a journal every day
+False	the managers are twenty three years old and writes in a journal every day
+True	the managers enjoy playing tennis with colleagues and know many different foreign languages
+False	the managers enjoy playing tennis with colleagues and knows many different foreign languages
+True	the managers enjoy playing tennis with colleagues and like to watch television shows
+False	the managers enjoy playing tennis with colleagues and likes to watch television shows
+True	the managers enjoy playing tennis with colleagues and are twenty three years old
+False	the managers enjoy playing tennis with colleagues and is twenty three years old
+True	the managers enjoy playing tennis with colleagues and write in a journal every day
+False	the managers enjoy playing tennis with colleagues and writes in a journal every day
+True	the managers write in a journal every day and know many different foreign languages
+False	the managers write in a journal every day and knows many different foreign languages
+True	the managers write in a journal every day and like to watch television shows
+False	the managers write in a journal every day and likes to watch television shows
+True	the managers write in a journal every day and are twenty three years old
+False	the managers write in a journal every day and is twenty three years old
+True	the managers write in a journal every day and enjoy playing tennis with colleagues
+False	the managers write in a journal every day and enjoys playing tennis with colleagues
+True	the customers know many different foreign languages and like to watch television shows
+False	the customers know many different foreign languages and likes to watch television shows
+True	the customers know many different foreign languages and are twenty three years old
+False	the customers know many different foreign languages and is twenty three years old
+True	the customers know many different foreign languages and enjoy playing tennis with colleagues
+False	the customers know many different foreign languages and enjoys playing tennis with colleagues
+True	the customers know many different foreign languages and write in a journal every day
+False	the customers know many different foreign languages and writes in a journal every day
+True	the customers like to watch television shows and know many different foreign languages
+False	the customers like to watch television shows and knows many different foreign languages
+True	the customers like to watch television shows and are twenty three years old
+False	the customers like to watch television shows and is twenty three years old
+True	the customers like to watch television shows and enjoy playing tennis with colleagues
+False	the customers like to watch television shows and enjoys playing tennis with colleagues
+True	the customers like to watch television shows and write in a journal every day
+False	the customers like to watch television shows and writes in a journal every day
+True	the customers are twenty three years old and know many different foreign languages
+False	the customers are twenty three years old and knows many different foreign languages
+True	the customers are twenty three years old and like to watch television shows
+False	the customers are twenty three years old and likes to watch television shows
+True	the customers are twenty three years old and enjoy playing tennis with colleagues
+False	the customers are twenty three years old and enjoys playing tennis with colleagues
+True	the customers are twenty three years old and write in a journal every day
+False	the customers are twenty three years old and writes in a journal every day
+True	the customers enjoy playing tennis with colleagues and know many different foreign languages
+False	the customers enjoy playing tennis with colleagues and knows many different foreign languages
+True	the customers enjoy playing tennis with colleagues and like to watch television shows
+False	the customers enjoy playing tennis with colleagues and likes to watch television shows
+True	the customers enjoy playing tennis with colleagues and are twenty three years old
+False	the customers enjoy playing tennis with colleagues and is twenty three years old
+True	the customers enjoy playing tennis with colleagues and write in a journal every day
+False	the customers enjoy playing tennis with colleagues and writes in a journal every day
+True	the customers write in a journal every day and know many different foreign languages
+False	the customers write in a journal every day and knows many different foreign languages
+True	the customers write in a journal every day and like to watch television shows
+False	the customers write in a journal every day and likes to watch television shows
+True	the customers write in a journal every day and are twenty three years old
+False	the customers write in a journal every day and is twenty three years old
+True	the customers write in a journal every day and enjoy playing tennis with colleagues
+False	the customers write in a journal every day and enjoys playing tennis with colleagues
+True	the officers know many different foreign languages and like to watch television shows
+False	the officers know many different foreign languages and likes to watch television shows
+True	the officers know many different foreign languages and are twenty three years old
+False	the officers know many different foreign languages and is twenty three years old
+True	the officers know many different foreign languages and enjoy playing tennis with colleagues
+False	the officers know many different foreign languages and enjoys playing tennis with colleagues
+True	the officers know many different foreign languages and write in a journal every day
+False	the officers know many different foreign languages and writes in a journal every day
+True	the officers like to watch television shows and know many different foreign languages
+False	the officers like to watch television shows and knows many different foreign languages
+True	the officers like to watch television shows and are twenty three years old
+False	the officers like to watch television shows and is twenty three years old
+True	the officers like to watch television shows and enjoy playing tennis with colleagues
+False	the officers like to watch television shows and enjoys playing tennis with colleagues
+True	the officers like to watch television shows and write in a journal every day
+False	the officers like to watch television shows and writes in a journal every day
+True	the officers are twenty three years old and know many different foreign languages
+False	the officers are twenty three years old and knows many different foreign languages
+True	the officers are twenty three years old and like to watch television shows
+False	the officers are twenty three years old and likes to watch television shows
+True	the officers are twenty three years old and enjoy playing tennis with colleagues
+False	the officers are twenty three years old and enjoys playing tennis with colleagues
+True	the officers are twenty three years old and write in a journal every day
+False	the officers are twenty three years old and writes in a journal every day
+True	the officers enjoy playing tennis with colleagues and know many different foreign languages
+False	the officers enjoy playing tennis with colleagues and knows many different foreign languages
+True	the officers enjoy playing tennis with colleagues and like to watch television shows
+False	the officers enjoy playing tennis with colleagues and likes to watch television shows
+True	the officers enjoy playing tennis with colleagues and are twenty three years old
+False	the officers enjoy playing tennis with colleagues and is twenty three years old
+True	the officers enjoy playing tennis with colleagues and write in a journal every day
+False	the officers enjoy playing tennis with colleagues and writes in a journal every day
+True	the officers write in a journal every day and know many different foreign languages
+False	the officers write in a journal every day and knows many different foreign languages
+True	the officers write in a journal every day and like to watch television shows
+False	the officers write in a journal every day and likes to watch television shows
+True	the officers write in a journal every day and are twenty three years old
+False	the officers write in a journal every day and is twenty three years old
+True	the officers write in a journal every day and enjoy playing tennis with colleagues
+False	the officers write in a journal every day and enjoys playing tennis with colleagues
+True	the teachers know many different foreign languages and like to watch television shows
+False	the teachers know many different foreign languages and likes to watch television shows
+True	the teachers know many different foreign languages and are twenty three years old
+False	the teachers know many different foreign languages and is twenty three years old
+True	the teachers know many different foreign languages and enjoy playing tennis with colleagues
+False	the teachers know many different foreign languages and enjoys playing tennis with colleagues
+True	the teachers know many different foreign languages and write in a journal every day
+False	the teachers know many different foreign languages and writes in a journal every day
+True	the teachers like to watch television shows and know many different foreign languages
+False	the teachers like to watch television shows and knows many different foreign languages
+True	the teachers like to watch television shows and are twenty three years old
+False	the teachers like to watch television shows and is twenty three years old
+True	the teachers like to watch television shows and enjoy playing tennis with colleagues
+False	the teachers like to watch television shows and enjoys playing tennis with colleagues
+True	the teachers like to watch television shows and write in a journal every day
+False	the teachers like to watch television shows and writes in a journal every day
+True	the teachers are twenty three years old and know many different foreign languages
+False	the teachers are twenty three years old and knows many different foreign languages
+True	the teachers are twenty three years old and like to watch television shows
+False	the teachers are twenty three years old and likes to watch television shows
+True	the teachers are twenty three years old and enjoy playing tennis with colleagues
+False	the teachers are twenty three years old and enjoys playing tennis with colleagues
+True	the teachers are twenty three years old and write in a journal every day
+False	the teachers are twenty three years old and writes in a journal every day
+True	the teachers enjoy playing tennis with colleagues and know many different foreign languages
+False	the teachers enjoy playing tennis with colleagues and knows many different foreign languages
+True	the teachers enjoy playing tennis with colleagues and like to watch television shows
+False	the teachers enjoy playing tennis with colleagues and likes to watch television shows
+True	the teachers enjoy playing tennis with colleagues and are twenty three years old
+False	the teachers enjoy playing tennis with colleagues and is twenty three years old
+True	the teachers enjoy playing tennis with colleagues and write in a journal every day
+False	the teachers enjoy playing tennis with colleagues and writes in a journal every day
+True	the teachers write in a journal every day and know many different foreign languages
+False	the teachers write in a journal every day and knows many different foreign languages
+True	the teachers write in a journal every day and like to watch television shows
+False	the teachers write in a journal every day and likes to watch television shows
+True	the teachers write in a journal every day and are twenty three years old
+False	the teachers write in a journal every day and is twenty three years old
+True	the teachers write in a journal every day and enjoy playing tennis with colleagues
+False	the teachers write in a journal every day and enjoys playing tennis with colleagues
+True	the senators know many different foreign languages and like to watch television shows
+False	the senators know many different foreign languages and likes to watch television shows
+True	the senators know many different foreign languages and are twenty three years old
+False	the senators know many different foreign languages and is twenty three years old
+True	the senators know many different foreign languages and enjoy playing tennis with colleagues
+False	the senators know many different foreign languages and enjoys playing tennis with colleagues
+True	the senators know many different foreign languages and write in a journal every day
+False	the senators know many different foreign languages and writes in a journal every day
+True	the senators like to watch television shows and know many different foreign languages
+False	the senators like to watch television shows and knows many different foreign languages
+True	the senators like to watch television shows and are twenty three years old
+False	the senators like to watch television shows and is twenty three years old
+True	the senators like to watch television shows and enjoy playing tennis with colleagues
+False	the senators like to watch television shows and enjoys playing tennis with colleagues
+True	the senators like to watch television shows and write in a journal every day
+False	the senators like to watch television shows and writes in a journal every day
+True	the senators are twenty three years old and know many different foreign languages
+False	the senators are twenty three years old and knows many different foreign languages
+True	the senators are twenty three years old and like to watch television shows
+False	the senators are twenty three years old and likes to watch television shows
+True	the senators are twenty three years old and enjoy playing tennis with colleagues
+False	the senators are twenty three years old and enjoys playing tennis with colleagues
+True	the senators are twenty three years old and write in a journal every day
+False	the senators are twenty three years old and writes in a journal every day
+True	the senators enjoy playing tennis with colleagues and know many different foreign languages
+False	the senators enjoy playing tennis with colleagues and knows many different foreign languages
+True	the senators enjoy playing tennis with colleagues and like to watch television shows
+False	the senators enjoy playing tennis with colleagues and likes to watch television shows
+True	the senators enjoy playing tennis with colleagues and are twenty three years old
+False	the senators enjoy playing tennis with colleagues and is twenty three years old
+True	the senators enjoy playing tennis with colleagues and write in a journal every day
+False	the senators enjoy playing tennis with colleagues and writes in a journal every day
+True	the senators write in a journal every day and know many different foreign languages
+False	the senators write in a journal every day and knows many different foreign languages
+True	the senators write in a journal every day and like to watch television shows
+False	the senators write in a journal every day and likes to watch television shows
+True	the senators write in a journal every day and are twenty three years old
+False	the senators write in a journal every day and is twenty three years old
+True	the senators write in a journal every day and enjoy playing tennis with colleagues
+False	the senators write in a journal every day and enjoys playing tennis with colleagues
+True	the consultants know many different foreign languages and like to watch television shows
+False	the consultants know many different foreign languages and likes to watch television shows
+True	the consultants know many different foreign languages and are twenty three years old
+False	the consultants know many different foreign languages and is twenty three years old
+True	the consultants know many different foreign languages and enjoy playing tennis with colleagues
+False	the consultants know many different foreign languages and enjoys playing tennis with colleagues
+True	the consultants know many different foreign languages and write in a journal every day
+False	the consultants know many different foreign languages and writes in a journal every day
+True	the consultants like to watch television shows and know many different foreign languages
+False	the consultants like to watch television shows and knows many different foreign languages
+True	the consultants like to watch television shows and are twenty three years old
+False	the consultants like to watch television shows and is twenty three years old
+True	the consultants like to watch television shows and enjoy playing tennis with colleagues
+False	the consultants like to watch television shows and enjoys playing tennis with colleagues
+True	the consultants like to watch television shows and write in a journal every day
+False	the consultants like to watch television shows and writes in a journal every day
+True	the consultants are twenty three years old and know many different foreign languages
+False	the consultants are twenty three years old and knows many different foreign languages
+True	the consultants are twenty three years old and like to watch television shows
+False	the consultants are twenty three years old and likes to watch television shows
+True	the consultants are twenty three years old and enjoy playing tennis with colleagues
+False	the consultants are twenty three years old and enjoys playing tennis with colleagues
+True	the consultants are twenty three years old and write in a journal every day
+False	the consultants are twenty three years old and writes in a journal every day
+True	the consultants enjoy playing tennis with colleagues and know many different foreign languages
+False	the consultants enjoy playing tennis with colleagues and knows many different foreign languages
+True	the consultants enjoy playing tennis with colleagues and like to watch television shows
+False	the consultants enjoy playing tennis with colleagues and likes to watch television shows
+True	the consultants enjoy playing tennis with colleagues and are twenty three years old
+False	the consultants enjoy playing tennis with colleagues and is twenty three years old
+True	the consultants enjoy playing tennis with colleagues and write in a journal every day
+False	the consultants enjoy playing tennis with colleagues and writes in a journal every day
+True	the consultants write in a journal every day and know many different foreign languages
+False	the consultants write in a journal every day and knows many different foreign languages
+True	the consultants write in a journal every day and like to watch television shows
+False	the consultants write in a journal every day and likes to watch television shows
+True	the consultants write in a journal every day and are twenty three years old
+False	the consultants write in a journal every day and is twenty three years old
+True	the consultants write in a journal every day and enjoy playing tennis with colleagues
+False	the consultants write in a journal every day and enjoys playing tennis with colleagues

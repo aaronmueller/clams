@@ -1,0 +1,7 @@
+vary: VP[]
+
+S[] Det[3,p,n] N_1[3,p,m,anim] VP[3,p]
+S[] NP_1[3,s,m,anim] VP[3,s]
+
+VP[3,s] ist alt | ist jung | ist klein | ist groß | schwimmt | spricht | lacht
+VP[3,p] sind alt | sind jung | sind klein | sind groß | schwimmen | sprechen | lachen

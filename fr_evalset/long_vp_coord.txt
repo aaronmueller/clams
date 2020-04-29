@@ -1,0 +1,1000 @@
+True	l' auteur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	l' auteur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	l' auteur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	l' auteur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	l' auteur connaît beaucoup de langues étrangères et a vingt trois ans
+False	l' auteur connaît beaucoup de langues étrangères et ont vingt trois ans
+True	l' auteur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	l' auteur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	l' auteur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	l' auteur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	le directeur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	le directeur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	le directeur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	le directeur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	le directeur connaît beaucoup de langues étrangères et a vingt trois ans
+False	le directeur connaît beaucoup de langues étrangères et ont vingt trois ans
+True	le directeur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	le directeur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	le directeur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	le directeur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	l' agriculteur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	l' agriculteur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	l' agriculteur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	l' agriculteur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	l' agriculteur connaît beaucoup de langues étrangères et a vingt trois ans
+False	l' agriculteur connaît beaucoup de langues étrangères et ont vingt trois ans
+True	l' agriculteur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	l' agriculteur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	l' agriculteur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	l' agriculteur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	le chirurgien connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	le chirurgien connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	le chirurgien connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	le chirurgien connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	le chirurgien connaît beaucoup de langues étrangères et a vingt trois ans
+False	le chirurgien connaît beaucoup de langues étrangères et ont vingt trois ans
+True	le chirurgien connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	le chirurgien connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	le chirurgien connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	le chirurgien connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	le sénateur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	le sénateur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	le sénateur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	le sénateur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	le sénateur connaît beaucoup de langues étrangères et a vingt trois ans
+False	le sénateur connaît beaucoup de langues étrangères et ont vingt trois ans
+True	le sénateur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	le sénateur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	le sénateur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	le sénateur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	le professeur connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	le professeur connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	le professeur connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	le professeur connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	le professeur connaît beaucoup de langues étrangères et a vingt trois ans
+False	le professeur connaît beaucoup de langues étrangères et ont vingt trois ans
+True	le professeur connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	le professeur connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	le professeur connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	le professeur connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	le client connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	le client connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	le client connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	le client connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	le client connaît beaucoup de langues étrangères et a vingt trois ans
+False	le client connaît beaucoup de langues étrangères et ont vingt trois ans
+True	le client connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	le client connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	le client connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	le client connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	l' officier connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	l' officier connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	l' officier connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	l' officier connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	l' officier connaît beaucoup de langues étrangères et a vingt trois ans
+False	l' officier connaît beaucoup de langues étrangères et ont vingt trois ans
+True	l' officier connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	l' officier connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	l' officier connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	l' officier connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	le pilote connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	le pilote connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	le pilote connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	le pilote connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	le pilote connaît beaucoup de langues étrangères et a vingt trois ans
+False	le pilote connaît beaucoup de langues étrangères et ont vingt trois ans
+True	le pilote connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	le pilote connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	le pilote connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	le pilote connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	le consultant connaît beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+False	le consultant connaît beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+True	le consultant connaît beaucoup de langues étrangères et aime regarder des émissions de télévision
+False	le consultant connaît beaucoup de langues étrangères et aiment regarder des émissions de télévision
+True	le consultant connaît beaucoup de langues étrangères et a vingt trois ans
+False	le consultant connaît beaucoup de langues étrangères et ont vingt trois ans
+True	le consultant connaît beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+False	le consultant connaît beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+True	le consultant connaît beaucoup de langues étrangères et écrit dans un journal tous les jours
+False	le consultant connaît beaucoup de langues étrangères et écrivent dans un journal tous les jours
+True	l' auteur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	l' auteur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	l' auteur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	l' auteur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	l' auteur aime regarder des émissions de télévision et a vingt trois ans
+False	l' auteur aime regarder des émissions de télévision et ont vingt trois ans
+True	l' auteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	l' auteur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	l' auteur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	l' auteur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	le directeur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	le directeur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	le directeur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	le directeur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	le directeur aime regarder des émissions de télévision et a vingt trois ans
+False	le directeur aime regarder des émissions de télévision et ont vingt trois ans
+True	le directeur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	le directeur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	le directeur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	le directeur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	l' agriculteur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	l' agriculteur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	l' agriculteur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	l' agriculteur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	l' agriculteur aime regarder des émissions de télévision et a vingt trois ans
+False	l' agriculteur aime regarder des émissions de télévision et ont vingt trois ans
+True	l' agriculteur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	l' agriculteur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	l' agriculteur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	l' agriculteur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	le chirurgien aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	le chirurgien aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	le chirurgien aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	le chirurgien aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	le chirurgien aime regarder des émissions de télévision et a vingt trois ans
+False	le chirurgien aime regarder des émissions de télévision et ont vingt trois ans
+True	le chirurgien aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	le chirurgien aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	le chirurgien aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	le chirurgien aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	le sénateur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	le sénateur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	le sénateur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	le sénateur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	le sénateur aime regarder des émissions de télévision et a vingt trois ans
+False	le sénateur aime regarder des émissions de télévision et ont vingt trois ans
+True	le sénateur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	le sénateur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	le sénateur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	le sénateur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	le professeur aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	le professeur aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	le professeur aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	le professeur aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	le professeur aime regarder des émissions de télévision et a vingt trois ans
+False	le professeur aime regarder des émissions de télévision et ont vingt trois ans
+True	le professeur aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	le professeur aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	le professeur aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	le professeur aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	le client aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	le client aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	le client aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	le client aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	le client aime regarder des émissions de télévision et a vingt trois ans
+False	le client aime regarder des émissions de télévision et ont vingt trois ans
+True	le client aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	le client aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	le client aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	le client aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	l' officier aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	l' officier aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	l' officier aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	l' officier aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	l' officier aime regarder des émissions de télévision et a vingt trois ans
+False	l' officier aime regarder des émissions de télévision et ont vingt trois ans
+True	l' officier aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	l' officier aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	l' officier aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	l' officier aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	le pilote aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	le pilote aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	le pilote aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	le pilote aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	le pilote aime regarder des émissions de télévision et a vingt trois ans
+False	le pilote aime regarder des émissions de télévision et ont vingt trois ans
+True	le pilote aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	le pilote aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	le pilote aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	le pilote aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	le consultant aime regarder des émissions de télévision et connaît beaucoup de langues étrangères
+False	le consultant aime regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+True	le consultant aime regarder des émissions de télévision et aime regarder des émissions de télévision
+False	le consultant aime regarder des émissions de télévision et aiment regarder des émissions de télévision
+True	le consultant aime regarder des émissions de télévision et a vingt trois ans
+False	le consultant aime regarder des émissions de télévision et ont vingt trois ans
+True	le consultant aime regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+False	le consultant aime regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+True	le consultant aime regarder des émissions de télévision et écrit dans un journal tous les jours
+False	le consultant aime regarder des émissions de télévision et écrivent dans un journal tous les jours
+True	l' auteur a vingt trois ans et connaît beaucoup de langues étrangères
+False	l' auteur a vingt trois ans et connaissent beaucoup de langues étrangères
+True	l' auteur a vingt trois ans et aime regarder des émissions de télévision
+False	l' auteur a vingt trois ans et aiment regarder des émissions de télévision
+True	l' auteur a vingt trois ans et a vingt trois ans
+False	l' auteur a vingt trois ans et ont vingt trois ans
+True	l' auteur a vingt trois ans et préfère jouer au tennis avec des collègues
+False	l' auteur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	l' auteur a vingt trois ans et écrit dans un journal tous les jours
+False	l' auteur a vingt trois ans et écrivent dans un journal tous les jours
+True	le directeur a vingt trois ans et connaît beaucoup de langues étrangères
+False	le directeur a vingt trois ans et connaissent beaucoup de langues étrangères
+True	le directeur a vingt trois ans et aime regarder des émissions de télévision
+False	le directeur a vingt trois ans et aiment regarder des émissions de télévision
+True	le directeur a vingt trois ans et a vingt trois ans
+False	le directeur a vingt trois ans et ont vingt trois ans
+True	le directeur a vingt trois ans et préfère jouer au tennis avec des collègues
+False	le directeur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	le directeur a vingt trois ans et écrit dans un journal tous les jours
+False	le directeur a vingt trois ans et écrivent dans un journal tous les jours
+True	l' agriculteur a vingt trois ans et connaît beaucoup de langues étrangères
+False	l' agriculteur a vingt trois ans et connaissent beaucoup de langues étrangères
+True	l' agriculteur a vingt trois ans et aime regarder des émissions de télévision
+False	l' agriculteur a vingt trois ans et aiment regarder des émissions de télévision
+True	l' agriculteur a vingt trois ans et a vingt trois ans
+False	l' agriculteur a vingt trois ans et ont vingt trois ans
+True	l' agriculteur a vingt trois ans et préfère jouer au tennis avec des collègues
+False	l' agriculteur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	l' agriculteur a vingt trois ans et écrit dans un journal tous les jours
+False	l' agriculteur a vingt trois ans et écrivent dans un journal tous les jours
+True	le chirurgien a vingt trois ans et connaît beaucoup de langues étrangères
+False	le chirurgien a vingt trois ans et connaissent beaucoup de langues étrangères
+True	le chirurgien a vingt trois ans et aime regarder des émissions de télévision
+False	le chirurgien a vingt trois ans et aiment regarder des émissions de télévision
+True	le chirurgien a vingt trois ans et a vingt trois ans
+False	le chirurgien a vingt trois ans et ont vingt trois ans
+True	le chirurgien a vingt trois ans et préfère jouer au tennis avec des collègues
+False	le chirurgien a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	le chirurgien a vingt trois ans et écrit dans un journal tous les jours
+False	le chirurgien a vingt trois ans et écrivent dans un journal tous les jours
+True	le sénateur a vingt trois ans et connaît beaucoup de langues étrangères
+False	le sénateur a vingt trois ans et connaissent beaucoup de langues étrangères
+True	le sénateur a vingt trois ans et aime regarder des émissions de télévision
+False	le sénateur a vingt trois ans et aiment regarder des émissions de télévision
+True	le sénateur a vingt trois ans et a vingt trois ans
+False	le sénateur a vingt trois ans et ont vingt trois ans
+True	le sénateur a vingt trois ans et préfère jouer au tennis avec des collègues
+False	le sénateur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	le sénateur a vingt trois ans et écrit dans un journal tous les jours
+False	le sénateur a vingt trois ans et écrivent dans un journal tous les jours
+True	le professeur a vingt trois ans et connaît beaucoup de langues étrangères
+False	le professeur a vingt trois ans et connaissent beaucoup de langues étrangères
+True	le professeur a vingt trois ans et aime regarder des émissions de télévision
+False	le professeur a vingt trois ans et aiment regarder des émissions de télévision
+True	le professeur a vingt trois ans et a vingt trois ans
+False	le professeur a vingt trois ans et ont vingt trois ans
+True	le professeur a vingt trois ans et préfère jouer au tennis avec des collègues
+False	le professeur a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	le professeur a vingt trois ans et écrit dans un journal tous les jours
+False	le professeur a vingt trois ans et écrivent dans un journal tous les jours
+True	le client a vingt trois ans et connaît beaucoup de langues étrangères
+False	le client a vingt trois ans et connaissent beaucoup de langues étrangères
+True	le client a vingt trois ans et aime regarder des émissions de télévision
+False	le client a vingt trois ans et aiment regarder des émissions de télévision
+True	le client a vingt trois ans et a vingt trois ans
+False	le client a vingt trois ans et ont vingt trois ans
+True	le client a vingt trois ans et préfère jouer au tennis avec des collègues
+False	le client a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	le client a vingt trois ans et écrit dans un journal tous les jours
+False	le client a vingt trois ans et écrivent dans un journal tous les jours
+True	l' officier a vingt trois ans et connaît beaucoup de langues étrangères
+False	l' officier a vingt trois ans et connaissent beaucoup de langues étrangères
+True	l' officier a vingt trois ans et aime regarder des émissions de télévision
+False	l' officier a vingt trois ans et aiment regarder des émissions de télévision
+True	l' officier a vingt trois ans et a vingt trois ans
+False	l' officier a vingt trois ans et ont vingt trois ans
+True	l' officier a vingt trois ans et préfère jouer au tennis avec des collègues
+False	l' officier a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	l' officier a vingt trois ans et écrit dans un journal tous les jours
+False	l' officier a vingt trois ans et écrivent dans un journal tous les jours
+True	le pilote a vingt trois ans et connaît beaucoup de langues étrangères
+False	le pilote a vingt trois ans et connaissent beaucoup de langues étrangères
+True	le pilote a vingt trois ans et aime regarder des émissions de télévision
+False	le pilote a vingt trois ans et aiment regarder des émissions de télévision
+True	le pilote a vingt trois ans et a vingt trois ans
+False	le pilote a vingt trois ans et ont vingt trois ans
+True	le pilote a vingt trois ans et préfère jouer au tennis avec des collègues
+False	le pilote a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	le pilote a vingt trois ans et écrit dans un journal tous les jours
+False	le pilote a vingt trois ans et écrivent dans un journal tous les jours
+True	le consultant a vingt trois ans et connaît beaucoup de langues étrangères
+False	le consultant a vingt trois ans et connaissent beaucoup de langues étrangères
+True	le consultant a vingt trois ans et aime regarder des émissions de télévision
+False	le consultant a vingt trois ans et aiment regarder des émissions de télévision
+True	le consultant a vingt trois ans et a vingt trois ans
+False	le consultant a vingt trois ans et ont vingt trois ans
+True	le consultant a vingt trois ans et préfère jouer au tennis avec des collègues
+False	le consultant a vingt trois ans et préfèrent jouer au tennis avec des collègues
+True	le consultant a vingt trois ans et écrit dans un journal tous les jours
+False	le consultant a vingt trois ans et écrivent dans un journal tous les jours
+True	l' auteur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	l' auteur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	l' auteur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	l' auteur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	l' auteur préfère jouer au tennis avec des collègues et a vingt trois ans
+False	l' auteur préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	l' auteur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	l' auteur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	l' auteur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	l' auteur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	le directeur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	le directeur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	le directeur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	le directeur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	le directeur préfère jouer au tennis avec des collègues et a vingt trois ans
+False	le directeur préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	le directeur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	le directeur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	le directeur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	le directeur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	l' agriculteur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	l' agriculteur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	l' agriculteur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	l' agriculteur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	l' agriculteur préfère jouer au tennis avec des collègues et a vingt trois ans
+False	l' agriculteur préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	l' agriculteur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	l' agriculteur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	l' agriculteur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	l' agriculteur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	le chirurgien préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	le chirurgien préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	le chirurgien préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	le chirurgien préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	le chirurgien préfère jouer au tennis avec des collègues et a vingt trois ans
+False	le chirurgien préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	le chirurgien préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	le chirurgien préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	le chirurgien préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	le chirurgien préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	le sénateur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	le sénateur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	le sénateur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	le sénateur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	le sénateur préfère jouer au tennis avec des collègues et a vingt trois ans
+False	le sénateur préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	le sénateur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	le sénateur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	le sénateur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	le sénateur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	le professeur préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	le professeur préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	le professeur préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	le professeur préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	le professeur préfère jouer au tennis avec des collègues et a vingt trois ans
+False	le professeur préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	le professeur préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	le professeur préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	le professeur préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	le professeur préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	le client préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	le client préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	le client préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	le client préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	le client préfère jouer au tennis avec des collègues et a vingt trois ans
+False	le client préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	le client préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	le client préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	le client préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	le client préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	l' officier préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	l' officier préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	l' officier préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	l' officier préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	l' officier préfère jouer au tennis avec des collègues et a vingt trois ans
+False	l' officier préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	l' officier préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	l' officier préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	l' officier préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	l' officier préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	le pilote préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	le pilote préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	le pilote préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	le pilote préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	le pilote préfère jouer au tennis avec des collègues et a vingt trois ans
+False	le pilote préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	le pilote préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	le pilote préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	le pilote préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	le pilote préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	le consultant préfère jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+False	le consultant préfère jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+True	le consultant préfère jouer au tennis avec des collègues et aime regarder des émissions de télévision
+False	le consultant préfère jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+True	le consultant préfère jouer au tennis avec des collègues et a vingt trois ans
+False	le consultant préfère jouer au tennis avec des collègues et ont vingt trois ans
+True	le consultant préfère jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+False	le consultant préfère jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+True	le consultant préfère jouer au tennis avec des collègues et écrit dans un journal tous les jours
+False	le consultant préfère jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+True	l' auteur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	l' auteur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	l' auteur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	l' auteur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	l' auteur écrit dans un journal tous les jours et a vingt trois ans
+False	l' auteur écrit dans un journal tous les jours et ont vingt trois ans
+True	l' auteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	l' auteur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	l' auteur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	l' auteur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	le directeur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	le directeur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	le directeur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	le directeur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	le directeur écrit dans un journal tous les jours et a vingt trois ans
+False	le directeur écrit dans un journal tous les jours et ont vingt trois ans
+True	le directeur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	le directeur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	le directeur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	le directeur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	l' agriculteur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	l' agriculteur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	l' agriculteur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	l' agriculteur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	l' agriculteur écrit dans un journal tous les jours et a vingt trois ans
+False	l' agriculteur écrit dans un journal tous les jours et ont vingt trois ans
+True	l' agriculteur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	l' agriculteur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	l' agriculteur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	l' agriculteur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	le chirurgien écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	le chirurgien écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	le chirurgien écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	le chirurgien écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	le chirurgien écrit dans un journal tous les jours et a vingt trois ans
+False	le chirurgien écrit dans un journal tous les jours et ont vingt trois ans
+True	le chirurgien écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	le chirurgien écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	le chirurgien écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	le chirurgien écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	le sénateur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	le sénateur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	le sénateur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	le sénateur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	le sénateur écrit dans un journal tous les jours et a vingt trois ans
+False	le sénateur écrit dans un journal tous les jours et ont vingt trois ans
+True	le sénateur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	le sénateur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	le sénateur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	le sénateur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	le professeur écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	le professeur écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	le professeur écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	le professeur écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	le professeur écrit dans un journal tous les jours et a vingt trois ans
+False	le professeur écrit dans un journal tous les jours et ont vingt trois ans
+True	le professeur écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	le professeur écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	le professeur écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	le professeur écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	le client écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	le client écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	le client écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	le client écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	le client écrit dans un journal tous les jours et a vingt trois ans
+False	le client écrit dans un journal tous les jours et ont vingt trois ans
+True	le client écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	le client écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	le client écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	le client écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	l' officier écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	l' officier écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	l' officier écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	l' officier écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	l' officier écrit dans un journal tous les jours et a vingt trois ans
+False	l' officier écrit dans un journal tous les jours et ont vingt trois ans
+True	l' officier écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	l' officier écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	l' officier écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	l' officier écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	le pilote écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	le pilote écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	le pilote écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	le pilote écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	le pilote écrit dans un journal tous les jours et a vingt trois ans
+False	le pilote écrit dans un journal tous les jours et ont vingt trois ans
+True	le pilote écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	le pilote écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	le pilote écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	le pilote écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	le consultant écrit dans un journal tous les jours et connaît beaucoup de langues étrangères
+False	le consultant écrit dans un journal tous les jours et connaissent beaucoup de langues étrangères
+True	le consultant écrit dans un journal tous les jours et aime regarder des émissions de télévision
+False	le consultant écrit dans un journal tous les jours et aiment regarder des émissions de télévision
+True	le consultant écrit dans un journal tous les jours et a vingt trois ans
+False	le consultant écrit dans un journal tous les jours et ont vingt trois ans
+True	le consultant écrit dans un journal tous les jours et préfère jouer au tennis avec des collègues
+False	le consultant écrit dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+True	le consultant écrit dans un journal tous les jours et écrit dans un journal tous les jours
+False	le consultant écrit dans un journal tous les jours et écrivent dans un journal tous les jours
+True	les auteurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les auteurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les auteurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les auteurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les auteurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les auteurs connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les auteurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les auteurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les auteurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les auteurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les directeurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les directeurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les directeurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les directeurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les directeurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les directeurs connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les directeurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les directeurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les directeurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les directeurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les agriculteurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les agriculteurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les agriculteurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les agriculteurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les agriculteurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les agriculteurs connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les agriculteurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les agriculteurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les agriculteurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les agriculteurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les chirurgiens connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les chirurgiens connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les chirurgiens connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les chirurgiens connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les chirurgiens connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les chirurgiens connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les chirurgiens connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les chirurgiens connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les chirurgiens connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les chirurgiens connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les sénateurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les sénateurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les sénateurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les sénateurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les sénateurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les sénateurs connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les sénateurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les sénateurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les sénateurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les sénateurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les professeurs connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les professeurs connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les professeurs connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les professeurs connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les professeurs connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les professeurs connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les professeurs connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les professeurs connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les professeurs connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les professeurs connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les clients connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les clients connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les clients connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les clients connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les clients connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les clients connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les clients connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les clients connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les clients connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les clients connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les officiers connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les officiers connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les officiers connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les officiers connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les officiers connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les officiers connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les officiers connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les officiers connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les officiers connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les officiers connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les pilotes connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les pilotes connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les pilotes connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les pilotes connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les pilotes connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les pilotes connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les pilotes connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les pilotes connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les pilotes connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les pilotes connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les consultants connaissent beaucoup de langues étrangères et connaissent beaucoup de langues étrangères
+False	les consultants connaissent beaucoup de langues étrangères et connaît beaucoup de langues étrangères
+True	les consultants connaissent beaucoup de langues étrangères et aiment regarder des émissions de télévision
+False	les consultants connaissent beaucoup de langues étrangères et aime regarder des émissions de télévision
+True	les consultants connaissent beaucoup de langues étrangères et ont vingt trois ans
+False	les consultants connaissent beaucoup de langues étrangères et a vingt trois ans
+True	les consultants connaissent beaucoup de langues étrangères et préfèrent jouer au tennis avec des collègues
+False	les consultants connaissent beaucoup de langues étrangères et préfère jouer au tennis avec des collègues
+True	les consultants connaissent beaucoup de langues étrangères et écrivent dans un journal tous les jours
+False	les consultants connaissent beaucoup de langues étrangères et écrit dans un journal tous les jours
+True	les auteurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les auteurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les auteurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les auteurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les auteurs aiment regarder des émissions de télévision et ont vingt trois ans
+False	les auteurs aiment regarder des émissions de télévision et a vingt trois ans
+True	les auteurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les auteurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les auteurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les auteurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les directeurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les directeurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les directeurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les directeurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les directeurs aiment regarder des émissions de télévision et ont vingt trois ans
+False	les directeurs aiment regarder des émissions de télévision et a vingt trois ans
+True	les directeurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les directeurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les directeurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les directeurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les agriculteurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les agriculteurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les agriculteurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les agriculteurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les agriculteurs aiment regarder des émissions de télévision et ont vingt trois ans
+False	les agriculteurs aiment regarder des émissions de télévision et a vingt trois ans
+True	les agriculteurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les agriculteurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les agriculteurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les agriculteurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les chirurgiens aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les chirurgiens aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les chirurgiens aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les chirurgiens aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les chirurgiens aiment regarder des émissions de télévision et ont vingt trois ans
+False	les chirurgiens aiment regarder des émissions de télévision et a vingt trois ans
+True	les chirurgiens aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les chirurgiens aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les chirurgiens aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les chirurgiens aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les sénateurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les sénateurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les sénateurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les sénateurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les sénateurs aiment regarder des émissions de télévision et ont vingt trois ans
+False	les sénateurs aiment regarder des émissions de télévision et a vingt trois ans
+True	les sénateurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les sénateurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les sénateurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les sénateurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les professeurs aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les professeurs aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les professeurs aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les professeurs aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les professeurs aiment regarder des émissions de télévision et ont vingt trois ans
+False	les professeurs aiment regarder des émissions de télévision et a vingt trois ans
+True	les professeurs aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les professeurs aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les professeurs aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les professeurs aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les clients aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les clients aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les clients aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les clients aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les clients aiment regarder des émissions de télévision et ont vingt trois ans
+False	les clients aiment regarder des émissions de télévision et a vingt trois ans
+True	les clients aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les clients aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les clients aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les clients aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les officiers aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les officiers aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les officiers aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les officiers aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les officiers aiment regarder des émissions de télévision et ont vingt trois ans
+False	les officiers aiment regarder des émissions de télévision et a vingt trois ans
+True	les officiers aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les officiers aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les officiers aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les officiers aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les pilotes aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les pilotes aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les pilotes aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les pilotes aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les pilotes aiment regarder des émissions de télévision et ont vingt trois ans
+False	les pilotes aiment regarder des émissions de télévision et a vingt trois ans
+True	les pilotes aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les pilotes aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les pilotes aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les pilotes aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les consultants aiment regarder des émissions de télévision et connaissent beaucoup de langues étrangères
+False	les consultants aiment regarder des émissions de télévision et connaît beaucoup de langues étrangères
+True	les consultants aiment regarder des émissions de télévision et aiment regarder des émissions de télévision
+False	les consultants aiment regarder des émissions de télévision et aime regarder des émissions de télévision
+True	les consultants aiment regarder des émissions de télévision et ont vingt trois ans
+False	les consultants aiment regarder des émissions de télévision et a vingt trois ans
+True	les consultants aiment regarder des émissions de télévision et préfèrent jouer au tennis avec des collègues
+False	les consultants aiment regarder des émissions de télévision et préfère jouer au tennis avec des collègues
+True	les consultants aiment regarder des émissions de télévision et écrivent dans un journal tous les jours
+False	les consultants aiment regarder des émissions de télévision et écrit dans un journal tous les jours
+True	les auteurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les auteurs ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les auteurs ont vingt trois ans et aiment regarder des émissions de télévision
+False	les auteurs ont vingt trois ans et aime regarder des émissions de télévision
+True	les auteurs ont vingt trois ans et ont vingt trois ans
+False	les auteurs ont vingt trois ans et a vingt trois ans
+True	les auteurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les auteurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les auteurs ont vingt trois ans et écrivent dans un journal tous les jours
+False	les auteurs ont vingt trois ans et écrit dans un journal tous les jours
+True	les directeurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les directeurs ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les directeurs ont vingt trois ans et aiment regarder des émissions de télévision
+False	les directeurs ont vingt trois ans et aime regarder des émissions de télévision
+True	les directeurs ont vingt trois ans et ont vingt trois ans
+False	les directeurs ont vingt trois ans et a vingt trois ans
+True	les directeurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les directeurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les directeurs ont vingt trois ans et écrivent dans un journal tous les jours
+False	les directeurs ont vingt trois ans et écrit dans un journal tous les jours
+True	les agriculteurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les agriculteurs ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les agriculteurs ont vingt trois ans et aiment regarder des émissions de télévision
+False	les agriculteurs ont vingt trois ans et aime regarder des émissions de télévision
+True	les agriculteurs ont vingt trois ans et ont vingt trois ans
+False	les agriculteurs ont vingt trois ans et a vingt trois ans
+True	les agriculteurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les agriculteurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les agriculteurs ont vingt trois ans et écrivent dans un journal tous les jours
+False	les agriculteurs ont vingt trois ans et écrit dans un journal tous les jours
+True	les chirurgiens ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les chirurgiens ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les chirurgiens ont vingt trois ans et aiment regarder des émissions de télévision
+False	les chirurgiens ont vingt trois ans et aime regarder des émissions de télévision
+True	les chirurgiens ont vingt trois ans et ont vingt trois ans
+False	les chirurgiens ont vingt trois ans et a vingt trois ans
+True	les chirurgiens ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les chirurgiens ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les chirurgiens ont vingt trois ans et écrivent dans un journal tous les jours
+False	les chirurgiens ont vingt trois ans et écrit dans un journal tous les jours
+True	les sénateurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les sénateurs ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les sénateurs ont vingt trois ans et aiment regarder des émissions de télévision
+False	les sénateurs ont vingt trois ans et aime regarder des émissions de télévision
+True	les sénateurs ont vingt trois ans et ont vingt trois ans
+False	les sénateurs ont vingt trois ans et a vingt trois ans
+True	les sénateurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les sénateurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les sénateurs ont vingt trois ans et écrivent dans un journal tous les jours
+False	les sénateurs ont vingt trois ans et écrit dans un journal tous les jours
+True	les professeurs ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les professeurs ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les professeurs ont vingt trois ans et aiment regarder des émissions de télévision
+False	les professeurs ont vingt trois ans et aime regarder des émissions de télévision
+True	les professeurs ont vingt trois ans et ont vingt trois ans
+False	les professeurs ont vingt trois ans et a vingt trois ans
+True	les professeurs ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les professeurs ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les professeurs ont vingt trois ans et écrivent dans un journal tous les jours
+False	les professeurs ont vingt trois ans et écrit dans un journal tous les jours
+True	les clients ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les clients ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les clients ont vingt trois ans et aiment regarder des émissions de télévision
+False	les clients ont vingt trois ans et aime regarder des émissions de télévision
+True	les clients ont vingt trois ans et ont vingt trois ans
+False	les clients ont vingt trois ans et a vingt trois ans
+True	les clients ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les clients ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les clients ont vingt trois ans et écrivent dans un journal tous les jours
+False	les clients ont vingt trois ans et écrit dans un journal tous les jours
+True	les officiers ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les officiers ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les officiers ont vingt trois ans et aiment regarder des émissions de télévision
+False	les officiers ont vingt trois ans et aime regarder des émissions de télévision
+True	les officiers ont vingt trois ans et ont vingt trois ans
+False	les officiers ont vingt trois ans et a vingt trois ans
+True	les officiers ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les officiers ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les officiers ont vingt trois ans et écrivent dans un journal tous les jours
+False	les officiers ont vingt trois ans et écrit dans un journal tous les jours
+True	les pilotes ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les pilotes ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les pilotes ont vingt trois ans et aiment regarder des émissions de télévision
+False	les pilotes ont vingt trois ans et aime regarder des émissions de télévision
+True	les pilotes ont vingt trois ans et ont vingt trois ans
+False	les pilotes ont vingt trois ans et a vingt trois ans
+True	les pilotes ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les pilotes ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les pilotes ont vingt trois ans et écrivent dans un journal tous les jours
+False	les pilotes ont vingt trois ans et écrit dans un journal tous les jours
+True	les consultants ont vingt trois ans et connaissent beaucoup de langues étrangères
+False	les consultants ont vingt trois ans et connaît beaucoup de langues étrangères
+True	les consultants ont vingt trois ans et aiment regarder des émissions de télévision
+False	les consultants ont vingt trois ans et aime regarder des émissions de télévision
+True	les consultants ont vingt trois ans et ont vingt trois ans
+False	les consultants ont vingt trois ans et a vingt trois ans
+True	les consultants ont vingt trois ans et préfèrent jouer au tennis avec des collègues
+False	les consultants ont vingt trois ans et préfère jouer au tennis avec des collègues
+True	les consultants ont vingt trois ans et écrivent dans un journal tous les jours
+False	les consultants ont vingt trois ans et écrit dans un journal tous les jours
+True	les auteurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les auteurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les auteurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les auteurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les auteurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les auteurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les auteurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les auteurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les auteurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les auteurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les directeurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les directeurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les directeurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les directeurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les directeurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les directeurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les directeurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les directeurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les directeurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les directeurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les agriculteurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les agriculteurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les agriculteurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les agriculteurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les agriculteurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les agriculteurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les agriculteurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les agriculteurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les agriculteurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les agriculteurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les chirurgiens préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les chirurgiens préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les chirurgiens préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les chirurgiens préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les chirurgiens préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les chirurgiens préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les chirurgiens préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les chirurgiens préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les chirurgiens préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les chirurgiens préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les sénateurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les sénateurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les sénateurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les sénateurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les sénateurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les sénateurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les sénateurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les sénateurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les sénateurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les sénateurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les professeurs préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les professeurs préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les professeurs préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les professeurs préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les professeurs préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les professeurs préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les professeurs préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les professeurs préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les professeurs préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les professeurs préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les clients préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les clients préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les clients préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les clients préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les clients préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les clients préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les clients préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les clients préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les clients préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les clients préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les officiers préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les officiers préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les officiers préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les officiers préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les officiers préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les officiers préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les officiers préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les officiers préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les officiers préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les officiers préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les pilotes préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les pilotes préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les pilotes préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les pilotes préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les pilotes préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les pilotes préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les pilotes préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les pilotes préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les pilotes préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les pilotes préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les consultants préfèrent jouer au tennis avec des collègues et connaissent beaucoup de langues étrangères
+False	les consultants préfèrent jouer au tennis avec des collègues et connaît beaucoup de langues étrangères
+True	les consultants préfèrent jouer au tennis avec des collègues et aiment regarder des émissions de télévision
+False	les consultants préfèrent jouer au tennis avec des collègues et aime regarder des émissions de télévision
+True	les consultants préfèrent jouer au tennis avec des collègues et ont vingt trois ans
+False	les consultants préfèrent jouer au tennis avec des collègues et a vingt trois ans
+True	les consultants préfèrent jouer au tennis avec des collègues et préfèrent jouer au tennis avec des collègues
+False	les consultants préfèrent jouer au tennis avec des collègues et préfère jouer au tennis avec des collègues
+True	les consultants préfèrent jouer au tennis avec des collègues et écrivent dans un journal tous les jours
+False	les consultants préfèrent jouer au tennis avec des collègues et écrit dans un journal tous les jours
+True	les auteurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les auteurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les auteurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les auteurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les auteurs écrivent dans un journal tous les jours et ont vingt trois ans
+False	les auteurs écrivent dans un journal tous les jours et a vingt trois ans
+True	les auteurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les auteurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les auteurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les auteurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les directeurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les directeurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les directeurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les directeurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les directeurs écrivent dans un journal tous les jours et ont vingt trois ans
+False	les directeurs écrivent dans un journal tous les jours et a vingt trois ans
+True	les directeurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les directeurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les directeurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les directeurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les agriculteurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les agriculteurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les agriculteurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les agriculteurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les agriculteurs écrivent dans un journal tous les jours et ont vingt trois ans
+False	les agriculteurs écrivent dans un journal tous les jours et a vingt trois ans
+True	les agriculteurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les agriculteurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les agriculteurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les agriculteurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les chirurgiens écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les chirurgiens écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les chirurgiens écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les chirurgiens écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les chirurgiens écrivent dans un journal tous les jours et ont vingt trois ans
+False	les chirurgiens écrivent dans un journal tous les jours et a vingt trois ans
+True	les chirurgiens écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les chirurgiens écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les chirurgiens écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les chirurgiens écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les sénateurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les sénateurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les sénateurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les sénateurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les sénateurs écrivent dans un journal tous les jours et ont vingt trois ans
+False	les sénateurs écrivent dans un journal tous les jours et a vingt trois ans
+True	les sénateurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les sénateurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les sénateurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les sénateurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les professeurs écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les professeurs écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les professeurs écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les professeurs écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les professeurs écrivent dans un journal tous les jours et ont vingt trois ans
+False	les professeurs écrivent dans un journal tous les jours et a vingt trois ans
+True	les professeurs écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les professeurs écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les professeurs écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les professeurs écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les clients écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les clients écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les clients écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les clients écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les clients écrivent dans un journal tous les jours et ont vingt trois ans
+False	les clients écrivent dans un journal tous les jours et a vingt trois ans
+True	les clients écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les clients écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les clients écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les clients écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les officiers écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les officiers écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les officiers écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les officiers écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les officiers écrivent dans un journal tous les jours et ont vingt trois ans
+False	les officiers écrivent dans un journal tous les jours et a vingt trois ans
+True	les officiers écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les officiers écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les officiers écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les officiers écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les pilotes écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les pilotes écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les pilotes écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les pilotes écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les pilotes écrivent dans un journal tous les jours et ont vingt trois ans
+False	les pilotes écrivent dans un journal tous les jours et a vingt trois ans
+True	les pilotes écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les pilotes écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les pilotes écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les pilotes écrivent dans un journal tous les jours et écrit dans un journal tous les jours
+True	les consultants écrivent dans un journal tous les jours et connaissent beaucoup de langues étrangères
+False	les consultants écrivent dans un journal tous les jours et connaît beaucoup de langues étrangères
+True	les consultants écrivent dans un journal tous les jours et aiment regarder des émissions de télévision
+False	les consultants écrivent dans un journal tous les jours et aime regarder des émissions de télévision
+True	les consultants écrivent dans un journal tous les jours et ont vingt trois ans
+False	les consultants écrivent dans un journal tous les jours et a vingt trois ans
+True	les consultants écrivent dans un journal tous les jours et préfèrent jouer au tennis avec des collègues
+False	les consultants écrivent dans un journal tous les jours et préfère jouer au tennis avec des collègues
+True	les consultants écrivent dans un journal tous les jours et écrivent dans un journal tous les jours
+False	les consultants écrivent dans un journal tous les jours et écrit dans un journal tous les jours

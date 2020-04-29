@@ -1,0 +1,5 @@
+vary: V_intr[]
+
+S[] Det[] N_1[3,s,m,anim] V_intr[3,s]
+S[] Det[] N_1[3,p,m,anim] V_intr[3,p]
+

@@ -1,0 +1,9 @@
+vary: V_1[]
+
+S[] Det[3,p] N_1[3,p,m,anim] que Det[3,p] N_2[3,p,m] V_1[3,p] V_2[3,p]
+S[] Det[3,p] N_1[3,p,m,anim] que NP_2[3,s,m] V_1[3,s] V_2[3,p]
+S[] NP_1[3,s,m,anim] que Det[3,p] N_2[3,p,m] V_1[3,p] V_2[3,s]
+S[] NP_1[3,s,m,anim] que NP_2[3,s,m] V_1[3,s] V_2[3,s]
+
+V_2[3,s] déménage | parle | retourne | est vieux | est petit | est jeune | est grand
+V_2[3,p] déménagent | parlent | retournent | sont vieux | sont petits | sont jeunes | sont grands

@@ -1,0 +1,23 @@
+vary: VP[]
+
+S[] Det[3,p] N_1[3,p,m,anim] Prep[] Det[3,p] N_2[3,p,m] VP[3,p]
+S[] Det[3,p] N_1[3,p,m,anim] Prep[] NP_2[3,s,m,de] VP[3,p]
+S[] Det[3,p] N_1[3,p,m,anim] PP[] NP_2[3,p,m,pa] VP[3,p]
+S[] Det[3,p] N_1[3,p,m,anim] PP[] NP_2[3,s,m,pa] VP[3,p]
+
+S[] NP_1[3,s,m,anim] Prep[] Det[3,p] N_2[3,p,m] VP[3,s]
+S[] NP_1[3,s,m,anim] Prep[] NP_2[3,s,m,de] VP[3,s]
+S[] NP_1[3,s,m,anim] PP[] NP_2[3,p,m,pa] VP[3,s]
+S[] NP_1[3,s,m,anim] PP[] NP_2[3,s,m,pa] VP[3,s]
+
+
+Prep[] devant | derrière
+PP[] près | à côté | en face
+
+NP_2[3,s,m,de] le garde | le ministre | le cadre | l' adjoint | le chauffeur de taxi | le danseur | l' architecte | le chef | le patineur | le parent
+NP_2[3,s,m,pa] du garde | du ministre | du cadre | de l' adjoint | du chauffeur de taxi | du danseur | de l' architecte | du chef | du patineur | du parent
+
+NP_2[3,p,m,pa] des gardes | des ministres | des cadres | des adjoints | des chauffeurs de taxi | des danseurs | des architectes | des chefs | des patineurs | des parents
+
+VP[3,s] est vieux | est jeune | est petit | est grand | déménage | parle | retourne
+VP[3,p] sont vieux | sont jeunes | sont petits | sont grands | déménagent | parlent | retournent

@@ -1,0 +1,280 @@
+True	the author laughs
+False	the author laugh
+True	the author swims
+False	the author swim
+True	the author smiles
+False	the author smile
+True	the author is tall
+False	the author are tall
+True	the author is old
+False	the author are old
+True	the author is young
+False	the author are young
+True	the author is short
+False	the author are short
+True	the pilot laughs
+False	the pilot laugh
+True	the pilot swims
+False	the pilot swim
+True	the pilot smiles
+False	the pilot smile
+True	the pilot is tall
+False	the pilot are tall
+True	the pilot is old
+False	the pilot are old
+True	the pilot is young
+False	the pilot are young
+True	the pilot is short
+False	the pilot are short
+True	the surgeon laughs
+False	the surgeon laugh
+True	the surgeon swims
+False	the surgeon swim
+True	the surgeon smiles
+False	the surgeon smile
+True	the surgeon is tall
+False	the surgeon are tall
+True	the surgeon is old
+False	the surgeon are old
+True	the surgeon is young
+False	the surgeon are young
+True	the surgeon is short
+False	the surgeon are short
+True	the farmer laughs
+False	the farmer laugh
+True	the farmer swims
+False	the farmer swim
+True	the farmer smiles
+False	the farmer smile
+True	the farmer is tall
+False	the farmer are tall
+True	the farmer is old
+False	the farmer are old
+True	the farmer is young
+False	the farmer are young
+True	the farmer is short
+False	the farmer are short
+True	the manager laughs
+False	the manager laugh
+True	the manager swims
+False	the manager swim
+True	the manager smiles
+False	the manager smile
+True	the manager is tall
+False	the manager are tall
+True	the manager is old
+False	the manager are old
+True	the manager is young
+False	the manager are young
+True	the manager is short
+False	the manager are short
+True	the customer laughs
+False	the customer laugh
+True	the customer swims
+False	the customer swim
+True	the customer smiles
+False	the customer smile
+True	the customer is tall
+False	the customer are tall
+True	the customer is old
+False	the customer are old
+True	the customer is young
+False	the customer are young
+True	the customer is short
+False	the customer are short
+True	the officer laughs
+False	the officer laugh
+True	the officer swims
+False	the officer swim
+True	the officer smiles
+False	the officer smile
+True	the officer is tall
+False	the officer are tall
+True	the officer is old
+False	the officer are old
+True	the officer is young
+False	the officer are young
+True	the officer is short
+False	the officer are short
+True	the teacher laughs
+False	the teacher laugh
+True	the teacher swims
+False	the teacher swim
+True	the teacher smiles
+False	the teacher smile
+True	the teacher is tall
+False	the teacher are tall
+True	the teacher is old
+False	the teacher are old
+True	the teacher is young
+False	the teacher are young
+True	the teacher is short
+False	the teacher are short
+True	the senator laughs
+False	the senator laugh
+True	the senator swims
+False	the senator swim
+True	the senator smiles
+False	the senator smile
+True	the senator is tall
+False	the senator are tall
+True	the senator is old
+False	the senator are old
+True	the senator is young
+False	the senator are young
+True	the senator is short
+False	the senator are short
+True	the consultant laughs
+False	the consultant laugh
+True	the consultant swims
+False	the consultant swim
+True	the consultant smiles
+False	the consultant smile
+True	the consultant is tall
+False	the consultant are tall
+True	the consultant is old
+False	the consultant are old
+True	the consultant is young
+False	the consultant are young
+True	the consultant is short
+False	the consultant are short
+True	the authors laugh
+False	the authors laughs
+True	the authors swim
+False	the authors swims
+True	the authors smile
+False	the authors smiles
+True	the authors are tall
+False	the authors is tall
+True	the authors are old
+False	the authors is old
+True	the authors are young
+False	the authors is young
+True	the authors are short
+False	the authors is short
+True	the pilots laugh
+False	the pilots laughs
+True	the pilots swim
+False	the pilots swims
+True	the pilots smile
+False	the pilots smiles
+True	the pilots are tall
+False	the pilots is tall
+True	the pilots are old
+False	the pilots is old
+True	the pilots are young
+False	the pilots is young
+True	the pilots are short
+False	the pilots is short
+True	the surgeons laugh
+False	the surgeons laughs
+True	the surgeons swim
+False	the surgeons swims
+True	the surgeons smile
+False	the surgeons smiles
+True	the surgeons are tall
+False	the surgeons is tall
+True	the surgeons are old
+False	the surgeons is old
+True	the surgeons are young
+False	the surgeons is young
+True	the surgeons are short
+False	the surgeons is short
+True	the farmers laugh
+False	the farmers laughs
+True	the farmers swim
+False	the farmers swims
+True	the farmers smile
+False	the farmers smiles
+True	the farmers are tall
+False	the farmers is tall
+True	the farmers are old
+False	the farmers is old
+True	the farmers are young
+False	the farmers is young
+True	the farmers are short
+False	the farmers is short
+True	the managers laugh
+False	the managers laughs
+True	the managers swim
+False	the managers swims
+True	the managers smile
+False	the managers smiles
+True	the managers are tall
+False	the managers is tall
+True	the managers are old
+False	the managers is old
+True	the managers are young
+False	the managers is young
+True	the managers are short
+False	the managers is short
+True	the customers laugh
+False	the customers laughs
+True	the customers swim
+False	the customers swims
+True	the customers smile
+False	the customers smiles
+True	the customers are tall
+False	the customers is tall
+True	the customers are old
+False	the customers is old
+True	the customers are young
+False	the customers is young
+True	the customers are short
+False	the customers is short
+True	the officers laugh
+False	the officers laughs
+True	the officers swim
+False	the officers swims
+True	the officers smile
+False	the officers smiles
+True	the officers are tall
+False	the officers is tall
+True	the officers are old
+False	the officers is old
+True	the officers are young
+False	the officers is young
+True	the officers are short
+False	the officers is short
+True	the teachers laugh
+False	the teachers laughs
+True	the teachers swim
+False	the teachers swims
+True	the teachers smile
+False	the teachers smiles
+True	the teachers are tall
+False	the teachers is tall
+True	the teachers are old
+False	the teachers is old
+True	the teachers are young
+False	the teachers is young
+True	the teachers are short
+False	the teachers is short
+True	the senators laugh
+False	the senators laughs
+True	the senators swim
+False	the senators swims
+True	the senators smile
+False	the senators smiles
+True	the senators are tall
+False	the senators is tall
+True	the senators are old
+False	the senators is old
+True	the senators are young
+False	the senators is young
+True	the senators are short
+False	the senators is short
+True	the consultants laugh
+False	the consultants laughs
+True	the consultants swim
+False	the consultants swims
+True	the consultants smile
+False	the consultants smiles
+True	the consultants are tall
+False	the consultants is tall
+True	the consultants are old
+False	the consultants is old
+True	the consultants are young
+False	the consultants is young
+True	the consultants are short
+False	the consultants is short

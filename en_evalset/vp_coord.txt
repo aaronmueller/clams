@@ -1,0 +1,1680 @@
+True	the authors laugh and swim
+False	the authors laugh and swims
+True	the authors laugh and smile
+False	the authors laugh and smiles
+True	the authors laugh and are tall
+False	the authors laugh and is tall
+True	the authors laugh and are old
+False	the authors laugh and is old
+True	the authors laugh and are young
+False	the authors laugh and is young
+True	the authors laugh and are short
+False	the authors laugh and is short
+True	the authors swim and laugh
+False	the authors swim and laughs
+True	the authors swim and smile
+False	the authors swim and smiles
+True	the authors swim and are tall
+False	the authors swim and is tall
+True	the authors swim and are old
+False	the authors swim and is old
+True	the authors swim and are young
+False	the authors swim and is young
+True	the authors swim and are short
+False	the authors swim and is short
+True	the authors smile and laugh
+False	the authors smile and laughs
+True	the authors smile and swim
+False	the authors smile and swims
+True	the authors smile and are tall
+False	the authors smile and is tall
+True	the authors smile and are old
+False	the authors smile and is old
+True	the authors smile and are young
+False	the authors smile and is young
+True	the authors smile and are short
+False	the authors smile and is short
+True	the authors are tall and laugh
+False	the authors are tall and laughs
+True	the authors are tall and swim
+False	the authors are tall and swims
+True	the authors are tall and smile
+False	the authors are tall and smiles
+True	the authors are tall and are old
+False	the authors are tall and is old
+True	the authors are tall and are young
+False	the authors are tall and is young
+True	the authors are tall and are short
+False	the authors are tall and is short
+True	the authors are old and laugh
+False	the authors are old and laughs
+True	the authors are old and swim
+False	the authors are old and swims
+True	the authors are old and smile
+False	the authors are old and smiles
+True	the authors are old and are tall
+False	the authors are old and is tall
+True	the authors are old and are young
+False	the authors are old and is young
+True	the authors are old and are short
+False	the authors are old and is short
+True	the authors are young and laugh
+False	the authors are young and laughs
+True	the authors are young and swim
+False	the authors are young and swims
+True	the authors are young and smile
+False	the authors are young and smiles
+True	the authors are young and are tall
+False	the authors are young and is tall
+True	the authors are young and are old
+False	the authors are young and is old
+True	the authors are young and are short
+False	the authors are young and is short
+True	the authors are short and laugh
+False	the authors are short and laughs
+True	the authors are short and swim
+False	the authors are short and swims
+True	the authors are short and smile
+False	the authors are short and smiles
+True	the authors are short and are tall
+False	the authors are short and is tall
+True	the authors are short and are old
+False	the authors are short and is old
+True	the authors are short and are young
+False	the authors are short and is young
+True	the pilots laugh and swim
+False	the pilots laugh and swims
+True	the pilots laugh and smile
+False	the pilots laugh and smiles
+True	the pilots laugh and are tall
+False	the pilots laugh and is tall
+True	the pilots laugh and are old
+False	the pilots laugh and is old
+True	the pilots laugh and are young
+False	the pilots laugh and is young
+True	the pilots laugh and are short
+False	the pilots laugh and is short
+True	the pilots swim and laugh
+False	the pilots swim and laughs
+True	the pilots swim and smile
+False	the pilots swim and smiles
+True	the pilots swim and are tall
+False	the pilots swim and is tall
+True	the pilots swim and are old
+False	the pilots swim and is old
+True	the pilots swim and are young
+False	the pilots swim and is young
+True	the pilots swim and are short
+False	the pilots swim and is short
+True	the pilots smile and laugh
+False	the pilots smile and laughs
+True	the pilots smile and swim
+False	the pilots smile and swims
+True	the pilots smile and are tall
+False	the pilots smile and is tall
+True	the pilots smile and are old
+False	the pilots smile and is old
+True	the pilots smile and are young
+False	the pilots smile and is young
+True	the pilots smile and are short
+False	the pilots smile and is short
+True	the pilots are tall and laugh
+False	the pilots are tall and laughs
+True	the pilots are tall and swim
+False	the pilots are tall and swims
+True	the pilots are tall and smile
+False	the pilots are tall and smiles
+True	the pilots are tall and are old
+False	the pilots are tall and is old
+True	the pilots are tall and are young
+False	the pilots are tall and is young
+True	the pilots are tall and are short
+False	the pilots are tall and is short
+True	the pilots are old and laugh
+False	the pilots are old and laughs
+True	the pilots are old and swim
+False	the pilots are old and swims
+True	the pilots are old and smile
+False	the pilots are old and smiles
+True	the pilots are old and are tall
+False	the pilots are old and is tall
+True	the pilots are old and are young
+False	the pilots are old and is young
+True	the pilots are old and are short
+False	the pilots are old and is short
+True	the pilots are young and laugh
+False	the pilots are young and laughs
+True	the pilots are young and swim
+False	the pilots are young and swims
+True	the pilots are young and smile
+False	the pilots are young and smiles
+True	the pilots are young and are tall
+False	the pilots are young and is tall
+True	the pilots are young and are old
+False	the pilots are young and is old
+True	the pilots are young and are short
+False	the pilots are young and is short
+True	the pilots are short and laugh
+False	the pilots are short and laughs
+True	the pilots are short and swim
+False	the pilots are short and swims
+True	the pilots are short and smile
+False	the pilots are short and smiles
+True	the pilots are short and are tall
+False	the pilots are short and is tall
+True	the pilots are short and are old
+False	the pilots are short and is old
+True	the pilots are short and are young
+False	the pilots are short and is young
+True	the surgeons laugh and swim
+False	the surgeons laugh and swims
+True	the surgeons laugh and smile
+False	the surgeons laugh and smiles
+True	the surgeons laugh and are tall
+False	the surgeons laugh and is tall
+True	the surgeons laugh and are old
+False	the surgeons laugh and is old
+True	the surgeons laugh and are young
+False	the surgeons laugh and is young
+True	the surgeons laugh and are short
+False	the surgeons laugh and is short
+True	the surgeons swim and laugh
+False	the surgeons swim and laughs
+True	the surgeons swim and smile
+False	the surgeons swim and smiles
+True	the surgeons swim and are tall
+False	the surgeons swim and is tall
+True	the surgeons swim and are old
+False	the surgeons swim and is old
+True	the surgeons swim and are young
+False	the surgeons swim and is young
+True	the surgeons swim and are short
+False	the surgeons swim and is short
+True	the surgeons smile and laugh
+False	the surgeons smile and laughs
+True	the surgeons smile and swim
+False	the surgeons smile and swims
+True	the surgeons smile and are tall
+False	the surgeons smile and is tall
+True	the surgeons smile and are old
+False	the surgeons smile and is old
+True	the surgeons smile and are young
+False	the surgeons smile and is young
+True	the surgeons smile and are short
+False	the surgeons smile and is short
+True	the surgeons are tall and laugh
+False	the surgeons are tall and laughs
+True	the surgeons are tall and swim
+False	the surgeons are tall and swims
+True	the surgeons are tall and smile
+False	the surgeons are tall and smiles
+True	the surgeons are tall and are old
+False	the surgeons are tall and is old
+True	the surgeons are tall and are young
+False	the surgeons are tall and is young
+True	the surgeons are tall and are short
+False	the surgeons are tall and is short
+True	the surgeons are old and laugh
+False	the surgeons are old and laughs
+True	the surgeons are old and swim
+False	the surgeons are old and swims
+True	the surgeons are old and smile
+False	the surgeons are old and smiles
+True	the surgeons are old and are tall
+False	the surgeons are old and is tall
+True	the surgeons are old and are young
+False	the surgeons are old and is young
+True	the surgeons are old and are short
+False	the surgeons are old and is short
+True	the surgeons are young and laugh
+False	the surgeons are young and laughs
+True	the surgeons are young and swim
+False	the surgeons are young and swims
+True	the surgeons are young and smile
+False	the surgeons are young and smiles
+True	the surgeons are young and are tall
+False	the surgeons are young and is tall
+True	the surgeons are young and are old
+False	the surgeons are young and is old
+True	the surgeons are young and are short
+False	the surgeons are young and is short
+True	the surgeons are short and laugh
+False	the surgeons are short and laughs
+True	the surgeons are short and swim
+False	the surgeons are short and swims
+True	the surgeons are short and smile
+False	the surgeons are short and smiles
+True	the surgeons are short and are tall
+False	the surgeons are short and is tall
+True	the surgeons are short and are old
+False	the surgeons are short and is old
+True	the surgeons are short and are young
+False	the surgeons are short and is young
+True	the farmers laugh and swim
+False	the farmers laugh and swims
+True	the farmers laugh and smile
+False	the farmers laugh and smiles
+True	the farmers laugh and are tall
+False	the farmers laugh and is tall
+True	the farmers laugh and are old
+False	the farmers laugh and is old
+True	the farmers laugh and are young
+False	the farmers laugh and is young
+True	the farmers laugh and are short
+False	the farmers laugh and is short
+True	the farmers swim and laugh
+False	the farmers swim and laughs
+True	the farmers swim and smile
+False	the farmers swim and smiles
+True	the farmers swim and are tall
+False	the farmers swim and is tall
+True	the farmers swim and are old
+False	the farmers swim and is old
+True	the farmers swim and are young
+False	the farmers swim and is young
+True	the farmers swim and are short
+False	the farmers swim and is short
+True	the farmers smile and laugh
+False	the farmers smile and laughs
+True	the farmers smile and swim
+False	the farmers smile and swims
+True	the farmers smile and are tall
+False	the farmers smile and is tall
+True	the farmers smile and are old
+False	the farmers smile and is old
+True	the farmers smile and are young
+False	the farmers smile and is young
+True	the farmers smile and are short
+False	the farmers smile and is short
+True	the farmers are tall and laugh
+False	the farmers are tall and laughs
+True	the farmers are tall and swim
+False	the farmers are tall and swims
+True	the farmers are tall and smile
+False	the farmers are tall and smiles
+True	the farmers are tall and are old
+False	the farmers are tall and is old
+True	the farmers are tall and are young
+False	the farmers are tall and is young
+True	the farmers are tall and are short
+False	the farmers are tall and is short
+True	the farmers are old and laugh
+False	the farmers are old and laughs
+True	the farmers are old and swim
+False	the farmers are old and swims
+True	the farmers are old and smile
+False	the farmers are old and smiles
+True	the farmers are old and are tall
+False	the farmers are old and is tall
+True	the farmers are old and are young
+False	the farmers are old and is young
+True	the farmers are old and are short
+False	the farmers are old and is short
+True	the farmers are young and laugh
+False	the farmers are young and laughs
+True	the farmers are young and swim
+False	the farmers are young and swims
+True	the farmers are young and smile
+False	the farmers are young and smiles
+True	the farmers are young and are tall
+False	the farmers are young and is tall
+True	the farmers are young and are old
+False	the farmers are young and is old
+True	the farmers are young and are short
+False	the farmers are young and is short
+True	the farmers are short and laugh
+False	the farmers are short and laughs
+True	the farmers are short and swim
+False	the farmers are short and swims
+True	the farmers are short and smile
+False	the farmers are short and smiles
+True	the farmers are short and are tall
+False	the farmers are short and is tall
+True	the farmers are short and are old
+False	the farmers are short and is old
+True	the farmers are short and are young
+False	the farmers are short and is young
+True	the managers laugh and swim
+False	the managers laugh and swims
+True	the managers laugh and smile
+False	the managers laugh and smiles
+True	the managers laugh and are tall
+False	the managers laugh and is tall
+True	the managers laugh and are old
+False	the managers laugh and is old
+True	the managers laugh and are young
+False	the managers laugh and is young
+True	the managers laugh and are short
+False	the managers laugh and is short
+True	the managers swim and laugh
+False	the managers swim and laughs
+True	the managers swim and smile
+False	the managers swim and smiles
+True	the managers swim and are tall
+False	the managers swim and is tall
+True	the managers swim and are old
+False	the managers swim and is old
+True	the managers swim and are young
+False	the managers swim and is young
+True	the managers swim and are short
+False	the managers swim and is short
+True	the managers smile and laugh
+False	the managers smile and laughs
+True	the managers smile and swim
+False	the managers smile and swims
+True	the managers smile and are tall
+False	the managers smile and is tall
+True	the managers smile and are old
+False	the managers smile and is old
+True	the managers smile and are young
+False	the managers smile and is young
+True	the managers smile and are short
+False	the managers smile and is short
+True	the managers are tall and laugh
+False	the managers are tall and laughs
+True	the managers are tall and swim
+False	the managers are tall and swims
+True	the managers are tall and smile
+False	the managers are tall and smiles
+True	the managers are tall and are old
+False	the managers are tall and is old
+True	the managers are tall and are young
+False	the managers are tall and is young
+True	the managers are tall and are short
+False	the managers are tall and is short
+True	the managers are old and laugh
+False	the managers are old and laughs
+True	the managers are old and swim
+False	the managers are old and swims
+True	the managers are old and smile
+False	the managers are old and smiles
+True	the managers are old and are tall
+False	the managers are old and is tall
+True	the managers are old and are young
+False	the managers are old and is young
+True	the managers are old and are short
+False	the managers are old and is short
+True	the managers are young and laugh
+False	the managers are young and laughs
+True	the managers are young and swim
+False	the managers are young and swims
+True	the managers are young and smile
+False	the managers are young and smiles
+True	the managers are young and are tall
+False	the managers are young and is tall
+True	the managers are young and are old
+False	the managers are young and is old
+True	the managers are young and are short
+False	the managers are young and is short
+True	the managers are short and laugh
+False	the managers are short and laughs
+True	the managers are short and swim
+False	the managers are short and swims
+True	the managers are short and smile
+False	the managers are short and smiles
+True	the managers are short and are tall
+False	the managers are short and is tall
+True	the managers are short and are old
+False	the managers are short and is old
+True	the managers are short and are young
+False	the managers are short and is young
+True	the customers laugh and swim
+False	the customers laugh and swims
+True	the customers laugh and smile
+False	the customers laugh and smiles
+True	the customers laugh and are tall
+False	the customers laugh and is tall
+True	the customers laugh and are old
+False	the customers laugh and is old
+True	the customers laugh and are young
+False	the customers laugh and is young
+True	the customers laugh and are short
+False	the customers laugh and is short
+True	the customers swim and laugh
+False	the customers swim and laughs
+True	the customers swim and smile
+False	the customers swim and smiles
+True	the customers swim and are tall
+False	the customers swim and is tall
+True	the customers swim and are old
+False	the customers swim and is old
+True	the customers swim and are young
+False	the customers swim and is young
+True	the customers swim and are short
+False	the customers swim and is short
+True	the customers smile and laugh
+False	the customers smile and laughs
+True	the customers smile and swim
+False	the customers smile and swims
+True	the customers smile and are tall
+False	the customers smile and is tall
+True	the customers smile and are old
+False	the customers smile and is old
+True	the customers smile and are young
+False	the customers smile and is young
+True	the customers smile and are short
+False	the customers smile and is short
+True	the customers are tall and laugh
+False	the customers are tall and laughs
+True	the customers are tall and swim
+False	the customers are tall and swims
+True	the customers are tall and smile
+False	the customers are tall and smiles
+True	the customers are tall and are old
+False	the customers are tall and is old
+True	the customers are tall and are young
+False	the customers are tall and is young
+True	the customers are tall and are short
+False	the customers are tall and is short
+True	the customers are old and laugh
+False	the customers are old and laughs
+True	the customers are old and swim
+False	the customers are old and swims
+True	the customers are old and smile
+False	the customers are old and smiles
+True	the customers are old and are tall
+False	the customers are old and is tall
+True	the customers are old and are young
+False	the customers are old and is young
+True	the customers are old and are short
+False	the customers are old and is short
+True	the customers are young and laugh
+False	the customers are young and laughs
+True	the customers are young and swim
+False	the customers are young and swims
+True	the customers are young and smile
+False	the customers are young and smiles
+True	the customers are young and are tall
+False	the customers are young and is tall
+True	the customers are young and are old
+False	the customers are young and is old
+True	the customers are young and are short
+False	the customers are young and is short
+True	the customers are short and laugh
+False	the customers are short and laughs
+True	the customers are short and swim
+False	the customers are short and swims
+True	the customers are short and smile
+False	the customers are short and smiles
+True	the customers are short and are tall
+False	the customers are short and is tall
+True	the customers are short and are old
+False	the customers are short and is old
+True	the customers are short and are young
+False	the customers are short and is young
+True	the officers laugh and swim
+False	the officers laugh and swims
+True	the officers laugh and smile
+False	the officers laugh and smiles
+True	the officers laugh and are tall
+False	the officers laugh and is tall
+True	the officers laugh and are old
+False	the officers laugh and is old
+True	the officers laugh and are young
+False	the officers laugh and is young
+True	the officers laugh and are short
+False	the officers laugh and is short
+True	the officers swim and laugh
+False	the officers swim and laughs
+True	the officers swim and smile
+False	the officers swim and smiles
+True	the officers swim and are tall
+False	the officers swim and is tall
+True	the officers swim and are old
+False	the officers swim and is old
+True	the officers swim and are young
+False	the officers swim and is young
+True	the officers swim and are short
+False	the officers swim and is short
+True	the officers smile and laugh
+False	the officers smile and laughs
+True	the officers smile and swim
+False	the officers smile and swims
+True	the officers smile and are tall
+False	the officers smile and is tall
+True	the officers smile and are old
+False	the officers smile and is old
+True	the officers smile and are young
+False	the officers smile and is young
+True	the officers smile and are short
+False	the officers smile and is short
+True	the officers are tall and laugh
+False	the officers are tall and laughs
+True	the officers are tall and swim
+False	the officers are tall and swims
+True	the officers are tall and smile
+False	the officers are tall and smiles
+True	the officers are tall and are old
+False	the officers are tall and is old
+True	the officers are tall and are young
+False	the officers are tall and is young
+True	the officers are tall and are short
+False	the officers are tall and is short
+True	the officers are old and laugh
+False	the officers are old and laughs
+True	the officers are old and swim
+False	the officers are old and swims
+True	the officers are old and smile
+False	the officers are old and smiles
+True	the officers are old and are tall
+False	the officers are old and is tall
+True	the officers are old and are young
+False	the officers are old and is young
+True	the officers are old and are short
+False	the officers are old and is short
+True	the officers are young and laugh
+False	the officers are young and laughs
+True	the officers are young and swim
+False	the officers are young and swims
+True	the officers are young and smile
+False	the officers are young and smiles
+True	the officers are young and are tall
+False	the officers are young and is tall
+True	the officers are young and are old
+False	the officers are young and is old
+True	the officers are young and are short
+False	the officers are young and is short
+True	the officers are short and laugh
+False	the officers are short and laughs
+True	the officers are short and swim
+False	the officers are short and swims
+True	the officers are short and smile
+False	the officers are short and smiles
+True	the officers are short and are tall
+False	the officers are short and is tall
+True	the officers are short and are old
+False	the officers are short and is old
+True	the officers are short and are young
+False	the officers are short and is young
+True	the teachers laugh and swim
+False	the teachers laugh and swims
+True	the teachers laugh and smile
+False	the teachers laugh and smiles
+True	the teachers laugh and are tall
+False	the teachers laugh and is tall
+True	the teachers laugh and are old
+False	the teachers laugh and is old
+True	the teachers laugh and are young
+False	the teachers laugh and is young
+True	the teachers laugh and are short
+False	the teachers laugh and is short
+True	the teachers swim and laugh
+False	the teachers swim and laughs
+True	the teachers swim and smile
+False	the teachers swim and smiles
+True	the teachers swim and are tall
+False	the teachers swim and is tall
+True	the teachers swim and are old
+False	the teachers swim and is old
+True	the teachers swim and are young
+False	the teachers swim and is young
+True	the teachers swim and are short
+False	the teachers swim and is short
+True	the teachers smile and laugh
+False	the teachers smile and laughs
+True	the teachers smile and swim
+False	the teachers smile and swims
+True	the teachers smile and are tall
+False	the teachers smile and is tall
+True	the teachers smile and are old
+False	the teachers smile and is old
+True	the teachers smile and are young
+False	the teachers smile and is young
+True	the teachers smile and are short
+False	the teachers smile and is short
+True	the teachers are tall and laugh
+False	the teachers are tall and laughs
+True	the teachers are tall and swim
+False	the teachers are tall and swims
+True	the teachers are tall and smile
+False	the teachers are tall and smiles
+True	the teachers are tall and are old
+False	the teachers are tall and is old
+True	the teachers are tall and are young
+False	the teachers are tall and is young
+True	the teachers are tall and are short
+False	the teachers are tall and is short
+True	the teachers are old and laugh
+False	the teachers are old and laughs
+True	the teachers are old and swim
+False	the teachers are old and swims
+True	the teachers are old and smile
+False	the teachers are old and smiles
+True	the teachers are old and are tall
+False	the teachers are old and is tall
+True	the teachers are old and are young
+False	the teachers are old and is young
+True	the teachers are old and are short
+False	the teachers are old and is short
+True	the teachers are young and laugh
+False	the teachers are young and laughs
+True	the teachers are young and swim
+False	the teachers are young and swims
+True	the teachers are young and smile
+False	the teachers are young and smiles
+True	the teachers are young and are tall
+False	the teachers are young and is tall
+True	the teachers are young and are old
+False	the teachers are young and is old
+True	the teachers are young and are short
+False	the teachers are young and is short
+True	the teachers are short and laugh
+False	the teachers are short and laughs
+True	the teachers are short and swim
+False	the teachers are short and swims
+True	the teachers are short and smile
+False	the teachers are short and smiles
+True	the teachers are short and are tall
+False	the teachers are short and is tall
+True	the teachers are short and are old
+False	the teachers are short and is old
+True	the teachers are short and are young
+False	the teachers are short and is young
+True	the senators laugh and swim
+False	the senators laugh and swims
+True	the senators laugh and smile
+False	the senators laugh and smiles
+True	the senators laugh and are tall
+False	the senators laugh and is tall
+True	the senators laugh and are old
+False	the senators laugh and is old
+True	the senators laugh and are young
+False	the senators laugh and is young
+True	the senators laugh and are short
+False	the senators laugh and is short
+True	the senators swim and laugh
+False	the senators swim and laughs
+True	the senators swim and smile
+False	the senators swim and smiles
+True	the senators swim and are tall
+False	the senators swim and is tall
+True	the senators swim and are old
+False	the senators swim and is old
+True	the senators swim and are young
+False	the senators swim and is young
+True	the senators swim and are short
+False	the senators swim and is short
+True	the senators smile and laugh
+False	the senators smile and laughs
+True	the senators smile and swim
+False	the senators smile and swims
+True	the senators smile and are tall
+False	the senators smile and is tall
+True	the senators smile and are old
+False	the senators smile and is old
+True	the senators smile and are young
+False	the senators smile and is young
+True	the senators smile and are short
+False	the senators smile and is short
+True	the senators are tall and laugh
+False	the senators are tall and laughs
+True	the senators are tall and swim
+False	the senators are tall and swims
+True	the senators are tall and smile
+False	the senators are tall and smiles
+True	the senators are tall and are old
+False	the senators are tall and is old
+True	the senators are tall and are young
+False	the senators are tall and is young
+True	the senators are tall and are short
+False	the senators are tall and is short
+True	the senators are old and laugh
+False	the senators are old and laughs
+True	the senators are old and swim
+False	the senators are old and swims
+True	the senators are old and smile
+False	the senators are old and smiles
+True	the senators are old and are tall
+False	the senators are old and is tall
+True	the senators are old and are young
+False	the senators are old and is young
+True	the senators are old and are short
+False	the senators are old and is short
+True	the senators are young and laugh
+False	the senators are young and laughs
+True	the senators are young and swim
+False	the senators are young and swims
+True	the senators are young and smile
+False	the senators are young and smiles
+True	the senators are young and are tall
+False	the senators are young and is tall
+True	the senators are young and are old
+False	the senators are young and is old
+True	the senators are young and are short
+False	the senators are young and is short
+True	the senators are short and laugh
+False	the senators are short and laughs
+True	the senators are short and swim
+False	the senators are short and swims
+True	the senators are short and smile
+False	the senators are short and smiles
+True	the senators are short and are tall
+False	the senators are short and is tall
+True	the senators are short and are old
+False	the senators are short and is old
+True	the senators are short and are young
+False	the senators are short and is young
+True	the consultants laugh and swim
+False	the consultants laugh and swims
+True	the consultants laugh and smile
+False	the consultants laugh and smiles
+True	the consultants laugh and are tall
+False	the consultants laugh and is tall
+True	the consultants laugh and are old
+False	the consultants laugh and is old
+True	the consultants laugh and are young
+False	the consultants laugh and is young
+True	the consultants laugh and are short
+False	the consultants laugh and is short
+True	the consultants swim and laugh
+False	the consultants swim and laughs
+True	the consultants swim and smile
+False	the consultants swim and smiles
+True	the consultants swim and are tall
+False	the consultants swim and is tall
+True	the consultants swim and are old
+False	the consultants swim and is old
+True	the consultants swim and are young
+False	the consultants swim and is young
+True	the consultants swim and are short
+False	the consultants swim and is short
+True	the consultants smile and laugh
+False	the consultants smile and laughs
+True	the consultants smile and swim
+False	the consultants smile and swims
+True	the consultants smile and are tall
+False	the consultants smile and is tall
+True	the consultants smile and are old
+False	the consultants smile and is old
+True	the consultants smile and are young
+False	the consultants smile and is young
+True	the consultants smile and are short
+False	the consultants smile and is short
+True	the consultants are tall and laugh
+False	the consultants are tall and laughs
+True	the consultants are tall and swim
+False	the consultants are tall and swims
+True	the consultants are tall and smile
+False	the consultants are tall and smiles
+True	the consultants are tall and are old
+False	the consultants are tall and is old
+True	the consultants are tall and are young
+False	the consultants are tall and is young
+True	the consultants are tall and are short
+False	the consultants are tall and is short
+True	the consultants are old and laugh
+False	the consultants are old and laughs
+True	the consultants are old and swim
+False	the consultants are old and swims
+True	the consultants are old and smile
+False	the consultants are old and smiles
+True	the consultants are old and are tall
+False	the consultants are old and is tall
+True	the consultants are old and are young
+False	the consultants are old and is young
+True	the consultants are old and are short
+False	the consultants are old and is short
+True	the consultants are young and laugh
+False	the consultants are young and laughs
+True	the consultants are young and swim
+False	the consultants are young and swims
+True	the consultants are young and smile
+False	the consultants are young and smiles
+True	the consultants are young and are tall
+False	the consultants are young and is tall
+True	the consultants are young and are old
+False	the consultants are young and is old
+True	the consultants are young and are short
+False	the consultants are young and is short
+True	the consultants are short and laugh
+False	the consultants are short and laughs
+True	the consultants are short and swim
+False	the consultants are short and swims
+True	the consultants are short and smile
+False	the consultants are short and smiles
+True	the consultants are short and are tall
+False	the consultants are short and is tall
+True	the consultants are short and are old
+False	the consultants are short and is old
+True	the consultants are short and are young
+False	the consultants are short and is young
+True	the author laughs and swims
+False	the author laughs and swim
+True	the author laughs and smiles
+False	the author laughs and smile
+True	the author laughs and is tall
+False	the author laughs and are tall
+True	the author laughs and is old
+False	the author laughs and are old
+True	the author laughs and is young
+False	the author laughs and are young
+True	the author laughs and is short
+False	the author laughs and are short
+True	the author swims and laughs
+False	the author swims and laugh
+True	the author swims and smiles
+False	the author swims and smile
+True	the author swims and is tall
+False	the author swims and are tall
+True	the author swims and is old
+False	the author swims and are old
+True	the author swims and is young
+False	the author swims and are young
+True	the author swims and is short
+False	the author swims and are short
+True	the author smiles and laughs
+False	the author smiles and laugh
+True	the author smiles and swims
+False	the author smiles and swim
+True	the author smiles and is tall
+False	the author smiles and are tall
+True	the author smiles and is old
+False	the author smiles and are old
+True	the author smiles and is young
+False	the author smiles and are young
+True	the author smiles and is short
+False	the author smiles and are short
+True	the author is tall and laughs
+False	the author is tall and laugh
+True	the author is tall and swims
+False	the author is tall and swim
+True	the author is tall and smiles
+False	the author is tall and smile
+True	the author is tall and is old
+False	the author is tall and are old
+True	the author is tall and is young
+False	the author is tall and are young
+True	the author is tall and is short
+False	the author is tall and are short
+True	the author is old and laughs
+False	the author is old and laugh
+True	the author is old and swims
+False	the author is old and swim
+True	the author is old and smiles
+False	the author is old and smile
+True	the author is old and is tall
+False	the author is old and are tall
+True	the author is old and is young
+False	the author is old and are young
+True	the author is old and is short
+False	the author is old and are short
+True	the author is young and laughs
+False	the author is young and laugh
+True	the author is young and swims
+False	the author is young and swim
+True	the author is young and smiles
+False	the author is young and smile
+True	the author is young and is tall
+False	the author is young and are tall
+True	the author is young and is old
+False	the author is young and are old
+True	the author is young and is short
+False	the author is young and are short
+True	the author is short and laughs
+False	the author is short and laugh
+True	the author is short and swims
+False	the author is short and swim
+True	the author is short and smiles
+False	the author is short and smile
+True	the author is short and is tall
+False	the author is short and are tall
+True	the author is short and is old
+False	the author is short and are old
+True	the author is short and is young
+False	the author is short and are young
+True	the pilot laughs and swims
+False	the pilot laughs and swim
+True	the pilot laughs and smiles
+False	the pilot laughs and smile
+True	the pilot laughs and is tall
+False	the pilot laughs and are tall
+True	the pilot laughs and is old
+False	the pilot laughs and are old
+True	the pilot laughs and is young
+False	the pilot laughs and are young
+True	the pilot laughs and is short
+False	the pilot laughs and are short
+True	the pilot swims and laughs
+False	the pilot swims and laugh
+True	the pilot swims and smiles
+False	the pilot swims and smile
+True	the pilot swims and is tall
+False	the pilot swims and are tall
+True	the pilot swims and is old
+False	the pilot swims and are old
+True	the pilot swims and is young
+False	the pilot swims and are young
+True	the pilot swims and is short
+False	the pilot swims and are short
+True	the pilot smiles and laughs
+False	the pilot smiles and laugh
+True	the pilot smiles and swims
+False	the pilot smiles and swim
+True	the pilot smiles and is tall
+False	the pilot smiles and are tall
+True	the pilot smiles and is old
+False	the pilot smiles and are old
+True	the pilot smiles and is young
+False	the pilot smiles and are young
+True	the pilot smiles and is short
+False	the pilot smiles and are short
+True	the pilot is tall and laughs
+False	the pilot is tall and laugh
+True	the pilot is tall and swims
+False	the pilot is tall and swim
+True	the pilot is tall and smiles
+False	the pilot is tall and smile
+True	the pilot is tall and is old
+False	the pilot is tall and are old
+True	the pilot is tall and is young
+False	the pilot is tall and are young
+True	the pilot is tall and is short
+False	the pilot is tall and are short
+True	the pilot is old and laughs
+False	the pilot is old and laugh
+True	the pilot is old and swims
+False	the pilot is old and swim
+True	the pilot is old and smiles
+False	the pilot is old and smile
+True	the pilot is old and is tall
+False	the pilot is old and are tall
+True	the pilot is old and is young
+False	the pilot is old and are young
+True	the pilot is old and is short
+False	the pilot is old and are short
+True	the pilot is young and laughs
+False	the pilot is young and laugh
+True	the pilot is young and swims
+False	the pilot is young and swim
+True	the pilot is young and smiles
+False	the pilot is young and smile
+True	the pilot is young and is tall
+False	the pilot is young and are tall
+True	the pilot is young and is old
+False	the pilot is young and are old
+True	the pilot is young and is short
+False	the pilot is young and are short
+True	the pilot is short and laughs
+False	the pilot is short and laugh
+True	the pilot is short and swims
+False	the pilot is short and swim
+True	the pilot is short and smiles
+False	the pilot is short and smile
+True	the pilot is short and is tall
+False	the pilot is short and are tall
+True	the pilot is short and is old
+False	the pilot is short and are old
+True	the pilot is short and is young
+False	the pilot is short and are young
+True	the surgeon laughs and swims
+False	the surgeon laughs and swim
+True	the surgeon laughs and smiles
+False	the surgeon laughs and smile
+True	the surgeon laughs and is tall
+False	the surgeon laughs and are tall
+True	the surgeon laughs and is old
+False	the surgeon laughs and are old
+True	the surgeon laughs and is young
+False	the surgeon laughs and are young
+True	the surgeon laughs and is short
+False	the surgeon laughs and are short
+True	the surgeon swims and laughs
+False	the surgeon swims and laugh
+True	the surgeon swims and smiles
+False	the surgeon swims and smile
+True	the surgeon swims and is tall
+False	the surgeon swims and are tall
+True	the surgeon swims and is old
+False	the surgeon swims and are old
+True	the surgeon swims and is young
+False	the surgeon swims and are young
+True	the surgeon swims and is short
+False	the surgeon swims and are short
+True	the surgeon smiles and laughs
+False	the surgeon smiles and laugh
+True	the surgeon smiles and swims
+False	the surgeon smiles and swim
+True	the surgeon smiles and is tall
+False	the surgeon smiles and are tall
+True	the surgeon smiles and is old
+False	the surgeon smiles and are old
+True	the surgeon smiles and is young
+False	the surgeon smiles and are young
+True	the surgeon smiles and is short
+False	the surgeon smiles and are short
+True	the surgeon is tall and laughs
+False	the surgeon is tall and laugh
+True	the surgeon is tall and swims
+False	the surgeon is tall and swim
+True	the surgeon is tall and smiles
+False	the surgeon is tall and smile
+True	the surgeon is tall and is old
+False	the surgeon is tall and are old
+True	the surgeon is tall and is young
+False	the surgeon is tall and are young
+True	the surgeon is tall and is short
+False	the surgeon is tall and are short
+True	the surgeon is old and laughs
+False	the surgeon is old and laugh
+True	the surgeon is old and swims
+False	the surgeon is old and swim
+True	the surgeon is old and smiles
+False	the surgeon is old and smile
+True	the surgeon is old and is tall
+False	the surgeon is old and are tall
+True	the surgeon is old and is young
+False	the surgeon is old and are young
+True	the surgeon is old and is short
+False	the surgeon is old and are short
+True	the surgeon is young and laughs
+False	the surgeon is young and laugh
+True	the surgeon is young and swims
+False	the surgeon is young and swim
+True	the surgeon is young and smiles
+False	the surgeon is young and smile
+True	the surgeon is young and is tall
+False	the surgeon is young and are tall
+True	the surgeon is young and is old
+False	the surgeon is young and are old
+True	the surgeon is young and is short
+False	the surgeon is young and are short
+True	the surgeon is short and laughs
+False	the surgeon is short and laugh
+True	the surgeon is short and swims
+False	the surgeon is short and swim
+True	the surgeon is short and smiles
+False	the surgeon is short and smile
+True	the surgeon is short and is tall
+False	the surgeon is short and are tall
+True	the surgeon is short and is old
+False	the surgeon is short and are old
+True	the surgeon is short and is young
+False	the surgeon is short and are young
+True	the farmer laughs and swims
+False	the farmer laughs and swim
+True	the farmer laughs and smiles
+False	the farmer laughs and smile
+True	the farmer laughs and is tall
+False	the farmer laughs and are tall
+True	the farmer laughs and is old
+False	the farmer laughs and are old
+True	the farmer laughs and is young
+False	the farmer laughs and are young
+True	the farmer laughs and is short
+False	the farmer laughs and are short
+True	the farmer swims and laughs
+False	the farmer swims and laugh
+True	the farmer swims and smiles
+False	the farmer swims and smile
+True	the farmer swims and is tall
+False	the farmer swims and are tall
+True	the farmer swims and is old
+False	the farmer swims and are old
+True	the farmer swims and is young
+False	the farmer swims and are young
+True	the farmer swims and is short
+False	the farmer swims and are short
+True	the farmer smiles and laughs
+False	the farmer smiles and laugh
+True	the farmer smiles and swims
+False	the farmer smiles and swim
+True	the farmer smiles and is tall
+False	the farmer smiles and are tall
+True	the farmer smiles and is old
+False	the farmer smiles and are old
+True	the farmer smiles and is young
+False	the farmer smiles and are young
+True	the farmer smiles and is short
+False	the farmer smiles and are short
+True	the farmer is tall and laughs
+False	the farmer is tall and laugh
+True	the farmer is tall and swims
+False	the farmer is tall and swim
+True	the farmer is tall and smiles
+False	the farmer is tall and smile
+True	the farmer is tall and is old
+False	the farmer is tall and are old
+True	the farmer is tall and is young
+False	the farmer is tall and are young
+True	the farmer is tall and is short
+False	the farmer is tall and are short
+True	the farmer is old and laughs
+False	the farmer is old and laugh
+True	the farmer is old and swims
+False	the farmer is old and swim
+True	the farmer is old and smiles
+False	the farmer is old and smile
+True	the farmer is old and is tall
+False	the farmer is old and are tall
+True	the farmer is old and is young
+False	the farmer is old and are young
+True	the farmer is old and is short
+False	the farmer is old and are short
+True	the farmer is young and laughs
+False	the farmer is young and laugh
+True	the farmer is young and swims
+False	the farmer is young and swim
+True	the farmer is young and smiles
+False	the farmer is young and smile
+True	the farmer is young and is tall
+False	the farmer is young and are tall
+True	the farmer is young and is old
+False	the farmer is young and are old
+True	the farmer is young and is short
+False	the farmer is young and are short
+True	the farmer is short and laughs
+False	the farmer is short and laugh
+True	the farmer is short and swims
+False	the farmer is short and swim
+True	the farmer is short and smiles
+False	the farmer is short and smile
+True	the farmer is short and is tall
+False	the farmer is short and are tall
+True	the farmer is short and is old
+False	the farmer is short and are old
+True	the farmer is short and is young
+False	the farmer is short and are young
+True	the manager laughs and swims
+False	the manager laughs and swim
+True	the manager laughs and smiles
+False	the manager laughs and smile
+True	the manager laughs and is tall
+False	the manager laughs and are tall
+True	the manager laughs and is old
+False	the manager laughs and are old
+True	the manager laughs and is young
+False	the manager laughs and are young
+True	the manager laughs and is short
+False	the manager laughs and are short
+True	the manager swims and laughs
+False	the manager swims and laugh
+True	the manager swims and smiles
+False	the manager swims and smile
+True	the manager swims and is tall
+False	the manager swims and are tall
+True	the manager swims and is old
+False	the manager swims and are old
+True	the manager swims and is young
+False	the manager swims and are young
+True	the manager swims and is short
+False	the manager swims and are short
+True	the manager smiles and laughs
+False	the manager smiles and laugh
+True	the manager smiles and swims
+False	the manager smiles and swim
+True	the manager smiles and is tall
+False	the manager smiles and are tall
+True	the manager smiles and is old
+False	the manager smiles and are old
+True	the manager smiles and is young
+False	the manager smiles and are young
+True	the manager smiles and is short
+False	the manager smiles and are short
+True	the manager is tall and laughs
+False	the manager is tall and laugh
+True	the manager is tall and swims
+False	the manager is tall and swim
+True	the manager is tall and smiles
+False	the manager is tall and smile
+True	the manager is tall and is old
+False	the manager is tall and are old
+True	the manager is tall and is young
+False	the manager is tall and are young
+True	the manager is tall and is short
+False	the manager is tall and are short
+True	the manager is old and laughs
+False	the manager is old and laugh
+True	the manager is old and swims
+False	the manager is old and swim
+True	the manager is old and smiles
+False	the manager is old and smile
+True	the manager is old and is tall
+False	the manager is old and are tall
+True	the manager is old and is young
+False	the manager is old and are young
+True	the manager is old and is short
+False	the manager is old and are short
+True	the manager is young and laughs
+False	the manager is young and laugh
+True	the manager is young and swims
+False	the manager is young and swim
+True	the manager is young and smiles
+False	the manager is young and smile
+True	the manager is young and is tall
+False	the manager is young and are tall
+True	the manager is young and is old
+False	the manager is young and are old
+True	the manager is young and is short
+False	the manager is young and are short
+True	the manager is short and laughs
+False	the manager is short and laugh
+True	the manager is short and swims
+False	the manager is short and swim
+True	the manager is short and smiles
+False	the manager is short and smile
+True	the manager is short and is tall
+False	the manager is short and are tall
+True	the manager is short and is old
+False	the manager is short and are old
+True	the manager is short and is young
+False	the manager is short and are young
+True	the customer laughs and swims
+False	the customer laughs and swim
+True	the customer laughs and smiles
+False	the customer laughs and smile
+True	the customer laughs and is tall
+False	the customer laughs and are tall
+True	the customer laughs and is old
+False	the customer laughs and are old
+True	the customer laughs and is young
+False	the customer laughs and are young
+True	the customer laughs and is short
+False	the customer laughs and are short
+True	the customer swims and laughs
+False	the customer swims and laugh
+True	the customer swims and smiles
+False	the customer swims and smile
+True	the customer swims and is tall
+False	the customer swims and are tall
+True	the customer swims and is old
+False	the customer swims and are old
+True	the customer swims and is young
+False	the customer swims and are young
+True	the customer swims and is short
+False	the customer swims and are short
+True	the customer smiles and laughs
+False	the customer smiles and laugh
+True	the customer smiles and swims
+False	the customer smiles and swim
+True	the customer smiles and is tall
+False	the customer smiles and are tall
+True	the customer smiles and is old
+False	the customer smiles and are old
+True	the customer smiles and is young
+False	the customer smiles and are young
+True	the customer smiles and is short
+False	the customer smiles and are short
+True	the customer is tall and laughs
+False	the customer is tall and laugh
+True	the customer is tall and swims
+False	the customer is tall and swim
+True	the customer is tall and smiles
+False	the customer is tall and smile
+True	the customer is tall and is old
+False	the customer is tall and are old
+True	the customer is tall and is young
+False	the customer is tall and are young
+True	the customer is tall and is short
+False	the customer is tall and are short
+True	the customer is old and laughs
+False	the customer is old and laugh
+True	the customer is old and swims
+False	the customer is old and swim
+True	the customer is old and smiles
+False	the customer is old and smile
+True	the customer is old and is tall
+False	the customer is old and are tall
+True	the customer is old and is young
+False	the customer is old and are young
+True	the customer is old and is short
+False	the customer is old and are short
+True	the customer is young and laughs
+False	the customer is young and laugh
+True	the customer is young and swims
+False	the customer is young and swim
+True	the customer is young and smiles
+False	the customer is young and smile
+True	the customer is young and is tall
+False	the customer is young and are tall
+True	the customer is young and is old
+False	the customer is young and are old
+True	the customer is young and is short
+False	the customer is young and are short
+True	the customer is short and laughs
+False	the customer is short and laugh
+True	the customer is short and swims
+False	the customer is short and swim
+True	the customer is short and smiles
+False	the customer is short and smile
+True	the customer is short and is tall
+False	the customer is short and are tall
+True	the customer is short and is old
+False	the customer is short and are old
+True	the customer is short and is young
+False	the customer is short and are young
+True	the officer laughs and swims
+False	the officer laughs and swim
+True	the officer laughs and smiles
+False	the officer laughs and smile
+True	the officer laughs and is tall
+False	the officer laughs and are tall
+True	the officer laughs and is old
+False	the officer laughs and are old
+True	the officer laughs and is young
+False	the officer laughs and are young
+True	the officer laughs and is short
+False	the officer laughs and are short
+True	the officer swims and laughs
+False	the officer swims and laugh
+True	the officer swims and smiles
+False	the officer swims and smile
+True	the officer swims and is tall
+False	the officer swims and are tall
+True	the officer swims and is old
+False	the officer swims and are old
+True	the officer swims and is young
+False	the officer swims and are young
+True	the officer swims and is short
+False	the officer swims and are short
+True	the officer smiles and laughs
+False	the officer smiles and laugh
+True	the officer smiles and swims
+False	the officer smiles and swim
+True	the officer smiles and is tall
+False	the officer smiles and are tall
+True	the officer smiles and is old
+False	the officer smiles and are old
+True	the officer smiles and is young
+False	the officer smiles and are young
+True	the officer smiles and is short
+False	the officer smiles and are short
+True	the officer is tall and laughs
+False	the officer is tall and laugh
+True	the officer is tall and swims
+False	the officer is tall and swim
+True	the officer is tall and smiles
+False	the officer is tall and smile
+True	the officer is tall and is old
+False	the officer is tall and are old
+True	the officer is tall and is young
+False	the officer is tall and are young
+True	the officer is tall and is short
+False	the officer is tall and are short
+True	the officer is old and laughs
+False	the officer is old and laugh
+True	the officer is old and swims
+False	the officer is old and swim
+True	the officer is old and smiles
+False	the officer is old and smile
+True	the officer is old and is tall
+False	the officer is old and are tall
+True	the officer is old and is young
+False	the officer is old and are young
+True	the officer is old and is short
+False	the officer is old and are short
+True	the officer is young and laughs
+False	the officer is young and laugh
+True	the officer is young and swims
+False	the officer is young and swim
+True	the officer is young and smiles
+False	the officer is young and smile
+True	the officer is young and is tall
+False	the officer is young and are tall
+True	the officer is young and is old
+False	the officer is young and are old
+True	the officer is young and is short
+False	the officer is young and are short
+True	the officer is short and laughs
+False	the officer is short and laugh
+True	the officer is short and swims
+False	the officer is short and swim
+True	the officer is short and smiles
+False	the officer is short and smile
+True	the officer is short and is tall
+False	the officer is short and are tall
+True	the officer is short and is old
+False	the officer is short and are old
+True	the officer is short and is young
+False	the officer is short and are young
+True	the teacher laughs and swims
+False	the teacher laughs and swim
+True	the teacher laughs and smiles
+False	the teacher laughs and smile
+True	the teacher laughs and is tall
+False	the teacher laughs and are tall
+True	the teacher laughs and is old
+False	the teacher laughs and are old
+True	the teacher laughs and is young
+False	the teacher laughs and are young
+True	the teacher laughs and is short
+False	the teacher laughs and are short
+True	the teacher swims and laughs
+False	the teacher swims and laugh
+True	the teacher swims and smiles
+False	the teacher swims and smile
+True	the teacher swims and is tall
+False	the teacher swims and are tall
+True	the teacher swims and is old
+False	the teacher swims and are old
+True	the teacher swims and is young
+False	the teacher swims and are young
+True	the teacher swims and is short
+False	the teacher swims and are short
+True	the teacher smiles and laughs
+False	the teacher smiles and laugh
+True	the teacher smiles and swims
+False	the teacher smiles and swim
+True	the teacher smiles and is tall
+False	the teacher smiles and are tall
+True	the teacher smiles and is old
+False	the teacher smiles and are old
+True	the teacher smiles and is young
+False	the teacher smiles and are young
+True	the teacher smiles and is short
+False	the teacher smiles and are short
+True	the teacher is tall and laughs
+False	the teacher is tall and laugh
+True	the teacher is tall and swims
+False	the teacher is tall and swim
+True	the teacher is tall and smiles
+False	the teacher is tall and smile
+True	the teacher is tall and is old
+False	the teacher is tall and are old
+True	the teacher is tall and is young
+False	the teacher is tall and are young
+True	the teacher is tall and is short
+False	the teacher is tall and are short
+True	the teacher is old and laughs
+False	the teacher is old and laugh
+True	the teacher is old and swims
+False	the teacher is old and swim
+True	the teacher is old and smiles
+False	the teacher is old and smile
+True	the teacher is old and is tall
+False	the teacher is old and are tall
+True	the teacher is old and is young
+False	the teacher is old and are young
+True	the teacher is old and is short
+False	the teacher is old and are short
+True	the teacher is young and laughs
+False	the teacher is young and laugh
+True	the teacher is young and swims
+False	the teacher is young and swim
+True	the teacher is young and smiles
+False	the teacher is young and smile
+True	the teacher is young and is tall
+False	the teacher is young and are tall
+True	the teacher is young and is old
+False	the teacher is young and are old
+True	the teacher is young and is short
+False	the teacher is young and are short
+True	the teacher is short and laughs
+False	the teacher is short and laugh
+True	the teacher is short and swims
+False	the teacher is short and swim
+True	the teacher is short and smiles
+False	the teacher is short and smile
+True	the teacher is short and is tall
+False	the teacher is short and are tall
+True	the teacher is short and is old
+False	the teacher is short and are old
+True	the teacher is short and is young
+False	the teacher is short and are young
+True	the senator laughs and swims
+False	the senator laughs and swim
+True	the senator laughs and smiles
+False	the senator laughs and smile
+True	the senator laughs and is tall
+False	the senator laughs and are tall
+True	the senator laughs and is old
+False	the senator laughs and are old
+True	the senator laughs and is young
+False	the senator laughs and are young
+True	the senator laughs and is short
+False	the senator laughs and are short
+True	the senator swims and laughs
+False	the senator swims and laugh
+True	the senator swims and smiles
+False	the senator swims and smile
+True	the senator swims and is tall
+False	the senator swims and are tall
+True	the senator swims and is old
+False	the senator swims and are old
+True	the senator swims and is young
+False	the senator swims and are young
+True	the senator swims and is short
+False	the senator swims and are short
+True	the senator smiles and laughs
+False	the senator smiles and laugh
+True	the senator smiles and swims
+False	the senator smiles and swim
+True	the senator smiles and is tall
+False	the senator smiles and are tall
+True	the senator smiles and is old
+False	the senator smiles and are old
+True	the senator smiles and is young
+False	the senator smiles and are young
+True	the senator smiles and is short
+False	the senator smiles and are short
+True	the senator is tall and laughs
+False	the senator is tall and laugh
+True	the senator is tall and swims
+False	the senator is tall and swim
+True	the senator is tall and smiles
+False	the senator is tall and smile
+True	the senator is tall and is old
+False	the senator is tall and are old
+True	the senator is tall and is young
+False	the senator is tall and are young
+True	the senator is tall and is short
+False	the senator is tall and are short
+True	the senator is old and laughs
+False	the senator is old and laugh
+True	the senator is old and swims
+False	the senator is old and swim
+True	the senator is old and smiles
+False	the senator is old and smile
+True	the senator is old and is tall
+False	the senator is old and are tall
+True	the senator is old and is young
+False	the senator is old and are young
+True	the senator is old and is short
+False	the senator is old and are short
+True	the senator is young and laughs
+False	the senator is young and laugh
+True	the senator is young and swims
+False	the senator is young and swim
+True	the senator is young and smiles
+False	the senator is young and smile
+True	the senator is young and is tall
+False	the senator is young and are tall
+True	the senator is young and is old
+False	the senator is young and are old
+True	the senator is young and is short
+False	the senator is young and are short
+True	the senator is short and laughs
+False	the senator is short and laugh
+True	the senator is short and swims
+False	the senator is short and swim
+True	the senator is short and smiles
+False	the senator is short and smile
+True	the senator is short and is tall
+False	the senator is short and are tall
+True	the senator is short and is old
+False	the senator is short and are old
+True	the senator is short and is young
+False	the senator is short and are young
+True	the consultant laughs and swims
+False	the consultant laughs and swim
+True	the consultant laughs and smiles
+False	the consultant laughs and smile
+True	the consultant laughs and is tall
+False	the consultant laughs and are tall
+True	the consultant laughs and is old
+False	the consultant laughs and are old
+True	the consultant laughs and is young
+False	the consultant laughs and are young
+True	the consultant laughs and is short
+False	the consultant laughs and are short
+True	the consultant swims and laughs
+False	the consultant swims and laugh
+True	the consultant swims and smiles
+False	the consultant swims and smile
+True	the consultant swims and is tall
+False	the consultant swims and are tall
+True	the consultant swims and is old
+False	the consultant swims and are old
+True	the consultant swims and is young
+False	the consultant swims and are young
+True	the consultant swims and is short
+False	the consultant swims and are short
+True	the consultant smiles and laughs
+False	the consultant smiles and laugh
+True	the consultant smiles and swims
+False	the consultant smiles and swim
+True	the consultant smiles and is tall
+False	the consultant smiles and are tall
+True	the consultant smiles and is old
+False	the consultant smiles and are old
+True	the consultant smiles and is young
+False	the consultant smiles and are young
+True	the consultant smiles and is short
+False	the consultant smiles and are short
+True	the consultant is tall and laughs
+False	the consultant is tall and laugh
+True	the consultant is tall and swims
+False	the consultant is tall and swim
+True	the consultant is tall and smiles
+False	the consultant is tall and smile
+True	the consultant is tall and is old
+False	the consultant is tall and are old
+True	the consultant is tall and is young
+False	the consultant is tall and are young
+True	the consultant is tall and is short
+False	the consultant is tall and are short
+True	the consultant is old and laughs
+False	the consultant is old and laugh
+True	the consultant is old and swims
+False	the consultant is old and swim
+True	the consultant is old and smiles
+False	the consultant is old and smile
+True	the consultant is old and is tall
+False	the consultant is old and are tall
+True	the consultant is old and is young
+False	the consultant is old and are young
+True	the consultant is old and is short
+False	the consultant is old and are short
+True	the consultant is young and laughs
+False	the consultant is young and laugh
+True	the consultant is young and swims
+False	the consultant is young and swim
+True	the consultant is young and smiles
+False	the consultant is young and smile
+True	the consultant is young and is tall
+False	the consultant is young and are tall
+True	the consultant is young and is old
+False	the consultant is young and are old
+True	the consultant is young and is short
+False	the consultant is young and are short
+True	the consultant is short and laughs
+False	the consultant is short and laugh
+True	the consultant is short and swims
+False	the consultant is short and swim
+True	the consultant is short and smiles
+False	the consultant is short and smile
+True	the consultant is short and is tall
+False	the consultant is short and are tall
+True	the consultant is short and is old
+False	the consultant is short and are old
+True	the consultant is short and is young
+False	the consultant is short and are young

@@ -1,0 +1,1000 @@
+True	der Schriftsteller spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Schriftsteller spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Schriftsteller spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Schriftsteller spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Schriftsteller spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Schriftsteller spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Schriftsteller spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Schriftsteller spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Schriftsteller spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Schriftsteller spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Direktor spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Direktor spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Direktor spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Direktor spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Direktor spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Direktor spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Direktor spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Direktor spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Direktor spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Direktor spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Bauer spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Bauer spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Bauer spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Bauer spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Bauer spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Bauer spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Bauer spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Bauer spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Bauer spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Bauer spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Chirurg spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Chirurg spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Chirurg spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Chirurg spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Chirurg spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Chirurg spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Chirurg spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Chirurg spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Chirurg spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Chirurg spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Senator spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Senator spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Senator spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Senator spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Senator spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Senator spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Senator spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Senator spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Senator spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Senator spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Lehrer spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Lehrer spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Lehrer spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Lehrer spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Lehrer spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Lehrer spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Lehrer spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Lehrer spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Lehrer spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Lehrer spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Kunde spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Kunde spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Kunde spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Kunde spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Kunde spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Kunde spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Kunde spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Kunde spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Kunde spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Kunde spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Polizist spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Polizist spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Polizist spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Polizist spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Polizist spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Polizist spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Polizist spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Polizist spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Polizist spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Polizist spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Pilot spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Pilot spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Pilot spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Pilot spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Pilot spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Pilot spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Pilot spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Pilot spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Pilot spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Pilot spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Berater spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+False	der Berater spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+True	der Berater spricht viele verschiedene Sprachen und sieht gern Fernsehprogramme
+False	der Berater spricht viele verschiedene Sprachen und sehen gern Fernsehprogramme
+True	der Berater spricht viele verschiedene Sprachen und ist zwanzig Jahre alt
+False	der Berater spricht viele verschiedene Sprachen und sind zwanzig Jahre alt
+True	der Berater spricht viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Berater spricht viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Berater spricht viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+False	der Berater spricht viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+True	der Schriftsteller sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Schriftsteller sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Schriftsteller sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Schriftsteller sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Schriftsteller sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Schriftsteller sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Schriftsteller sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Schriftsteller sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Schriftsteller sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Schriftsteller sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Direktor sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Direktor sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Direktor sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Direktor sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Direktor sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Direktor sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Direktor sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Direktor sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Direktor sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Direktor sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Bauer sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Bauer sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Bauer sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Bauer sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Bauer sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Bauer sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Bauer sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Bauer sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Bauer sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Bauer sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Chirurg sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Chirurg sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Chirurg sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Chirurg sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Chirurg sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Chirurg sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Chirurg sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Chirurg sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Chirurg sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Chirurg sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Senator sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Senator sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Senator sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Senator sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Senator sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Senator sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Senator sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Senator sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Senator sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Senator sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Lehrer sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Lehrer sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Lehrer sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Lehrer sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Lehrer sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Lehrer sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Lehrer sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Lehrer sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Lehrer sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Lehrer sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Kunde sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Kunde sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Kunde sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Kunde sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Kunde sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Kunde sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Kunde sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Kunde sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Kunde sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Kunde sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Polizist sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Polizist sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Polizist sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Polizist sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Polizist sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Polizist sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Polizist sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Polizist sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Polizist sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Polizist sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Pilot sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Pilot sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Pilot sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Pilot sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Pilot sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Pilot sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Pilot sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Pilot sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Pilot sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Pilot sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Berater sieht gern Fernsehprogramme und spricht viele verschiedene Sprachen
+False	der Berater sieht gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+True	der Berater sieht gern Fernsehprogramme und sieht gern Fernsehprogramme
+False	der Berater sieht gern Fernsehprogramme und sehen gern Fernsehprogramme
+True	der Berater sieht gern Fernsehprogramme und ist zwanzig Jahre alt
+False	der Berater sieht gern Fernsehprogramme und sind zwanzig Jahre alt
+True	der Berater sieht gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+False	der Berater sieht gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Berater sieht gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+False	der Berater sieht gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+True	der Schriftsteller ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Schriftsteller ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Schriftsteller ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Schriftsteller ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Schriftsteller ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Schriftsteller ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Schriftsteller ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Schriftsteller ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Schriftsteller ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Schriftsteller ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Direktor ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Direktor ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Direktor ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Direktor ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Direktor ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Direktor ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Direktor ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Direktor ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Direktor ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Direktor ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Bauer ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Bauer ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Bauer ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Bauer ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Bauer ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Bauer ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Bauer ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Bauer ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Bauer ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Bauer ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Chirurg ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Chirurg ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Chirurg ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Chirurg ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Chirurg ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Chirurg ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Chirurg ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Chirurg ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Chirurg ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Chirurg ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Senator ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Senator ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Senator ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Senator ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Senator ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Senator ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Senator ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Senator ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Senator ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Senator ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Lehrer ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Lehrer ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Lehrer ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Lehrer ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Lehrer ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Lehrer ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Lehrer ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Lehrer ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Lehrer ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Lehrer ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Kunde ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Kunde ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Kunde ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Kunde ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Kunde ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Kunde ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Kunde ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Kunde ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Kunde ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Kunde ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Polizist ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Polizist ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Polizist ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Polizist ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Polizist ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Polizist ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Polizist ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Polizist ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Polizist ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Polizist ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Pilot ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Pilot ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Pilot ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Pilot ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Pilot ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Pilot ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Pilot ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Pilot ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Pilot ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Pilot ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Berater ist zwanzig Jahre alt und spricht viele verschiedene Sprachen
+False	der Berater ist zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+True	der Berater ist zwanzig Jahre alt und sieht gern Fernsehprogramme
+False	der Berater ist zwanzig Jahre alt und sehen gern Fernsehprogramme
+True	der Berater ist zwanzig Jahre alt und ist zwanzig Jahre alt
+False	der Berater ist zwanzig Jahre alt und sind zwanzig Jahre alt
+True	der Berater ist zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+False	der Berater ist zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Berater ist zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+False	der Berater ist zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+True	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Schriftsteller mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Direktor mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Direktor mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Direktor mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Direktor mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Direktor mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Direktor mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Direktor mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Direktor mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Direktor mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Direktor mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Bauer mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Bauer mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Bauer mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Bauer mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Bauer mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Bauer mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Bauer mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Bauer mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Bauer mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Bauer mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Chirurg mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Senator mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Senator mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Senator mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Senator mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Senator mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Senator mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Senator mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Senator mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Senator mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Senator mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Lehrer mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Kunde mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Kunde mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Kunde mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Kunde mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Kunde mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Kunde mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Kunde mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Kunde mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Kunde mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Kunde mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Polizist mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Polizist mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Polizist mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Polizist mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Polizist mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Polizist mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Polizist mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Polizist mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Polizist mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Polizist mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Pilot mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Pilot mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Pilot mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Pilot mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Pilot mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Pilot mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Pilot mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Pilot mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Pilot mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Pilot mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Berater mag lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+False	der Berater mag lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+True	der Berater mag lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+False	der Berater mag lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+True	der Berater mag lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+False	der Berater mag lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+True	der Berater mag lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+False	der Berater mag lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Berater mag lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+False	der Berater mag lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+True	der Schriftsteller schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Schriftsteller schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Schriftsteller schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Schriftsteller schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Schriftsteller schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Schriftsteller schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Schriftsteller schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Schriftsteller schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Schriftsteller schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Schriftsteller schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Direktor schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Direktor schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Direktor schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Direktor schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Direktor schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Direktor schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Direktor schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Direktor schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Direktor schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Direktor schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Bauer schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Bauer schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Bauer schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Bauer schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Bauer schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Bauer schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Bauer schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Bauer schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Bauer schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Bauer schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Chirurg schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Chirurg schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Chirurg schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Chirurg schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Chirurg schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Chirurg schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Chirurg schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Chirurg schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Chirurg schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Chirurg schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Senator schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Senator schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Senator schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Senator schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Senator schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Senator schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Senator schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Senator schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Senator schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Senator schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Lehrer schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Lehrer schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Lehrer schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Lehrer schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Lehrer schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Lehrer schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Lehrer schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Lehrer schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Lehrer schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Lehrer schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Kunde schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Kunde schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Kunde schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Kunde schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Kunde schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Kunde schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Kunde schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Kunde schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Kunde schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Kunde schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Polizist schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Polizist schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Polizist schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Polizist schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Polizist schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Polizist schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Polizist schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Polizist schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Polizist schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Polizist schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Pilot schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Pilot schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Pilot schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Pilot schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Pilot schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Pilot schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Pilot schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Pilot schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Pilot schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Pilot schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	der Berater schreibt jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+False	der Berater schreibt jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+True	der Berater schreibt jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+False	der Berater schreibt jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+True	der Berater schreibt jeden Tag in seinem Journal und ist zwanzig Jahre alt
+False	der Berater schreibt jeden Tag in seinem Journal und sind zwanzig Jahre alt
+True	der Berater schreibt jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+False	der Berater schreibt jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+True	der Berater schreibt jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+False	der Berater schreibt jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+True	die Schriftsteller sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Schriftsteller sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Schriftsteller sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Schriftsteller sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Schriftsteller sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Schriftsteller sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Schriftsteller sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Schriftsteller sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Schriftsteller sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Schriftsteller sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Direktoren sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Direktoren sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Direktoren sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Direktoren sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Direktoren sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Direktoren sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Direktoren sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Direktoren sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Direktoren sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Direktoren sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Bauern sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Bauern sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Bauern sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Bauern sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Bauern sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Bauern sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Bauern sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Bauern sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Bauern sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Bauern sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Chirurgen sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Chirurgen sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Chirurgen sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Chirurgen sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Chirurgen sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Chirurgen sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Chirurgen sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Chirurgen sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Chirurgen sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Chirurgen sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Senatoren sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Senatoren sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Senatoren sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Senatoren sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Senatoren sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Senatoren sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Senatoren sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Senatoren sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Senatoren sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Senatoren sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Lehrer sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Lehrer sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Lehrer sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Lehrer sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Lehrer sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Lehrer sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Lehrer sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Lehrer sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Lehrer sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Lehrer sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Kunden sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Kunden sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Kunden sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Kunden sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Kunden sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Kunden sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Kunden sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Kunden sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Kunden sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Kunden sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Polizisten sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Polizisten sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Polizisten sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Polizisten sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Polizisten sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Polizisten sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Polizisten sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Polizisten sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Polizisten sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Polizisten sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Piloten sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Piloten sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Piloten sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Piloten sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Piloten sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Piloten sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Piloten sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Piloten sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Piloten sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Piloten sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Berater sprechen viele verschiedene Sprachen und sprechen viele verschiedene Sprachen
+False	die Berater sprechen viele verschiedene Sprachen und spricht viele verschiedene Sprachen
+True	die Berater sprechen viele verschiedene Sprachen und sehen gern Fernsehprogramme
+False	die Berater sprechen viele verschiedene Sprachen und sieht gern Fernsehprogramme
+True	die Berater sprechen viele verschiedene Sprachen und sind zwanzig Jahre alt
+False	die Berater sprechen viele verschiedene Sprachen und ist zwanzig Jahre alt
+True	die Berater sprechen viele verschiedene Sprachen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Berater sprechen viele verschiedene Sprachen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Berater sprechen viele verschiedene Sprachen und schreiben jeden Tag in seinem Journal
+False	die Berater sprechen viele verschiedene Sprachen und schreibt jeden Tag in seinem Journal
+True	die Schriftsteller sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Schriftsteller sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Schriftsteller sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Schriftsteller sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Schriftsteller sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Schriftsteller sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Schriftsteller sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Schriftsteller sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Schriftsteller sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Schriftsteller sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Direktoren sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Direktoren sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Direktoren sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Direktoren sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Direktoren sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Direktoren sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Direktoren sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Direktoren sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Direktoren sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Direktoren sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Bauern sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Bauern sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Bauern sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Bauern sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Bauern sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Bauern sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Bauern sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Bauern sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Bauern sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Bauern sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Chirurgen sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Chirurgen sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Chirurgen sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Chirurgen sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Chirurgen sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Chirurgen sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Chirurgen sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Chirurgen sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Chirurgen sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Chirurgen sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Senatoren sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Senatoren sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Senatoren sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Senatoren sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Senatoren sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Senatoren sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Senatoren sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Senatoren sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Senatoren sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Senatoren sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Lehrer sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Lehrer sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Lehrer sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Lehrer sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Lehrer sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Lehrer sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Lehrer sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Lehrer sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Lehrer sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Lehrer sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Kunden sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Kunden sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Kunden sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Kunden sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Kunden sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Kunden sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Kunden sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Kunden sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Kunden sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Kunden sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Polizisten sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Polizisten sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Polizisten sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Polizisten sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Polizisten sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Polizisten sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Polizisten sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Polizisten sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Polizisten sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Polizisten sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Piloten sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Piloten sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Piloten sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Piloten sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Piloten sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Piloten sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Piloten sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Piloten sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Piloten sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Piloten sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Berater sehen gern Fernsehprogramme und sprechen viele verschiedene Sprachen
+False	die Berater sehen gern Fernsehprogramme und spricht viele verschiedene Sprachen
+True	die Berater sehen gern Fernsehprogramme und sehen gern Fernsehprogramme
+False	die Berater sehen gern Fernsehprogramme und sieht gern Fernsehprogramme
+True	die Berater sehen gern Fernsehprogramme und sind zwanzig Jahre alt
+False	die Berater sehen gern Fernsehprogramme und ist zwanzig Jahre alt
+True	die Berater sehen gern Fernsehprogramme und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Berater sehen gern Fernsehprogramme und mag lieber Tennis mit seinen Kollegen spielen
+True	die Berater sehen gern Fernsehprogramme und schreiben jeden Tag in seinem Journal
+False	die Berater sehen gern Fernsehprogramme und schreibt jeden Tag in seinem Journal
+True	die Schriftsteller sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Schriftsteller sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Schriftsteller sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Schriftsteller sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Schriftsteller sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Schriftsteller sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Schriftsteller sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Schriftsteller sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Schriftsteller sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Schriftsteller sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Direktoren sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Direktoren sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Direktoren sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Direktoren sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Direktoren sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Direktoren sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Direktoren sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Direktoren sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Direktoren sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Direktoren sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Bauern sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Bauern sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Bauern sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Bauern sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Bauern sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Bauern sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Bauern sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Bauern sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Bauern sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Bauern sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Chirurgen sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Chirurgen sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Chirurgen sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Chirurgen sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Chirurgen sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Chirurgen sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Chirurgen sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Chirurgen sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Chirurgen sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Chirurgen sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Senatoren sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Senatoren sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Senatoren sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Senatoren sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Senatoren sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Senatoren sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Senatoren sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Senatoren sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Senatoren sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Senatoren sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Lehrer sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Lehrer sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Lehrer sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Lehrer sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Lehrer sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Lehrer sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Lehrer sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Lehrer sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Lehrer sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Lehrer sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Kunden sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Kunden sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Kunden sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Kunden sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Kunden sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Kunden sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Kunden sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Kunden sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Kunden sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Kunden sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Polizisten sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Polizisten sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Polizisten sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Polizisten sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Polizisten sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Polizisten sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Polizisten sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Polizisten sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Polizisten sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Polizisten sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Piloten sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Piloten sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Piloten sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Piloten sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Piloten sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Piloten sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Piloten sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Piloten sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Piloten sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Piloten sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Berater sind zwanzig Jahre alt und sprechen viele verschiedene Sprachen
+False	die Berater sind zwanzig Jahre alt und spricht viele verschiedene Sprachen
+True	die Berater sind zwanzig Jahre alt und sehen gern Fernsehprogramme
+False	die Berater sind zwanzig Jahre alt und sieht gern Fernsehprogramme
+True	die Berater sind zwanzig Jahre alt und sind zwanzig Jahre alt
+False	die Berater sind zwanzig Jahre alt und ist zwanzig Jahre alt
+True	die Berater sind zwanzig Jahre alt und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Berater sind zwanzig Jahre alt und mag lieber Tennis mit seinen Kollegen spielen
+True	die Berater sind zwanzig Jahre alt und schreiben jeden Tag in seinem Journal
+False	die Berater sind zwanzig Jahre alt und schreibt jeden Tag in seinem Journal
+True	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Schriftsteller mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Direktoren mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Bauern mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Chirurgen mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Senatoren mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Lehrer mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Kunden mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Polizisten mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Piloten mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Berater mögen lieber Tennis mit seinen Kollegen spielen und sprechen viele verschiedene Sprachen
+False	die Berater mögen lieber Tennis mit seinen Kollegen spielen und spricht viele verschiedene Sprachen
+True	die Berater mögen lieber Tennis mit seinen Kollegen spielen und sehen gern Fernsehprogramme
+False	die Berater mögen lieber Tennis mit seinen Kollegen spielen und sieht gern Fernsehprogramme
+True	die Berater mögen lieber Tennis mit seinen Kollegen spielen und sind zwanzig Jahre alt
+False	die Berater mögen lieber Tennis mit seinen Kollegen spielen und ist zwanzig Jahre alt
+True	die Berater mögen lieber Tennis mit seinen Kollegen spielen und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Berater mögen lieber Tennis mit seinen Kollegen spielen und mag lieber Tennis mit seinen Kollegen spielen
+True	die Berater mögen lieber Tennis mit seinen Kollegen spielen und schreiben jeden Tag in seinem Journal
+False	die Berater mögen lieber Tennis mit seinen Kollegen spielen und schreibt jeden Tag in seinem Journal
+True	die Schriftsteller schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Schriftsteller schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Schriftsteller schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Schriftsteller schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Schriftsteller schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Schriftsteller schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Schriftsteller schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Schriftsteller schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Schriftsteller schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Schriftsteller schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Direktoren schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Direktoren schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Direktoren schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Direktoren schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Direktoren schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Direktoren schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Direktoren schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Direktoren schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Direktoren schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Direktoren schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Bauern schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Bauern schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Bauern schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Bauern schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Bauern schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Bauern schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Bauern schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Bauern schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Bauern schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Bauern schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Chirurgen schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Chirurgen schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Chirurgen schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Chirurgen schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Chirurgen schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Chirurgen schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Chirurgen schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Chirurgen schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Chirurgen schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Chirurgen schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Senatoren schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Senatoren schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Senatoren schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Senatoren schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Senatoren schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Senatoren schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Senatoren schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Senatoren schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Senatoren schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Senatoren schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Lehrer schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Lehrer schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Lehrer schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Lehrer schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Lehrer schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Lehrer schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Lehrer schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Lehrer schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Lehrer schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Lehrer schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Kunden schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Kunden schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Kunden schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Kunden schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Kunden schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Kunden schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Kunden schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Kunden schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Kunden schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Kunden schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Polizisten schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Polizisten schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Polizisten schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Polizisten schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Polizisten schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Polizisten schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Polizisten schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Polizisten schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Polizisten schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Polizisten schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Piloten schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Piloten schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Piloten schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Piloten schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Piloten schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Piloten schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Piloten schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Piloten schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Piloten schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Piloten schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal
+True	die Berater schreiben jeden Tag in seinem Journal und sprechen viele verschiedene Sprachen
+False	die Berater schreiben jeden Tag in seinem Journal und spricht viele verschiedene Sprachen
+True	die Berater schreiben jeden Tag in seinem Journal und sehen gern Fernsehprogramme
+False	die Berater schreiben jeden Tag in seinem Journal und sieht gern Fernsehprogramme
+True	die Berater schreiben jeden Tag in seinem Journal und sind zwanzig Jahre alt
+False	die Berater schreiben jeden Tag in seinem Journal und ist zwanzig Jahre alt
+True	die Berater schreiben jeden Tag in seinem Journal und mögen lieber Tennis mit seinen Kollegen spielen
+False	die Berater schreiben jeden Tag in seinem Journal und mag lieber Tennis mit seinen Kollegen spielen
+True	die Berater schreiben jeden Tag in seinem Journal und schreiben jeden Tag in seinem Journal
+False	die Berater schreiben jeden Tag in seinem Journal und schreibt jeden Tag in seinem Journal

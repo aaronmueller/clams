@@ -1,0 +1,15 @@
+Det[3,p] les
+
+N_1[3,p,m,anim] auteurs | directeurs | agriculteurs | chirurgiens | sénateurs | professeurs | clients | officiers | pilotes | consultants
+NP_1[3,s,m,anim] l' auteur | le directeur | l' agriculteur | le chirurgien | le sénateur | le professeur | le client | l' officier | le pilote | le consultant
+
+N_1[3,p,m,inanim] jeux | films | livres | romans | poèmes
+NP_1[3,s,m,inanim] le jeu | le film | le livre | le roman | le poème
+N_1[3,p,f,inanim] émissions | peintures | chansons | images | photos
+NP_1[3,s,f,inanim] l' émission | la peinture | la chanson | l' image | la photo
+
+N_2[3,p,m] gardes | ministres | cadres | adjoints | chauffeurs de taxi | danseurs | architectes | chefs | patineurs | parents
+NP_2[3,s,m] le garde | le ministre | le cadre | l' adjoint | le chauffeur de taxi | le danseur | l' architecte | le chef | le patineur | le parent
+
+V_1[3,s] aime | déteste | admire | évite
+V_1[3,p] aiment | détestent | admirent | évitent

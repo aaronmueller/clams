@@ -1,0 +1,252 @@
+True	no movies have ever been seen
+False	the movies have ever been seen
+True	no movies have ever been appreciatedbeen ignored
+False	the movies have ever been appreciatedbeen ignored
+True	no movies have ever gotten old
+False	the movies have ever gotten old
+True	no books have ever been seen
+False	the books have ever been seen
+True	no books have ever been appreciatedbeen ignored
+False	the books have ever been appreciatedbeen ignored
+True	no books have ever gotten old
+False	the books have ever gotten old
+True	no games have ever been seen
+False	the games have ever been seen
+True	no games have ever been appreciatedbeen ignored
+False	the games have ever been appreciatedbeen ignored
+True	no games have ever gotten old
+False	the games have ever gotten old
+True	no songs have ever been seen
+False	the songs have ever been seen
+True	no songs have ever been appreciatedbeen ignored
+False	the songs have ever been appreciatedbeen ignored
+True	no songs have ever gotten old
+False	the songs have ever gotten old
+True	no pictures have ever been seen
+False	the pictures have ever been seen
+True	no pictures have ever been appreciatedbeen ignored
+False	the pictures have ever been appreciatedbeen ignored
+True	no pictures have ever gotten old
+False	the pictures have ever gotten old
+True	no paintings have ever been seen
+False	the paintings have ever been seen
+True	no paintings have ever been appreciatedbeen ignored
+False	the paintings have ever been appreciatedbeen ignored
+True	no paintings have ever gotten old
+False	the paintings have ever gotten old
+True	no novels have ever been seen
+False	the novels have ever been seen
+True	no novels have ever been appreciatedbeen ignored
+False	the novels have ever been appreciatedbeen ignored
+True	no novels have ever gotten old
+False	the novels have ever gotten old
+True	no poems have ever been seen
+False	the poems have ever been seen
+True	no poems have ever been appreciatedbeen ignored
+False	the poems have ever been appreciatedbeen ignored
+True	no poems have ever gotten old
+False	the poems have ever gotten old
+True	no shows have ever been seen
+False	the shows have ever been seen
+True	no shows have ever been appreciatedbeen ignored
+False	the shows have ever been appreciatedbeen ignored
+True	no shows have ever gotten old
+False	the shows have ever gotten old
+True	few movies have ever been seen
+False	some movies have ever been seen
+True	few movies have ever been appreciatedbeen ignored
+False	some movies have ever been appreciatedbeen ignored
+True	few movies have ever gotten old
+False	some movies have ever gotten old
+True	few books have ever been seen
+False	some books have ever been seen
+True	few books have ever been appreciatedbeen ignored
+False	some books have ever been appreciatedbeen ignored
+True	few books have ever gotten old
+False	some books have ever gotten old
+True	few games have ever been seen
+False	some games have ever been seen
+True	few games have ever been appreciatedbeen ignored
+False	some games have ever been appreciatedbeen ignored
+True	few games have ever gotten old
+False	some games have ever gotten old
+True	few songs have ever been seen
+False	some songs have ever been seen
+True	few songs have ever been appreciatedbeen ignored
+False	some songs have ever been appreciatedbeen ignored
+True	few songs have ever gotten old
+False	some songs have ever gotten old
+True	few pictures have ever been seen
+False	some pictures have ever been seen
+True	few pictures have ever been appreciatedbeen ignored
+False	some pictures have ever been appreciatedbeen ignored
+True	few pictures have ever gotten old
+False	some pictures have ever gotten old
+True	few paintings have ever been seen
+False	some paintings have ever been seen
+True	few paintings have ever been appreciatedbeen ignored
+False	some paintings have ever been appreciatedbeen ignored
+True	few paintings have ever gotten old
+False	some paintings have ever gotten old
+True	few novels have ever been seen
+False	some novels have ever been seen
+True	few novels have ever been appreciatedbeen ignored
+False	some novels have ever been appreciatedbeen ignored
+True	few novels have ever gotten old
+False	some novels have ever gotten old
+True	few poems have ever been seen
+False	some poems have ever been seen
+True	few poems have ever been appreciatedbeen ignored
+False	some poems have ever been appreciatedbeen ignored
+True	few poems have ever gotten old
+False	some poems have ever gotten old
+True	few shows have ever been seen
+False	some shows have ever been seen
+True	few shows have ever been appreciatedbeen ignored
+False	some shows have ever been appreciatedbeen ignored
+True	few shows have ever gotten old
+False	some shows have ever gotten old
+True	no movies will ever be seen
+False	the movies will ever be seen
+True	no movies will ever be appreciated
+False	the movies will ever be appreciated
+True	no movies will ever be ignored
+False	the movies will ever be ignored
+True	no movies will ever get old
+False	the movies will ever get old
+True	no books will ever be seen
+False	the books will ever be seen
+True	no books will ever be appreciated
+False	the books will ever be appreciated
+True	no books will ever be ignored
+False	the books will ever be ignored
+True	no books will ever get old
+False	the books will ever get old
+True	no games will ever be seen
+False	the games will ever be seen
+True	no games will ever be appreciated
+False	the games will ever be appreciated
+True	no games will ever be ignored
+False	the games will ever be ignored
+True	no games will ever get old
+False	the games will ever get old
+True	no songs will ever be seen
+False	the songs will ever be seen
+True	no songs will ever be appreciated
+False	the songs will ever be appreciated
+True	no songs will ever be ignored
+False	the songs will ever be ignored
+True	no songs will ever get old
+False	the songs will ever get old
+True	no pictures will ever be seen
+False	the pictures will ever be seen
+True	no pictures will ever be appreciated
+False	the pictures will ever be appreciated
+True	no pictures will ever be ignored
+False	the pictures will ever be ignored
+True	no pictures will ever get old
+False	the pictures will ever get old
+True	no paintings will ever be seen
+False	the paintings will ever be seen
+True	no paintings will ever be appreciated
+False	the paintings will ever be appreciated
+True	no paintings will ever be ignored
+False	the paintings will ever be ignored
+True	no paintings will ever get old
+False	the paintings will ever get old
+True	no novels will ever be seen
+False	the novels will ever be seen
+True	no novels will ever be appreciated
+False	the novels will ever be appreciated
+True	no novels will ever be ignored
+False	the novels will ever be ignored
+True	no novels will ever get old
+False	the novels will ever get old
+True	no poems will ever be seen
+False	the poems will ever be seen
+True	no poems will ever be appreciated
+False	the poems will ever be appreciated
+True	no poems will ever be ignored
+False	the poems will ever be ignored
+True	no poems will ever get old
+False	the poems will ever get old
+True	no shows will ever be seen
+False	the shows will ever be seen
+True	no shows will ever be appreciated
+False	the shows will ever be appreciated
+True	no shows will ever be ignored
+False	the shows will ever be ignored
+True	no shows will ever get old
+False	the shows will ever get old
+True	few movies will ever be seen
+False	some movies will ever be seen
+True	few movies will ever be appreciated
+False	some movies will ever be appreciated
+True	few movies will ever be ignored
+False	some movies will ever be ignored
+True	few movies will ever get old
+False	some movies will ever get old
+True	few books will ever be seen
+False	some books will ever be seen
+True	few books will ever be appreciated
+False	some books will ever be appreciated
+True	few books will ever be ignored
+False	some books will ever be ignored
+True	few books will ever get old
+False	some books will ever get old
+True	few games will ever be seen
+False	some games will ever be seen
+True	few games will ever be appreciated
+False	some games will ever be appreciated
+True	few games will ever be ignored
+False	some games will ever be ignored
+True	few games will ever get old
+False	some games will ever get old
+True	few songs will ever be seen
+False	some songs will ever be seen
+True	few songs will ever be appreciated
+False	some songs will ever be appreciated
+True	few songs will ever be ignored
+False	some songs will ever be ignored
+True	few songs will ever get old
+False	some songs will ever get old
+True	few pictures will ever be seen
+False	some pictures will ever be seen
+True	few pictures will ever be appreciated
+False	some pictures will ever be appreciated
+True	few pictures will ever be ignored
+False	some pictures will ever be ignored
+True	few pictures will ever get old
+False	some pictures will ever get old
+True	few paintings will ever be seen
+False	some paintings will ever be seen
+True	few paintings will ever be appreciated
+False	some paintings will ever be appreciated
+True	few paintings will ever be ignored
+False	some paintings will ever be ignored
+True	few paintings will ever get old
+False	some paintings will ever get old
+True	few novels will ever be seen
+False	some novels will ever be seen
+True	few novels will ever be appreciated
+False	some novels will ever be appreciated
+True	few novels will ever be ignored
+False	some novels will ever be ignored
+True	few novels will ever get old
+False	some novels will ever get old
+True	few poems will ever be seen
+False	some poems will ever be seen
+True	few poems will ever be appreciated
+False	some poems will ever be appreciated
+True	few poems will ever be ignored
+False	some poems will ever be ignored
+True	few poems will ever get old
+False	some poems will ever get old
+True	few shows will ever be seen
+False	some shows will ever be seen
+True	few shows will ever be appreciated
+False	some shows will ever be appreciated
+True	few shows will ever be ignored
+False	some shows will ever be ignored
+True	few shows will ever get old
+False	some shows will ever get old

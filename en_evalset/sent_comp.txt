@@ -1,0 +1,3360 @@
+True	the mechanic said the authors laugh
+False	the mechanic said the authors laughs
+True	the mechanic said the authors swim
+False	the mechanic said the authors swims
+True	the mechanic said the authors smile
+False	the mechanic said the authors smiles
+True	the mechanic said the authors are tall
+False	the mechanic said the authors is tall
+True	the mechanic said the authors are old
+False	the mechanic said the authors is old
+True	the mechanic said the authors are young
+False	the mechanic said the authors is young
+True	the mechanic said the authors are short
+False	the mechanic said the authors is short
+True	the mechanic said the pilots laugh
+False	the mechanic said the pilots laughs
+True	the mechanic said the pilots swim
+False	the mechanic said the pilots swims
+True	the mechanic said the pilots smile
+False	the mechanic said the pilots smiles
+True	the mechanic said the pilots are tall
+False	the mechanic said the pilots is tall
+True	the mechanic said the pilots are old
+False	the mechanic said the pilots is old
+True	the mechanic said the pilots are young
+False	the mechanic said the pilots is young
+True	the mechanic said the pilots are short
+False	the mechanic said the pilots is short
+True	the mechanic said the surgeons laugh
+False	the mechanic said the surgeons laughs
+True	the mechanic said the surgeons swim
+False	the mechanic said the surgeons swims
+True	the mechanic said the surgeons smile
+False	the mechanic said the surgeons smiles
+True	the mechanic said the surgeons are tall
+False	the mechanic said the surgeons is tall
+True	the mechanic said the surgeons are old
+False	the mechanic said the surgeons is old
+True	the mechanic said the surgeons are young
+False	the mechanic said the surgeons is young
+True	the mechanic said the surgeons are short
+False	the mechanic said the surgeons is short
+True	the mechanic said the farmers laugh
+False	the mechanic said the farmers laughs
+True	the mechanic said the farmers swim
+False	the mechanic said the farmers swims
+True	the mechanic said the farmers smile
+False	the mechanic said the farmers smiles
+True	the mechanic said the farmers are tall
+False	the mechanic said the farmers is tall
+True	the mechanic said the farmers are old
+False	the mechanic said the farmers is old
+True	the mechanic said the farmers are young
+False	the mechanic said the farmers is young
+True	the mechanic said the farmers are short
+False	the mechanic said the farmers is short
+True	the mechanic said the managers laugh
+False	the mechanic said the managers laughs
+True	the mechanic said the managers swim
+False	the mechanic said the managers swims
+True	the mechanic said the managers smile
+False	the mechanic said the managers smiles
+True	the mechanic said the managers are tall
+False	the mechanic said the managers is tall
+True	the mechanic said the managers are old
+False	the mechanic said the managers is old
+True	the mechanic said the managers are young
+False	the mechanic said the managers is young
+True	the mechanic said the managers are short
+False	the mechanic said the managers is short
+True	the mechanic said the customers laugh
+False	the mechanic said the customers laughs
+True	the mechanic said the customers swim
+False	the mechanic said the customers swims
+True	the mechanic said the customers smile
+False	the mechanic said the customers smiles
+True	the mechanic said the customers are tall
+False	the mechanic said the customers is tall
+True	the mechanic said the customers are old
+False	the mechanic said the customers is old
+True	the mechanic said the customers are young
+False	the mechanic said the customers is young
+True	the mechanic said the customers are short
+False	the mechanic said the customers is short
+True	the mechanic said the officers laugh
+False	the mechanic said the officers laughs
+True	the mechanic said the officers swim
+False	the mechanic said the officers swims
+True	the mechanic said the officers smile
+False	the mechanic said the officers smiles
+True	the mechanic said the officers are tall
+False	the mechanic said the officers is tall
+True	the mechanic said the officers are old
+False	the mechanic said the officers is old
+True	the mechanic said the officers are young
+False	the mechanic said the officers is young
+True	the mechanic said the officers are short
+False	the mechanic said the officers is short
+True	the mechanic said the teachers laugh
+False	the mechanic said the teachers laughs
+True	the mechanic said the teachers swim
+False	the mechanic said the teachers swims
+True	the mechanic said the teachers smile
+False	the mechanic said the teachers smiles
+True	the mechanic said the teachers are tall
+False	the mechanic said the teachers is tall
+True	the mechanic said the teachers are old
+False	the mechanic said the teachers is old
+True	the mechanic said the teachers are young
+False	the mechanic said the teachers is young
+True	the mechanic said the teachers are short
+False	the mechanic said the teachers is short
+True	the mechanic said the senators laugh
+False	the mechanic said the senators laughs
+True	the mechanic said the senators swim
+False	the mechanic said the senators swims
+True	the mechanic said the senators smile
+False	the mechanic said the senators smiles
+True	the mechanic said the senators are tall
+False	the mechanic said the senators is tall
+True	the mechanic said the senators are old
+False	the mechanic said the senators is old
+True	the mechanic said the senators are young
+False	the mechanic said the senators is young
+True	the mechanic said the senators are short
+False	the mechanic said the senators is short
+True	the mechanic said the consultants laugh
+False	the mechanic said the consultants laughs
+True	the mechanic said the consultants swim
+False	the mechanic said the consultants swims
+True	the mechanic said the consultants smile
+False	the mechanic said the consultants smiles
+True	the mechanic said the consultants are tall
+False	the mechanic said the consultants is tall
+True	the mechanic said the consultants are old
+False	the mechanic said the consultants is old
+True	the mechanic said the consultants are young
+False	the mechanic said the consultants is young
+True	the mechanic said the consultants are short
+False	the mechanic said the consultants is short
+True	the mechanic thought the authors laugh
+False	the mechanic thought the authors laughs
+True	the mechanic thought the authors swim
+False	the mechanic thought the authors swims
+True	the mechanic thought the authors smile
+False	the mechanic thought the authors smiles
+True	the mechanic thought the authors are tall
+False	the mechanic thought the authors is tall
+True	the mechanic thought the authors are old
+False	the mechanic thought the authors is old
+True	the mechanic thought the authors are young
+False	the mechanic thought the authors is young
+True	the mechanic thought the authors are short
+False	the mechanic thought the authors is short
+True	the mechanic thought the pilots laugh
+False	the mechanic thought the pilots laughs
+True	the mechanic thought the pilots swim
+False	the mechanic thought the pilots swims
+True	the mechanic thought the pilots smile
+False	the mechanic thought the pilots smiles
+True	the mechanic thought the pilots are tall
+False	the mechanic thought the pilots is tall
+True	the mechanic thought the pilots are old
+False	the mechanic thought the pilots is old
+True	the mechanic thought the pilots are young
+False	the mechanic thought the pilots is young
+True	the mechanic thought the pilots are short
+False	the mechanic thought the pilots is short
+True	the mechanic thought the surgeons laugh
+False	the mechanic thought the surgeons laughs
+True	the mechanic thought the surgeons swim
+False	the mechanic thought the surgeons swims
+True	the mechanic thought the surgeons smile
+False	the mechanic thought the surgeons smiles
+True	the mechanic thought the surgeons are tall
+False	the mechanic thought the surgeons is tall
+True	the mechanic thought the surgeons are old
+False	the mechanic thought the surgeons is old
+True	the mechanic thought the surgeons are young
+False	the mechanic thought the surgeons is young
+True	the mechanic thought the surgeons are short
+False	the mechanic thought the surgeons is short
+True	the mechanic thought the farmers laugh
+False	the mechanic thought the farmers laughs
+True	the mechanic thought the farmers swim
+False	the mechanic thought the farmers swims
+True	the mechanic thought the farmers smile
+False	the mechanic thought the farmers smiles
+True	the mechanic thought the farmers are tall
+False	the mechanic thought the farmers is tall
+True	the mechanic thought the farmers are old
+False	the mechanic thought the farmers is old
+True	the mechanic thought the farmers are young
+False	the mechanic thought the farmers is young
+True	the mechanic thought the farmers are short
+False	the mechanic thought the farmers is short
+True	the mechanic thought the managers laugh
+False	the mechanic thought the managers laughs
+True	the mechanic thought the managers swim
+False	the mechanic thought the managers swims
+True	the mechanic thought the managers smile
+False	the mechanic thought the managers smiles
+True	the mechanic thought the managers are tall
+False	the mechanic thought the managers is tall
+True	the mechanic thought the managers are old
+False	the mechanic thought the managers is old
+True	the mechanic thought the managers are young
+False	the mechanic thought the managers is young
+True	the mechanic thought the managers are short
+False	the mechanic thought the managers is short
+True	the mechanic thought the customers laugh
+False	the mechanic thought the customers laughs
+True	the mechanic thought the customers swim
+False	the mechanic thought the customers swims
+True	the mechanic thought the customers smile
+False	the mechanic thought the customers smiles
+True	the mechanic thought the customers are tall
+False	the mechanic thought the customers is tall
+True	the mechanic thought the customers are old
+False	the mechanic thought the customers is old
+True	the mechanic thought the customers are young
+False	the mechanic thought the customers is young
+True	the mechanic thought the customers are short
+False	the mechanic thought the customers is short
+True	the mechanic thought the officers laugh
+False	the mechanic thought the officers laughs
+True	the mechanic thought the officers swim
+False	the mechanic thought the officers swims
+True	the mechanic thought the officers smile
+False	the mechanic thought the officers smiles
+True	the mechanic thought the officers are tall
+False	the mechanic thought the officers is tall
+True	the mechanic thought the officers are old
+False	the mechanic thought the officers is old
+True	the mechanic thought the officers are young
+False	the mechanic thought the officers is young
+True	the mechanic thought the officers are short
+False	the mechanic thought the officers is short
+True	the mechanic thought the teachers laugh
+False	the mechanic thought the teachers laughs
+True	the mechanic thought the teachers swim
+False	the mechanic thought the teachers swims
+True	the mechanic thought the teachers smile
+False	the mechanic thought the teachers smiles
+True	the mechanic thought the teachers are tall
+False	the mechanic thought the teachers is tall
+True	the mechanic thought the teachers are old
+False	the mechanic thought the teachers is old
+True	the mechanic thought the teachers are young
+False	the mechanic thought the teachers is young
+True	the mechanic thought the teachers are short
+False	the mechanic thought the teachers is short
+True	the mechanic thought the senators laugh
+False	the mechanic thought the senators laughs
+True	the mechanic thought the senators swim
+False	the mechanic thought the senators swims
+True	the mechanic thought the senators smile
+False	the mechanic thought the senators smiles
+True	the mechanic thought the senators are tall
+False	the mechanic thought the senators is tall
+True	the mechanic thought the senators are old
+False	the mechanic thought the senators is old
+True	the mechanic thought the senators are young
+False	the mechanic thought the senators is young
+True	the mechanic thought the senators are short
+False	the mechanic thought the senators is short
+True	the mechanic thought the consultants laugh
+False	the mechanic thought the consultants laughs
+True	the mechanic thought the consultants swim
+False	the mechanic thought the consultants swims
+True	the mechanic thought the consultants smile
+False	the mechanic thought the consultants smiles
+True	the mechanic thought the consultants are tall
+False	the mechanic thought the consultants is tall
+True	the mechanic thought the consultants are old
+False	the mechanic thought the consultants is old
+True	the mechanic thought the consultants are young
+False	the mechanic thought the consultants is young
+True	the mechanic thought the consultants are short
+False	the mechanic thought the consultants is short
+True	the mechanic knew the authors laugh
+False	the mechanic knew the authors laughs
+True	the mechanic knew the authors swim
+False	the mechanic knew the authors swims
+True	the mechanic knew the authors smile
+False	the mechanic knew the authors smiles
+True	the mechanic knew the authors are tall
+False	the mechanic knew the authors is tall
+True	the mechanic knew the authors are old
+False	the mechanic knew the authors is old
+True	the mechanic knew the authors are young
+False	the mechanic knew the authors is young
+True	the mechanic knew the authors are short
+False	the mechanic knew the authors is short
+True	the mechanic knew the pilots laugh
+False	the mechanic knew the pilots laughs
+True	the mechanic knew the pilots swim
+False	the mechanic knew the pilots swims
+True	the mechanic knew the pilots smile
+False	the mechanic knew the pilots smiles
+True	the mechanic knew the pilots are tall
+False	the mechanic knew the pilots is tall
+True	the mechanic knew the pilots are old
+False	the mechanic knew the pilots is old
+True	the mechanic knew the pilots are young
+False	the mechanic knew the pilots is young
+True	the mechanic knew the pilots are short
+False	the mechanic knew the pilots is short
+True	the mechanic knew the surgeons laugh
+False	the mechanic knew the surgeons laughs
+True	the mechanic knew the surgeons swim
+False	the mechanic knew the surgeons swims
+True	the mechanic knew the surgeons smile
+False	the mechanic knew the surgeons smiles
+True	the mechanic knew the surgeons are tall
+False	the mechanic knew the surgeons is tall
+True	the mechanic knew the surgeons are old
+False	the mechanic knew the surgeons is old
+True	the mechanic knew the surgeons are young
+False	the mechanic knew the surgeons is young
+True	the mechanic knew the surgeons are short
+False	the mechanic knew the surgeons is short
+True	the mechanic knew the farmers laugh
+False	the mechanic knew the farmers laughs
+True	the mechanic knew the farmers swim
+False	the mechanic knew the farmers swims
+True	the mechanic knew the farmers smile
+False	the mechanic knew the farmers smiles
+True	the mechanic knew the farmers are tall
+False	the mechanic knew the farmers is tall
+True	the mechanic knew the farmers are old
+False	the mechanic knew the farmers is old
+True	the mechanic knew the farmers are young
+False	the mechanic knew the farmers is young
+True	the mechanic knew the farmers are short
+False	the mechanic knew the farmers is short
+True	the mechanic knew the managers laugh
+False	the mechanic knew the managers laughs
+True	the mechanic knew the managers swim
+False	the mechanic knew the managers swims
+True	the mechanic knew the managers smile
+False	the mechanic knew the managers smiles
+True	the mechanic knew the managers are tall
+False	the mechanic knew the managers is tall
+True	the mechanic knew the managers are old
+False	the mechanic knew the managers is old
+True	the mechanic knew the managers are young
+False	the mechanic knew the managers is young
+True	the mechanic knew the managers are short
+False	the mechanic knew the managers is short
+True	the mechanic knew the customers laugh
+False	the mechanic knew the customers laughs
+True	the mechanic knew the customers swim
+False	the mechanic knew the customers swims
+True	the mechanic knew the customers smile
+False	the mechanic knew the customers smiles
+True	the mechanic knew the customers are tall
+False	the mechanic knew the customers is tall
+True	the mechanic knew the customers are old
+False	the mechanic knew the customers is old
+True	the mechanic knew the customers are young
+False	the mechanic knew the customers is young
+True	the mechanic knew the customers are short
+False	the mechanic knew the customers is short
+True	the mechanic knew the officers laugh
+False	the mechanic knew the officers laughs
+True	the mechanic knew the officers swim
+False	the mechanic knew the officers swims
+True	the mechanic knew the officers smile
+False	the mechanic knew the officers smiles
+True	the mechanic knew the officers are tall
+False	the mechanic knew the officers is tall
+True	the mechanic knew the officers are old
+False	the mechanic knew the officers is old
+True	the mechanic knew the officers are young
+False	the mechanic knew the officers is young
+True	the mechanic knew the officers are short
+False	the mechanic knew the officers is short
+True	the mechanic knew the teachers laugh
+False	the mechanic knew the teachers laughs
+True	the mechanic knew the teachers swim
+False	the mechanic knew the teachers swims
+True	the mechanic knew the teachers smile
+False	the mechanic knew the teachers smiles
+True	the mechanic knew the teachers are tall
+False	the mechanic knew the teachers is tall
+True	the mechanic knew the teachers are old
+False	the mechanic knew the teachers is old
+True	the mechanic knew the teachers are young
+False	the mechanic knew the teachers is young
+True	the mechanic knew the teachers are short
+False	the mechanic knew the teachers is short
+True	the mechanic knew the senators laugh
+False	the mechanic knew the senators laughs
+True	the mechanic knew the senators swim
+False	the mechanic knew the senators swims
+True	the mechanic knew the senators smile
+False	the mechanic knew the senators smiles
+True	the mechanic knew the senators are tall
+False	the mechanic knew the senators is tall
+True	the mechanic knew the senators are old
+False	the mechanic knew the senators is old
+True	the mechanic knew the senators are young
+False	the mechanic knew the senators is young
+True	the mechanic knew the senators are short
+False	the mechanic knew the senators is short
+True	the mechanic knew the consultants laugh
+False	the mechanic knew the consultants laughs
+True	the mechanic knew the consultants swim
+False	the mechanic knew the consultants swims
+True	the mechanic knew the consultants smile
+False	the mechanic knew the consultants smiles
+True	the mechanic knew the consultants are tall
+False	the mechanic knew the consultants is tall
+True	the mechanic knew the consultants are old
+False	the mechanic knew the consultants is old
+True	the mechanic knew the consultants are young
+False	the mechanic knew the consultants is young
+True	the mechanic knew the consultants are short
+False	the mechanic knew the consultants is short
+True	the banker said the authors laugh
+False	the banker said the authors laughs
+True	the banker said the authors swim
+False	the banker said the authors swims
+True	the banker said the authors smile
+False	the banker said the authors smiles
+True	the banker said the authors are tall
+False	the banker said the authors is tall
+True	the banker said the authors are old
+False	the banker said the authors is old
+True	the banker said the authors are young
+False	the banker said the authors is young
+True	the banker said the authors are short
+False	the banker said the authors is short
+True	the banker said the pilots laugh
+False	the banker said the pilots laughs
+True	the banker said the pilots swim
+False	the banker said the pilots swims
+True	the banker said the pilots smile
+False	the banker said the pilots smiles
+True	the banker said the pilots are tall
+False	the banker said the pilots is tall
+True	the banker said the pilots are old
+False	the banker said the pilots is old
+True	the banker said the pilots are young
+False	the banker said the pilots is young
+True	the banker said the pilots are short
+False	the banker said the pilots is short
+True	the banker said the surgeons laugh
+False	the banker said the surgeons laughs
+True	the banker said the surgeons swim
+False	the banker said the surgeons swims
+True	the banker said the surgeons smile
+False	the banker said the surgeons smiles
+True	the banker said the surgeons are tall
+False	the banker said the surgeons is tall
+True	the banker said the surgeons are old
+False	the banker said the surgeons is old
+True	the banker said the surgeons are young
+False	the banker said the surgeons is young
+True	the banker said the surgeons are short
+False	the banker said the surgeons is short
+True	the banker said the farmers laugh
+False	the banker said the farmers laughs
+True	the banker said the farmers swim
+False	the banker said the farmers swims
+True	the banker said the farmers smile
+False	the banker said the farmers smiles
+True	the banker said the farmers are tall
+False	the banker said the farmers is tall
+True	the banker said the farmers are old
+False	the banker said the farmers is old
+True	the banker said the farmers are young
+False	the banker said the farmers is young
+True	the banker said the farmers are short
+False	the banker said the farmers is short
+True	the banker said the managers laugh
+False	the banker said the managers laughs
+True	the banker said the managers swim
+False	the banker said the managers swims
+True	the banker said the managers smile
+False	the banker said the managers smiles
+True	the banker said the managers are tall
+False	the banker said the managers is tall
+True	the banker said the managers are old
+False	the banker said the managers is old
+True	the banker said the managers are young
+False	the banker said the managers is young
+True	the banker said the managers are short
+False	the banker said the managers is short
+True	the banker said the customers laugh
+False	the banker said the customers laughs
+True	the banker said the customers swim
+False	the banker said the customers swims
+True	the banker said the customers smile
+False	the banker said the customers smiles
+True	the banker said the customers are tall
+False	the banker said the customers is tall
+True	the banker said the customers are old
+False	the banker said the customers is old
+True	the banker said the customers are young
+False	the banker said the customers is young
+True	the banker said the customers are short
+False	the banker said the customers is short
+True	the banker said the officers laugh
+False	the banker said the officers laughs
+True	the banker said the officers swim
+False	the banker said the officers swims
+True	the banker said the officers smile
+False	the banker said the officers smiles
+True	the banker said the officers are tall
+False	the banker said the officers is tall
+True	the banker said the officers are old
+False	the banker said the officers is old
+True	the banker said the officers are young
+False	the banker said the officers is young
+True	the banker said the officers are short
+False	the banker said the officers is short
+True	the banker said the teachers laugh
+False	the banker said the teachers laughs
+True	the banker said the teachers swim
+False	the banker said the teachers swims
+True	the banker said the teachers smile
+False	the banker said the teachers smiles
+True	the banker said the teachers are tall
+False	the banker said the teachers is tall
+True	the banker said the teachers are old
+False	the banker said the teachers is old
+True	the banker said the teachers are young
+False	the banker said the teachers is young
+True	the banker said the teachers are short
+False	the banker said the teachers is short
+True	the banker said the senators laugh
+False	the banker said the senators laughs
+True	the banker said the senators swim
+False	the banker said the senators swims
+True	the banker said the senators smile
+False	the banker said the senators smiles
+True	the banker said the senators are tall
+False	the banker said the senators is tall
+True	the banker said the senators are old
+False	the banker said the senators is old
+True	the banker said the senators are young
+False	the banker said the senators is young
+True	the banker said the senators are short
+False	the banker said the senators is short
+True	the banker said the consultants laugh
+False	the banker said the consultants laughs
+True	the banker said the consultants swim
+False	the banker said the consultants swims
+True	the banker said the consultants smile
+False	the banker said the consultants smiles
+True	the banker said the consultants are tall
+False	the banker said the consultants is tall
+True	the banker said the consultants are old
+False	the banker said the consultants is old
+True	the banker said the consultants are young
+False	the banker said the consultants is young
+True	the banker said the consultants are short
+False	the banker said the consultants is short
+True	the banker thought the authors laugh
+False	the banker thought the authors laughs
+True	the banker thought the authors swim
+False	the banker thought the authors swims
+True	the banker thought the authors smile
+False	the banker thought the authors smiles
+True	the banker thought the authors are tall
+False	the banker thought the authors is tall
+True	the banker thought the authors are old
+False	the banker thought the authors is old
+True	the banker thought the authors are young
+False	the banker thought the authors is young
+True	the banker thought the authors are short
+False	the banker thought the authors is short
+True	the banker thought the pilots laugh
+False	the banker thought the pilots laughs
+True	the banker thought the pilots swim
+False	the banker thought the pilots swims
+True	the banker thought the pilots smile
+False	the banker thought the pilots smiles
+True	the banker thought the pilots are tall
+False	the banker thought the pilots is tall
+True	the banker thought the pilots are old
+False	the banker thought the pilots is old
+True	the banker thought the pilots are young
+False	the banker thought the pilots is young
+True	the banker thought the pilots are short
+False	the banker thought the pilots is short
+True	the banker thought the surgeons laugh
+False	the banker thought the surgeons laughs
+True	the banker thought the surgeons swim
+False	the banker thought the surgeons swims
+True	the banker thought the surgeons smile
+False	the banker thought the surgeons smiles
+True	the banker thought the surgeons are tall
+False	the banker thought the surgeons is tall
+True	the banker thought the surgeons are old
+False	the banker thought the surgeons is old
+True	the banker thought the surgeons are young
+False	the banker thought the surgeons is young
+True	the banker thought the surgeons are short
+False	the banker thought the surgeons is short
+True	the banker thought the farmers laugh
+False	the banker thought the farmers laughs
+True	the banker thought the farmers swim
+False	the banker thought the farmers swims
+True	the banker thought the farmers smile
+False	the banker thought the farmers smiles
+True	the banker thought the farmers are tall
+False	the banker thought the farmers is tall
+True	the banker thought the farmers are old
+False	the banker thought the farmers is old
+True	the banker thought the farmers are young
+False	the banker thought the farmers is young
+True	the banker thought the farmers are short
+False	the banker thought the farmers is short
+True	the banker thought the managers laugh
+False	the banker thought the managers laughs
+True	the banker thought the managers swim
+False	the banker thought the managers swims
+True	the banker thought the managers smile
+False	the banker thought the managers smiles
+True	the banker thought the managers are tall
+False	the banker thought the managers is tall
+True	the banker thought the managers are old
+False	the banker thought the managers is old
+True	the banker thought the managers are young
+False	the banker thought the managers is young
+True	the banker thought the managers are short
+False	the banker thought the managers is short
+True	the banker thought the customers laugh
+False	the banker thought the customers laughs
+True	the banker thought the customers swim
+False	the banker thought the customers swims
+True	the banker thought the customers smile
+False	the banker thought the customers smiles
+True	the banker thought the customers are tall
+False	the banker thought the customers is tall
+True	the banker thought the customers are old
+False	the banker thought the customers is old
+True	the banker thought the customers are young
+False	the banker thought the customers is young
+True	the banker thought the customers are short
+False	the banker thought the customers is short
+True	the banker thought the officers laugh
+False	the banker thought the officers laughs
+True	the banker thought the officers swim
+False	the banker thought the officers swims
+True	the banker thought the officers smile
+False	the banker thought the officers smiles
+True	the banker thought the officers are tall
+False	the banker thought the officers is tall
+True	the banker thought the officers are old
+False	the banker thought the officers is old
+True	the banker thought the officers are young
+False	the banker thought the officers is young
+True	the banker thought the officers are short
+False	the banker thought the officers is short
+True	the banker thought the teachers laugh
+False	the banker thought the teachers laughs
+True	the banker thought the teachers swim
+False	the banker thought the teachers swims
+True	the banker thought the teachers smile
+False	the banker thought the teachers smiles
+True	the banker thought the teachers are tall
+False	the banker thought the teachers is tall
+True	the banker thought the teachers are old
+False	the banker thought the teachers is old
+True	the banker thought the teachers are young
+False	the banker thought the teachers is young
+True	the banker thought the teachers are short
+False	the banker thought the teachers is short
+True	the banker thought the senators laugh
+False	the banker thought the senators laughs
+True	the banker thought the senators swim
+False	the banker thought the senators swims
+True	the banker thought the senators smile
+False	the banker thought the senators smiles
+True	the banker thought the senators are tall
+False	the banker thought the senators is tall
+True	the banker thought the senators are old
+False	the banker thought the senators is old
+True	the banker thought the senators are young
+False	the banker thought the senators is young
+True	the banker thought the senators are short
+False	the banker thought the senators is short
+True	the banker thought the consultants laugh
+False	the banker thought the consultants laughs
+True	the banker thought the consultants swim
+False	the banker thought the consultants swims
+True	the banker thought the consultants smile
+False	the banker thought the consultants smiles
+True	the banker thought the consultants are tall
+False	the banker thought the consultants is tall
+True	the banker thought the consultants are old
+False	the banker thought the consultants is old
+True	the banker thought the consultants are young
+False	the banker thought the consultants is young
+True	the banker thought the consultants are short
+False	the banker thought the consultants is short
+True	the banker knew the authors laugh
+False	the banker knew the authors laughs
+True	the banker knew the authors swim
+False	the banker knew the authors swims
+True	the banker knew the authors smile
+False	the banker knew the authors smiles
+True	the banker knew the authors are tall
+False	the banker knew the authors is tall
+True	the banker knew the authors are old
+False	the banker knew the authors is old
+True	the banker knew the authors are young
+False	the banker knew the authors is young
+True	the banker knew the authors are short
+False	the banker knew the authors is short
+True	the banker knew the pilots laugh
+False	the banker knew the pilots laughs
+True	the banker knew the pilots swim
+False	the banker knew the pilots swims
+True	the banker knew the pilots smile
+False	the banker knew the pilots smiles
+True	the banker knew the pilots are tall
+False	the banker knew the pilots is tall
+True	the banker knew the pilots are old
+False	the banker knew the pilots is old
+True	the banker knew the pilots are young
+False	the banker knew the pilots is young
+True	the banker knew the pilots are short
+False	the banker knew the pilots is short
+True	the banker knew the surgeons laugh
+False	the banker knew the surgeons laughs
+True	the banker knew the surgeons swim
+False	the banker knew the surgeons swims
+True	the banker knew the surgeons smile
+False	the banker knew the surgeons smiles
+True	the banker knew the surgeons are tall
+False	the banker knew the surgeons is tall
+True	the banker knew the surgeons are old
+False	the banker knew the surgeons is old
+True	the banker knew the surgeons are young
+False	the banker knew the surgeons is young
+True	the banker knew the surgeons are short
+False	the banker knew the surgeons is short
+True	the banker knew the farmers laugh
+False	the banker knew the farmers laughs
+True	the banker knew the farmers swim
+False	the banker knew the farmers swims
+True	the banker knew the farmers smile
+False	the banker knew the farmers smiles
+True	the banker knew the farmers are tall
+False	the banker knew the farmers is tall
+True	the banker knew the farmers are old
+False	the banker knew the farmers is old
+True	the banker knew the farmers are young
+False	the banker knew the farmers is young
+True	the banker knew the farmers are short
+False	the banker knew the farmers is short
+True	the banker knew the managers laugh
+False	the banker knew the managers laughs
+True	the banker knew the managers swim
+False	the banker knew the managers swims
+True	the banker knew the managers smile
+False	the banker knew the managers smiles
+True	the banker knew the managers are tall
+False	the banker knew the managers is tall
+True	the banker knew the managers are old
+False	the banker knew the managers is old
+True	the banker knew the managers are young
+False	the banker knew the managers is young
+True	the banker knew the managers are short
+False	the banker knew the managers is short
+True	the banker knew the customers laugh
+False	the banker knew the customers laughs
+True	the banker knew the customers swim
+False	the banker knew the customers swims
+True	the banker knew the customers smile
+False	the banker knew the customers smiles
+True	the banker knew the customers are tall
+False	the banker knew the customers is tall
+True	the banker knew the customers are old
+False	the banker knew the customers is old
+True	the banker knew the customers are young
+False	the banker knew the customers is young
+True	the banker knew the customers are short
+False	the banker knew the customers is short
+True	the banker knew the officers laugh
+False	the banker knew the officers laughs
+True	the banker knew the officers swim
+False	the banker knew the officers swims
+True	the banker knew the officers smile
+False	the banker knew the officers smiles
+True	the banker knew the officers are tall
+False	the banker knew the officers is tall
+True	the banker knew the officers are old
+False	the banker knew the officers is old
+True	the banker knew the officers are young
+False	the banker knew the officers is young
+True	the banker knew the officers are short
+False	the banker knew the officers is short
+True	the banker knew the teachers laugh
+False	the banker knew the teachers laughs
+True	the banker knew the teachers swim
+False	the banker knew the teachers swims
+True	the banker knew the teachers smile
+False	the banker knew the teachers smiles
+True	the banker knew the teachers are tall
+False	the banker knew the teachers is tall
+True	the banker knew the teachers are old
+False	the banker knew the teachers is old
+True	the banker knew the teachers are young
+False	the banker knew the teachers is young
+True	the banker knew the teachers are short
+False	the banker knew the teachers is short
+True	the banker knew the senators laugh
+False	the banker knew the senators laughs
+True	the banker knew the senators swim
+False	the banker knew the senators swims
+True	the banker knew the senators smile
+False	the banker knew the senators smiles
+True	the banker knew the senators are tall
+False	the banker knew the senators is tall
+True	the banker knew the senators are old
+False	the banker knew the senators is old
+True	the banker knew the senators are young
+False	the banker knew the senators is young
+True	the banker knew the senators are short
+False	the banker knew the senators is short
+True	the banker knew the consultants laugh
+False	the banker knew the consultants laughs
+True	the banker knew the consultants swim
+False	the banker knew the consultants swims
+True	the banker knew the consultants smile
+False	the banker knew the consultants smiles
+True	the banker knew the consultants are tall
+False	the banker knew the consultants is tall
+True	the banker knew the consultants are old
+False	the banker knew the consultants is old
+True	the banker knew the consultants are young
+False	the banker knew the consultants is young
+True	the banker knew the consultants are short
+False	the banker knew the consultants is short
+True	the mechanics said the authors laugh
+False	the mechanics said the authors laughs
+True	the mechanics said the authors swim
+False	the mechanics said the authors swims
+True	the mechanics said the authors smile
+False	the mechanics said the authors smiles
+True	the mechanics said the authors are tall
+False	the mechanics said the authors is tall
+True	the mechanics said the authors are old
+False	the mechanics said the authors is old
+True	the mechanics said the authors are young
+False	the mechanics said the authors is young
+True	the mechanics said the authors are short
+False	the mechanics said the authors is short
+True	the mechanics said the pilots laugh
+False	the mechanics said the pilots laughs
+True	the mechanics said the pilots swim
+False	the mechanics said the pilots swims
+True	the mechanics said the pilots smile
+False	the mechanics said the pilots smiles
+True	the mechanics said the pilots are tall
+False	the mechanics said the pilots is tall
+True	the mechanics said the pilots are old
+False	the mechanics said the pilots is old
+True	the mechanics said the pilots are young
+False	the mechanics said the pilots is young
+True	the mechanics said the pilots are short
+False	the mechanics said the pilots is short
+True	the mechanics said the surgeons laugh
+False	the mechanics said the surgeons laughs
+True	the mechanics said the surgeons swim
+False	the mechanics said the surgeons swims
+True	the mechanics said the surgeons smile
+False	the mechanics said the surgeons smiles
+True	the mechanics said the surgeons are tall
+False	the mechanics said the surgeons is tall
+True	the mechanics said the surgeons are old
+False	the mechanics said the surgeons is old
+True	the mechanics said the surgeons are young
+False	the mechanics said the surgeons is young
+True	the mechanics said the surgeons are short
+False	the mechanics said the surgeons is short
+True	the mechanics said the farmers laugh
+False	the mechanics said the farmers laughs
+True	the mechanics said the farmers swim
+False	the mechanics said the farmers swims
+True	the mechanics said the farmers smile
+False	the mechanics said the farmers smiles
+True	the mechanics said the farmers are tall
+False	the mechanics said the farmers is tall
+True	the mechanics said the farmers are old
+False	the mechanics said the farmers is old
+True	the mechanics said the farmers are young
+False	the mechanics said the farmers is young
+True	the mechanics said the farmers are short
+False	the mechanics said the farmers is short
+True	the mechanics said the managers laugh
+False	the mechanics said the managers laughs
+True	the mechanics said the managers swim
+False	the mechanics said the managers swims
+True	the mechanics said the managers smile
+False	the mechanics said the managers smiles
+True	the mechanics said the managers are tall
+False	the mechanics said the managers is tall
+True	the mechanics said the managers are old
+False	the mechanics said the managers is old
+True	the mechanics said the managers are young
+False	the mechanics said the managers is young
+True	the mechanics said the managers are short
+False	the mechanics said the managers is short
+True	the mechanics said the customers laugh
+False	the mechanics said the customers laughs
+True	the mechanics said the customers swim
+False	the mechanics said the customers swims
+True	the mechanics said the customers smile
+False	the mechanics said the customers smiles
+True	the mechanics said the customers are tall
+False	the mechanics said the customers is tall
+True	the mechanics said the customers are old
+False	the mechanics said the customers is old
+True	the mechanics said the customers are young
+False	the mechanics said the customers is young
+True	the mechanics said the customers are short
+False	the mechanics said the customers is short
+True	the mechanics said the officers laugh
+False	the mechanics said the officers laughs
+True	the mechanics said the officers swim
+False	the mechanics said the officers swims
+True	the mechanics said the officers smile
+False	the mechanics said the officers smiles
+True	the mechanics said the officers are tall
+False	the mechanics said the officers is tall
+True	the mechanics said the officers are old
+False	the mechanics said the officers is old
+True	the mechanics said the officers are young
+False	the mechanics said the officers is young
+True	the mechanics said the officers are short
+False	the mechanics said the officers is short
+True	the mechanics said the teachers laugh
+False	the mechanics said the teachers laughs
+True	the mechanics said the teachers swim
+False	the mechanics said the teachers swims
+True	the mechanics said the teachers smile
+False	the mechanics said the teachers smiles
+True	the mechanics said the teachers are tall
+False	the mechanics said the teachers is tall
+True	the mechanics said the teachers are old
+False	the mechanics said the teachers is old
+True	the mechanics said the teachers are young
+False	the mechanics said the teachers is young
+True	the mechanics said the teachers are short
+False	the mechanics said the teachers is short
+True	the mechanics said the senators laugh
+False	the mechanics said the senators laughs
+True	the mechanics said the senators swim
+False	the mechanics said the senators swims
+True	the mechanics said the senators smile
+False	the mechanics said the senators smiles
+True	the mechanics said the senators are tall
+False	the mechanics said the senators is tall
+True	the mechanics said the senators are old
+False	the mechanics said the senators is old
+True	the mechanics said the senators are young
+False	the mechanics said the senators is young
+True	the mechanics said the senators are short
+False	the mechanics said the senators is short
+True	the mechanics said the consultants laugh
+False	the mechanics said the consultants laughs
+True	the mechanics said the consultants swim
+False	the mechanics said the consultants swims
+True	the mechanics said the consultants smile
+False	the mechanics said the consultants smiles
+True	the mechanics said the consultants are tall
+False	the mechanics said the consultants is tall
+True	the mechanics said the consultants are old
+False	the mechanics said the consultants is old
+True	the mechanics said the consultants are young
+False	the mechanics said the consultants is young
+True	the mechanics said the consultants are short
+False	the mechanics said the consultants is short
+True	the mechanics thought the authors laugh
+False	the mechanics thought the authors laughs
+True	the mechanics thought the authors swim
+False	the mechanics thought the authors swims
+True	the mechanics thought the authors smile
+False	the mechanics thought the authors smiles
+True	the mechanics thought the authors are tall
+False	the mechanics thought the authors is tall
+True	the mechanics thought the authors are old
+False	the mechanics thought the authors is old
+True	the mechanics thought the authors are young
+False	the mechanics thought the authors is young
+True	the mechanics thought the authors are short
+False	the mechanics thought the authors is short
+True	the mechanics thought the pilots laugh
+False	the mechanics thought the pilots laughs
+True	the mechanics thought the pilots swim
+False	the mechanics thought the pilots swims
+True	the mechanics thought the pilots smile
+False	the mechanics thought the pilots smiles
+True	the mechanics thought the pilots are tall
+False	the mechanics thought the pilots is tall
+True	the mechanics thought the pilots are old
+False	the mechanics thought the pilots is old
+True	the mechanics thought the pilots are young
+False	the mechanics thought the pilots is young
+True	the mechanics thought the pilots are short
+False	the mechanics thought the pilots is short
+True	the mechanics thought the surgeons laugh
+False	the mechanics thought the surgeons laughs
+True	the mechanics thought the surgeons swim
+False	the mechanics thought the surgeons swims
+True	the mechanics thought the surgeons smile
+False	the mechanics thought the surgeons smiles
+True	the mechanics thought the surgeons are tall
+False	the mechanics thought the surgeons is tall
+True	the mechanics thought the surgeons are old
+False	the mechanics thought the surgeons is old
+True	the mechanics thought the surgeons are young
+False	the mechanics thought the surgeons is young
+True	the mechanics thought the surgeons are short
+False	the mechanics thought the surgeons is short
+True	the mechanics thought the farmers laugh
+False	the mechanics thought the farmers laughs
+True	the mechanics thought the farmers swim
+False	the mechanics thought the farmers swims
+True	the mechanics thought the farmers smile
+False	the mechanics thought the farmers smiles
+True	the mechanics thought the farmers are tall
+False	the mechanics thought the farmers is tall
+True	the mechanics thought the farmers are old
+False	the mechanics thought the farmers is old
+True	the mechanics thought the farmers are young
+False	the mechanics thought the farmers is young
+True	the mechanics thought the farmers are short
+False	the mechanics thought the farmers is short
+True	the mechanics thought the managers laugh
+False	the mechanics thought the managers laughs
+True	the mechanics thought the managers swim
+False	the mechanics thought the managers swims
+True	the mechanics thought the managers smile
+False	the mechanics thought the managers smiles
+True	the mechanics thought the managers are tall
+False	the mechanics thought the managers is tall
+True	the mechanics thought the managers are old
+False	the mechanics thought the managers is old
+True	the mechanics thought the managers are young
+False	the mechanics thought the managers is young
+True	the mechanics thought the managers are short
+False	the mechanics thought the managers is short
+True	the mechanics thought the customers laugh
+False	the mechanics thought the customers laughs
+True	the mechanics thought the customers swim
+False	the mechanics thought the customers swims
+True	the mechanics thought the customers smile
+False	the mechanics thought the customers smiles
+True	the mechanics thought the customers are tall
+False	the mechanics thought the customers is tall
+True	the mechanics thought the customers are old
+False	the mechanics thought the customers is old
+True	the mechanics thought the customers are young
+False	the mechanics thought the customers is young
+True	the mechanics thought the customers are short
+False	the mechanics thought the customers is short
+True	the mechanics thought the officers laugh
+False	the mechanics thought the officers laughs
+True	the mechanics thought the officers swim
+False	the mechanics thought the officers swims
+True	the mechanics thought the officers smile
+False	the mechanics thought the officers smiles
+True	the mechanics thought the officers are tall
+False	the mechanics thought the officers is tall
+True	the mechanics thought the officers are old
+False	the mechanics thought the officers is old
+True	the mechanics thought the officers are young
+False	the mechanics thought the officers is young
+True	the mechanics thought the officers are short
+False	the mechanics thought the officers is short
+True	the mechanics thought the teachers laugh
+False	the mechanics thought the teachers laughs
+True	the mechanics thought the teachers swim
+False	the mechanics thought the teachers swims
+True	the mechanics thought the teachers smile
+False	the mechanics thought the teachers smiles
+True	the mechanics thought the teachers are tall
+False	the mechanics thought the teachers is tall
+True	the mechanics thought the teachers are old
+False	the mechanics thought the teachers is old
+True	the mechanics thought the teachers are young
+False	the mechanics thought the teachers is young
+True	the mechanics thought the teachers are short
+False	the mechanics thought the teachers is short
+True	the mechanics thought the senators laugh
+False	the mechanics thought the senators laughs
+True	the mechanics thought the senators swim
+False	the mechanics thought the senators swims
+True	the mechanics thought the senators smile
+False	the mechanics thought the senators smiles
+True	the mechanics thought the senators are tall
+False	the mechanics thought the senators is tall
+True	the mechanics thought the senators are old
+False	the mechanics thought the senators is old
+True	the mechanics thought the senators are young
+False	the mechanics thought the senators is young
+True	the mechanics thought the senators are short
+False	the mechanics thought the senators is short
+True	the mechanics thought the consultants laugh
+False	the mechanics thought the consultants laughs
+True	the mechanics thought the consultants swim
+False	the mechanics thought the consultants swims
+True	the mechanics thought the consultants smile
+False	the mechanics thought the consultants smiles
+True	the mechanics thought the consultants are tall
+False	the mechanics thought the consultants is tall
+True	the mechanics thought the consultants are old
+False	the mechanics thought the consultants is old
+True	the mechanics thought the consultants are young
+False	the mechanics thought the consultants is young
+True	the mechanics thought the consultants are short
+False	the mechanics thought the consultants is short
+True	the mechanics knew the authors laugh
+False	the mechanics knew the authors laughs
+True	the mechanics knew the authors swim
+False	the mechanics knew the authors swims
+True	the mechanics knew the authors smile
+False	the mechanics knew the authors smiles
+True	the mechanics knew the authors are tall
+False	the mechanics knew the authors is tall
+True	the mechanics knew the authors are old
+False	the mechanics knew the authors is old
+True	the mechanics knew the authors are young
+False	the mechanics knew the authors is young
+True	the mechanics knew the authors are short
+False	the mechanics knew the authors is short
+True	the mechanics knew the pilots laugh
+False	the mechanics knew the pilots laughs
+True	the mechanics knew the pilots swim
+False	the mechanics knew the pilots swims
+True	the mechanics knew the pilots smile
+False	the mechanics knew the pilots smiles
+True	the mechanics knew the pilots are tall
+False	the mechanics knew the pilots is tall
+True	the mechanics knew the pilots are old
+False	the mechanics knew the pilots is old
+True	the mechanics knew the pilots are young
+False	the mechanics knew the pilots is young
+True	the mechanics knew the pilots are short
+False	the mechanics knew the pilots is short
+True	the mechanics knew the surgeons laugh
+False	the mechanics knew the surgeons laughs
+True	the mechanics knew the surgeons swim
+False	the mechanics knew the surgeons swims
+True	the mechanics knew the surgeons smile
+False	the mechanics knew the surgeons smiles
+True	the mechanics knew the surgeons are tall
+False	the mechanics knew the surgeons is tall
+True	the mechanics knew the surgeons are old
+False	the mechanics knew the surgeons is old
+True	the mechanics knew the surgeons are young
+False	the mechanics knew the surgeons is young
+True	the mechanics knew the surgeons are short
+False	the mechanics knew the surgeons is short
+True	the mechanics knew the farmers laugh
+False	the mechanics knew the farmers laughs
+True	the mechanics knew the farmers swim
+False	the mechanics knew the farmers swims
+True	the mechanics knew the farmers smile
+False	the mechanics knew the farmers smiles
+True	the mechanics knew the farmers are tall
+False	the mechanics knew the farmers is tall
+True	the mechanics knew the farmers are old
+False	the mechanics knew the farmers is old
+True	the mechanics knew the farmers are young
+False	the mechanics knew the farmers is young
+True	the mechanics knew the farmers are short
+False	the mechanics knew the farmers is short
+True	the mechanics knew the managers laugh
+False	the mechanics knew the managers laughs
+True	the mechanics knew the managers swim
+False	the mechanics knew the managers swims
+True	the mechanics knew the managers smile
+False	the mechanics knew the managers smiles
+True	the mechanics knew the managers are tall
+False	the mechanics knew the managers is tall
+True	the mechanics knew the managers are old
+False	the mechanics knew the managers is old
+True	the mechanics knew the managers are young
+False	the mechanics knew the managers is young
+True	the mechanics knew the managers are short
+False	the mechanics knew the managers is short
+True	the mechanics knew the customers laugh
+False	the mechanics knew the customers laughs
+True	the mechanics knew the customers swim
+False	the mechanics knew the customers swims
+True	the mechanics knew the customers smile
+False	the mechanics knew the customers smiles
+True	the mechanics knew the customers are tall
+False	the mechanics knew the customers is tall
+True	the mechanics knew the customers are old
+False	the mechanics knew the customers is old
+True	the mechanics knew the customers are young
+False	the mechanics knew the customers is young
+True	the mechanics knew the customers are short
+False	the mechanics knew the customers is short
+True	the mechanics knew the officers laugh
+False	the mechanics knew the officers laughs
+True	the mechanics knew the officers swim
+False	the mechanics knew the officers swims
+True	the mechanics knew the officers smile
+False	the mechanics knew the officers smiles
+True	the mechanics knew the officers are tall
+False	the mechanics knew the officers is tall
+True	the mechanics knew the officers are old
+False	the mechanics knew the officers is old
+True	the mechanics knew the officers are young
+False	the mechanics knew the officers is young
+True	the mechanics knew the officers are short
+False	the mechanics knew the officers is short
+True	the mechanics knew the teachers laugh
+False	the mechanics knew the teachers laughs
+True	the mechanics knew the teachers swim
+False	the mechanics knew the teachers swims
+True	the mechanics knew the teachers smile
+False	the mechanics knew the teachers smiles
+True	the mechanics knew the teachers are tall
+False	the mechanics knew the teachers is tall
+True	the mechanics knew the teachers are old
+False	the mechanics knew the teachers is old
+True	the mechanics knew the teachers are young
+False	the mechanics knew the teachers is young
+True	the mechanics knew the teachers are short
+False	the mechanics knew the teachers is short
+True	the mechanics knew the senators laugh
+False	the mechanics knew the senators laughs
+True	the mechanics knew the senators swim
+False	the mechanics knew the senators swims
+True	the mechanics knew the senators smile
+False	the mechanics knew the senators smiles
+True	the mechanics knew the senators are tall
+False	the mechanics knew the senators is tall
+True	the mechanics knew the senators are old
+False	the mechanics knew the senators is old
+True	the mechanics knew the senators are young
+False	the mechanics knew the senators is young
+True	the mechanics knew the senators are short
+False	the mechanics knew the senators is short
+True	the mechanics knew the consultants laugh
+False	the mechanics knew the consultants laughs
+True	the mechanics knew the consultants swim
+False	the mechanics knew the consultants swims
+True	the mechanics knew the consultants smile
+False	the mechanics knew the consultants smiles
+True	the mechanics knew the consultants are tall
+False	the mechanics knew the consultants is tall
+True	the mechanics knew the consultants are old
+False	the mechanics knew the consultants is old
+True	the mechanics knew the consultants are young
+False	the mechanics knew the consultants is young
+True	the mechanics knew the consultants are short
+False	the mechanics knew the consultants is short
+True	the bankers said the authors laugh
+False	the bankers said the authors laughs
+True	the bankers said the authors swim
+False	the bankers said the authors swims
+True	the bankers said the authors smile
+False	the bankers said the authors smiles
+True	the bankers said the authors are tall
+False	the bankers said the authors is tall
+True	the bankers said the authors are old
+False	the bankers said the authors is old
+True	the bankers said the authors are young
+False	the bankers said the authors is young
+True	the bankers said the authors are short
+False	the bankers said the authors is short
+True	the bankers said the pilots laugh
+False	the bankers said the pilots laughs
+True	the bankers said the pilots swim
+False	the bankers said the pilots swims
+True	the bankers said the pilots smile
+False	the bankers said the pilots smiles
+True	the bankers said the pilots are tall
+False	the bankers said the pilots is tall
+True	the bankers said the pilots are old
+False	the bankers said the pilots is old
+True	the bankers said the pilots are young
+False	the bankers said the pilots is young
+True	the bankers said the pilots are short
+False	the bankers said the pilots is short
+True	the bankers said the surgeons laugh
+False	the bankers said the surgeons laughs
+True	the bankers said the surgeons swim
+False	the bankers said the surgeons swims
+True	the bankers said the surgeons smile
+False	the bankers said the surgeons smiles
+True	the bankers said the surgeons are tall
+False	the bankers said the surgeons is tall
+True	the bankers said the surgeons are old
+False	the bankers said the surgeons is old
+True	the bankers said the surgeons are young
+False	the bankers said the surgeons is young
+True	the bankers said the surgeons are short
+False	the bankers said the surgeons is short
+True	the bankers said the farmers laugh
+False	the bankers said the farmers laughs
+True	the bankers said the farmers swim
+False	the bankers said the farmers swims
+True	the bankers said the farmers smile
+False	the bankers said the farmers smiles
+True	the bankers said the farmers are tall
+False	the bankers said the farmers is tall
+True	the bankers said the farmers are old
+False	the bankers said the farmers is old
+True	the bankers said the farmers are young
+False	the bankers said the farmers is young
+True	the bankers said the farmers are short
+False	the bankers said the farmers is short
+True	the bankers said the managers laugh
+False	the bankers said the managers laughs
+True	the bankers said the managers swim
+False	the bankers said the managers swims
+True	the bankers said the managers smile
+False	the bankers said the managers smiles
+True	the bankers said the managers are tall
+False	the bankers said the managers is tall
+True	the bankers said the managers are old
+False	the bankers said the managers is old
+True	the bankers said the managers are young
+False	the bankers said the managers is young
+True	the bankers said the managers are short
+False	the bankers said the managers is short
+True	the bankers said the customers laugh
+False	the bankers said the customers laughs
+True	the bankers said the customers swim
+False	the bankers said the customers swims
+True	the bankers said the customers smile
+False	the bankers said the customers smiles
+True	the bankers said the customers are tall
+False	the bankers said the customers is tall
+True	the bankers said the customers are old
+False	the bankers said the customers is old
+True	the bankers said the customers are young
+False	the bankers said the customers is young
+True	the bankers said the customers are short
+False	the bankers said the customers is short
+True	the bankers said the officers laugh
+False	the bankers said the officers laughs
+True	the bankers said the officers swim
+False	the bankers said the officers swims
+True	the bankers said the officers smile
+False	the bankers said the officers smiles
+True	the bankers said the officers are tall
+False	the bankers said the officers is tall
+True	the bankers said the officers are old
+False	the bankers said the officers is old
+True	the bankers said the officers are young
+False	the bankers said the officers is young
+True	the bankers said the officers are short
+False	the bankers said the officers is short
+True	the bankers said the teachers laugh
+False	the bankers said the teachers laughs
+True	the bankers said the teachers swim
+False	the bankers said the teachers swims
+True	the bankers said the teachers smile
+False	the bankers said the teachers smiles
+True	the bankers said the teachers are tall
+False	the bankers said the teachers is tall
+True	the bankers said the teachers are old
+False	the bankers said the teachers is old
+True	the bankers said the teachers are young
+False	the bankers said the teachers is young
+True	the bankers said the teachers are short
+False	the bankers said the teachers is short
+True	the bankers said the senators laugh
+False	the bankers said the senators laughs
+True	the bankers said the senators swim
+False	the bankers said the senators swims
+True	the bankers said the senators smile
+False	the bankers said the senators smiles
+True	the bankers said the senators are tall
+False	the bankers said the senators is tall
+True	the bankers said the senators are old
+False	the bankers said the senators is old
+True	the bankers said the senators are young
+False	the bankers said the senators is young
+True	the bankers said the senators are short
+False	the bankers said the senators is short
+True	the bankers said the consultants laugh
+False	the bankers said the consultants laughs
+True	the bankers said the consultants swim
+False	the bankers said the consultants swims
+True	the bankers said the consultants smile
+False	the bankers said the consultants smiles
+True	the bankers said the consultants are tall
+False	the bankers said the consultants is tall
+True	the bankers said the consultants are old
+False	the bankers said the consultants is old
+True	the bankers said the consultants are young
+False	the bankers said the consultants is young
+True	the bankers said the consultants are short
+False	the bankers said the consultants is short
+True	the bankers thought the authors laugh
+False	the bankers thought the authors laughs
+True	the bankers thought the authors swim
+False	the bankers thought the authors swims
+True	the bankers thought the authors smile
+False	the bankers thought the authors smiles
+True	the bankers thought the authors are tall
+False	the bankers thought the authors is tall
+True	the bankers thought the authors are old
+False	the bankers thought the authors is old
+True	the bankers thought the authors are young
+False	the bankers thought the authors is young
+True	the bankers thought the authors are short
+False	the bankers thought the authors is short
+True	the bankers thought the pilots laugh
+False	the bankers thought the pilots laughs
+True	the bankers thought the pilots swim
+False	the bankers thought the pilots swims
+True	the bankers thought the pilots smile
+False	the bankers thought the pilots smiles
+True	the bankers thought the pilots are tall
+False	the bankers thought the pilots is tall
+True	the bankers thought the pilots are old
+False	the bankers thought the pilots is old
+True	the bankers thought the pilots are young
+False	the bankers thought the pilots is young
+True	the bankers thought the pilots are short
+False	the bankers thought the pilots is short
+True	the bankers thought the surgeons laugh
+False	the bankers thought the surgeons laughs
+True	the bankers thought the surgeons swim
+False	the bankers thought the surgeons swims
+True	the bankers thought the surgeons smile
+False	the bankers thought the surgeons smiles
+True	the bankers thought the surgeons are tall
+False	the bankers thought the surgeons is tall
+True	the bankers thought the surgeons are old
+False	the bankers thought the surgeons is old
+True	the bankers thought the surgeons are young
+False	the bankers thought the surgeons is young
+True	the bankers thought the surgeons are short
+False	the bankers thought the surgeons is short
+True	the bankers thought the farmers laugh
+False	the bankers thought the farmers laughs
+True	the bankers thought the farmers swim
+False	the bankers thought the farmers swims
+True	the bankers thought the farmers smile
+False	the bankers thought the farmers smiles
+True	the bankers thought the farmers are tall
+False	the bankers thought the farmers is tall
+True	the bankers thought the farmers are old
+False	the bankers thought the farmers is old
+True	the bankers thought the farmers are young
+False	the bankers thought the farmers is young
+True	the bankers thought the farmers are short
+False	the bankers thought the farmers is short
+True	the bankers thought the managers laugh
+False	the bankers thought the managers laughs
+True	the bankers thought the managers swim
+False	the bankers thought the managers swims
+True	the bankers thought the managers smile
+False	the bankers thought the managers smiles
+True	the bankers thought the managers are tall
+False	the bankers thought the managers is tall
+True	the bankers thought the managers are old
+False	the bankers thought the managers is old
+True	the bankers thought the managers are young
+False	the bankers thought the managers is young
+True	the bankers thought the managers are short
+False	the bankers thought the managers is short
+True	the bankers thought the customers laugh
+False	the bankers thought the customers laughs
+True	the bankers thought the customers swim
+False	the bankers thought the customers swims
+True	the bankers thought the customers smile
+False	the bankers thought the customers smiles
+True	the bankers thought the customers are tall
+False	the bankers thought the customers is tall
+True	the bankers thought the customers are old
+False	the bankers thought the customers is old
+True	the bankers thought the customers are young
+False	the bankers thought the customers is young
+True	the bankers thought the customers are short
+False	the bankers thought the customers is short
+True	the bankers thought the officers laugh
+False	the bankers thought the officers laughs
+True	the bankers thought the officers swim
+False	the bankers thought the officers swims
+True	the bankers thought the officers smile
+False	the bankers thought the officers smiles
+True	the bankers thought the officers are tall
+False	the bankers thought the officers is tall
+True	the bankers thought the officers are old
+False	the bankers thought the officers is old
+True	the bankers thought the officers are young
+False	the bankers thought the officers is young
+True	the bankers thought the officers are short
+False	the bankers thought the officers is short
+True	the bankers thought the teachers laugh
+False	the bankers thought the teachers laughs
+True	the bankers thought the teachers swim
+False	the bankers thought the teachers swims
+True	the bankers thought the teachers smile
+False	the bankers thought the teachers smiles
+True	the bankers thought the teachers are tall
+False	the bankers thought the teachers is tall
+True	the bankers thought the teachers are old
+False	the bankers thought the teachers is old
+True	the bankers thought the teachers are young
+False	the bankers thought the teachers is young
+True	the bankers thought the teachers are short
+False	the bankers thought the teachers is short
+True	the bankers thought the senators laugh
+False	the bankers thought the senators laughs
+True	the bankers thought the senators swim
+False	the bankers thought the senators swims
+True	the bankers thought the senators smile
+False	the bankers thought the senators smiles
+True	the bankers thought the senators are tall
+False	the bankers thought the senators is tall
+True	the bankers thought the senators are old
+False	the bankers thought the senators is old
+True	the bankers thought the senators are young
+False	the bankers thought the senators is young
+True	the bankers thought the senators are short
+False	the bankers thought the senators is short
+True	the bankers thought the consultants laugh
+False	the bankers thought the consultants laughs
+True	the bankers thought the consultants swim
+False	the bankers thought the consultants swims
+True	the bankers thought the consultants smile
+False	the bankers thought the consultants smiles
+True	the bankers thought the consultants are tall
+False	the bankers thought the consultants is tall
+True	the bankers thought the consultants are old
+False	the bankers thought the consultants is old
+True	the bankers thought the consultants are young
+False	the bankers thought the consultants is young
+True	the bankers thought the consultants are short
+False	the bankers thought the consultants is short
+True	the bankers knew the authors laugh
+False	the bankers knew the authors laughs
+True	the bankers knew the authors swim
+False	the bankers knew the authors swims
+True	the bankers knew the authors smile
+False	the bankers knew the authors smiles
+True	the bankers knew the authors are tall
+False	the bankers knew the authors is tall
+True	the bankers knew the authors are old
+False	the bankers knew the authors is old
+True	the bankers knew the authors are young
+False	the bankers knew the authors is young
+True	the bankers knew the authors are short
+False	the bankers knew the authors is short
+True	the bankers knew the pilots laugh
+False	the bankers knew the pilots laughs
+True	the bankers knew the pilots swim
+False	the bankers knew the pilots swims
+True	the bankers knew the pilots smile
+False	the bankers knew the pilots smiles
+True	the bankers knew the pilots are tall
+False	the bankers knew the pilots is tall
+True	the bankers knew the pilots are old
+False	the bankers knew the pilots is old
+True	the bankers knew the pilots are young
+False	the bankers knew the pilots is young
+True	the bankers knew the pilots are short
+False	the bankers knew the pilots is short
+True	the bankers knew the surgeons laugh
+False	the bankers knew the surgeons laughs
+True	the bankers knew the surgeons swim
+False	the bankers knew the surgeons swims
+True	the bankers knew the surgeons smile
+False	the bankers knew the surgeons smiles
+True	the bankers knew the surgeons are tall
+False	the bankers knew the surgeons is tall
+True	the bankers knew the surgeons are old
+False	the bankers knew the surgeons is old
+True	the bankers knew the surgeons are young
+False	the bankers knew the surgeons is young
+True	the bankers knew the surgeons are short
+False	the bankers knew the surgeons is short
+True	the bankers knew the farmers laugh
+False	the bankers knew the farmers laughs
+True	the bankers knew the farmers swim
+False	the bankers knew the farmers swims
+True	the bankers knew the farmers smile
+False	the bankers knew the farmers smiles
+True	the bankers knew the farmers are tall
+False	the bankers knew the farmers is tall
+True	the bankers knew the farmers are old
+False	the bankers knew the farmers is old
+True	the bankers knew the farmers are young
+False	the bankers knew the farmers is young
+True	the bankers knew the farmers are short
+False	the bankers knew the farmers is short
+True	the bankers knew the managers laugh
+False	the bankers knew the managers laughs
+True	the bankers knew the managers swim
+False	the bankers knew the managers swims
+True	the bankers knew the managers smile
+False	the bankers knew the managers smiles
+True	the bankers knew the managers are tall
+False	the bankers knew the managers is tall
+True	the bankers knew the managers are old
+False	the bankers knew the managers is old
+True	the bankers knew the managers are young
+False	the bankers knew the managers is young
+True	the bankers knew the managers are short
+False	the bankers knew the managers is short
+True	the bankers knew the customers laugh
+False	the bankers knew the customers laughs
+True	the bankers knew the customers swim
+False	the bankers knew the customers swims
+True	the bankers knew the customers smile
+False	the bankers knew the customers smiles
+True	the bankers knew the customers are tall
+False	the bankers knew the customers is tall
+True	the bankers knew the customers are old
+False	the bankers knew the customers is old
+True	the bankers knew the customers are young
+False	the bankers knew the customers is young
+True	the bankers knew the customers are short
+False	the bankers knew the customers is short
+True	the bankers knew the officers laugh
+False	the bankers knew the officers laughs
+True	the bankers knew the officers swim
+False	the bankers knew the officers swims
+True	the bankers knew the officers smile
+False	the bankers knew the officers smiles
+True	the bankers knew the officers are tall
+False	the bankers knew the officers is tall
+True	the bankers knew the officers are old
+False	the bankers knew the officers is old
+True	the bankers knew the officers are young
+False	the bankers knew the officers is young
+True	the bankers knew the officers are short
+False	the bankers knew the officers is short
+True	the bankers knew the teachers laugh
+False	the bankers knew the teachers laughs
+True	the bankers knew the teachers swim
+False	the bankers knew the teachers swims
+True	the bankers knew the teachers smile
+False	the bankers knew the teachers smiles
+True	the bankers knew the teachers are tall
+False	the bankers knew the teachers is tall
+True	the bankers knew the teachers are old
+False	the bankers knew the teachers is old
+True	the bankers knew the teachers are young
+False	the bankers knew the teachers is young
+True	the bankers knew the teachers are short
+False	the bankers knew the teachers is short
+True	the bankers knew the senators laugh
+False	the bankers knew the senators laughs
+True	the bankers knew the senators swim
+False	the bankers knew the senators swims
+True	the bankers knew the senators smile
+False	the bankers knew the senators smiles
+True	the bankers knew the senators are tall
+False	the bankers knew the senators is tall
+True	the bankers knew the senators are old
+False	the bankers knew the senators is old
+True	the bankers knew the senators are young
+False	the bankers knew the senators is young
+True	the bankers knew the senators are short
+False	the bankers knew the senators is short
+True	the bankers knew the consultants laugh
+False	the bankers knew the consultants laughs
+True	the bankers knew the consultants swim
+False	the bankers knew the consultants swims
+True	the bankers knew the consultants smile
+False	the bankers knew the consultants smiles
+True	the bankers knew the consultants are tall
+False	the bankers knew the consultants is tall
+True	the bankers knew the consultants are old
+False	the bankers knew the consultants is old
+True	the bankers knew the consultants are young
+False	the bankers knew the consultants is young
+True	the bankers knew the consultants are short
+False	the bankers knew the consultants is short
+True	the mechanics said the author laughs
+False	the mechanics said the author laugh
+True	the mechanics said the author swims
+False	the mechanics said the author swim
+True	the mechanics said the author smiles
+False	the mechanics said the author smile
+True	the mechanics said the author is tall
+False	the mechanics said the author are tall
+True	the mechanics said the author is old
+False	the mechanics said the author are old
+True	the mechanics said the author is young
+False	the mechanics said the author are young
+True	the mechanics said the author is short
+False	the mechanics said the author are short
+True	the mechanics said the pilot laughs
+False	the mechanics said the pilot laugh
+True	the mechanics said the pilot swims
+False	the mechanics said the pilot swim
+True	the mechanics said the pilot smiles
+False	the mechanics said the pilot smile
+True	the mechanics said the pilot is tall
+False	the mechanics said the pilot are tall
+True	the mechanics said the pilot is old
+False	the mechanics said the pilot are old
+True	the mechanics said the pilot is young
+False	the mechanics said the pilot are young
+True	the mechanics said the pilot is short
+False	the mechanics said the pilot are short
+True	the mechanics said the surgeon laughs
+False	the mechanics said the surgeon laugh
+True	the mechanics said the surgeon swims
+False	the mechanics said the surgeon swim
+True	the mechanics said the surgeon smiles
+False	the mechanics said the surgeon smile
+True	the mechanics said the surgeon is tall
+False	the mechanics said the surgeon are tall
+True	the mechanics said the surgeon is old
+False	the mechanics said the surgeon are old
+True	the mechanics said the surgeon is young
+False	the mechanics said the surgeon are young
+True	the mechanics said the surgeon is short
+False	the mechanics said the surgeon are short
+True	the mechanics said the farmer laughs
+False	the mechanics said the farmer laugh
+True	the mechanics said the farmer swims
+False	the mechanics said the farmer swim
+True	the mechanics said the farmer smiles
+False	the mechanics said the farmer smile
+True	the mechanics said the farmer is tall
+False	the mechanics said the farmer are tall
+True	the mechanics said the farmer is old
+False	the mechanics said the farmer are old
+True	the mechanics said the farmer is young
+False	the mechanics said the farmer are young
+True	the mechanics said the farmer is short
+False	the mechanics said the farmer are short
+True	the mechanics said the manager laughs
+False	the mechanics said the manager laugh
+True	the mechanics said the manager swims
+False	the mechanics said the manager swim
+True	the mechanics said the manager smiles
+False	the mechanics said the manager smile
+True	the mechanics said the manager is tall
+False	the mechanics said the manager are tall
+True	the mechanics said the manager is old
+False	the mechanics said the manager are old
+True	the mechanics said the manager is young
+False	the mechanics said the manager are young
+True	the mechanics said the manager is short
+False	the mechanics said the manager are short
+True	the mechanics said the customer laughs
+False	the mechanics said the customer laugh
+True	the mechanics said the customer swims
+False	the mechanics said the customer swim
+True	the mechanics said the customer smiles
+False	the mechanics said the customer smile
+True	the mechanics said the customer is tall
+False	the mechanics said the customer are tall
+True	the mechanics said the customer is old
+False	the mechanics said the customer are old
+True	the mechanics said the customer is young
+False	the mechanics said the customer are young
+True	the mechanics said the customer is short
+False	the mechanics said the customer are short
+True	the mechanics said the officer laughs
+False	the mechanics said the officer laugh
+True	the mechanics said the officer swims
+False	the mechanics said the officer swim
+True	the mechanics said the officer smiles
+False	the mechanics said the officer smile
+True	the mechanics said the officer is tall
+False	the mechanics said the officer are tall
+True	the mechanics said the officer is old
+False	the mechanics said the officer are old
+True	the mechanics said the officer is young
+False	the mechanics said the officer are young
+True	the mechanics said the officer is short
+False	the mechanics said the officer are short
+True	the mechanics said the teacher laughs
+False	the mechanics said the teacher laugh
+True	the mechanics said the teacher swims
+False	the mechanics said the teacher swim
+True	the mechanics said the teacher smiles
+False	the mechanics said the teacher smile
+True	the mechanics said the teacher is tall
+False	the mechanics said the teacher are tall
+True	the mechanics said the teacher is old
+False	the mechanics said the teacher are old
+True	the mechanics said the teacher is young
+False	the mechanics said the teacher are young
+True	the mechanics said the teacher is short
+False	the mechanics said the teacher are short
+True	the mechanics said the senator laughs
+False	the mechanics said the senator laugh
+True	the mechanics said the senator swims
+False	the mechanics said the senator swim
+True	the mechanics said the senator smiles
+False	the mechanics said the senator smile
+True	the mechanics said the senator is tall
+False	the mechanics said the senator are tall
+True	the mechanics said the senator is old
+False	the mechanics said the senator are old
+True	the mechanics said the senator is young
+False	the mechanics said the senator are young
+True	the mechanics said the senator is short
+False	the mechanics said the senator are short
+True	the mechanics said the consultant laughs
+False	the mechanics said the consultant laugh
+True	the mechanics said the consultant swims
+False	the mechanics said the consultant swim
+True	the mechanics said the consultant smiles
+False	the mechanics said the consultant smile
+True	the mechanics said the consultant is tall
+False	the mechanics said the consultant are tall
+True	the mechanics said the consultant is old
+False	the mechanics said the consultant are old
+True	the mechanics said the consultant is young
+False	the mechanics said the consultant are young
+True	the mechanics said the consultant is short
+False	the mechanics said the consultant are short
+True	the mechanics thought the author laughs
+False	the mechanics thought the author laugh
+True	the mechanics thought the author swims
+False	the mechanics thought the author swim
+True	the mechanics thought the author smiles
+False	the mechanics thought the author smile
+True	the mechanics thought the author is tall
+False	the mechanics thought the author are tall
+True	the mechanics thought the author is old
+False	the mechanics thought the author are old
+True	the mechanics thought the author is young
+False	the mechanics thought the author are young
+True	the mechanics thought the author is short
+False	the mechanics thought the author are short
+True	the mechanics thought the pilot laughs
+False	the mechanics thought the pilot laugh
+True	the mechanics thought the pilot swims
+False	the mechanics thought the pilot swim
+True	the mechanics thought the pilot smiles
+False	the mechanics thought the pilot smile
+True	the mechanics thought the pilot is tall
+False	the mechanics thought the pilot are tall
+True	the mechanics thought the pilot is old
+False	the mechanics thought the pilot are old
+True	the mechanics thought the pilot is young
+False	the mechanics thought the pilot are young
+True	the mechanics thought the pilot is short
+False	the mechanics thought the pilot are short
+True	the mechanics thought the surgeon laughs
+False	the mechanics thought the surgeon laugh
+True	the mechanics thought the surgeon swims
+False	the mechanics thought the surgeon swim
+True	the mechanics thought the surgeon smiles
+False	the mechanics thought the surgeon smile
+True	the mechanics thought the surgeon is tall
+False	the mechanics thought the surgeon are tall
+True	the mechanics thought the surgeon is old
+False	the mechanics thought the surgeon are old
+True	the mechanics thought the surgeon is young
+False	the mechanics thought the surgeon are young
+True	the mechanics thought the surgeon is short
+False	the mechanics thought the surgeon are short
+True	the mechanics thought the farmer laughs
+False	the mechanics thought the farmer laugh
+True	the mechanics thought the farmer swims
+False	the mechanics thought the farmer swim
+True	the mechanics thought the farmer smiles
+False	the mechanics thought the farmer smile
+True	the mechanics thought the farmer is tall
+False	the mechanics thought the farmer are tall
+True	the mechanics thought the farmer is old
+False	the mechanics thought the farmer are old
+True	the mechanics thought the farmer is young
+False	the mechanics thought the farmer are young
+True	the mechanics thought the farmer is short
+False	the mechanics thought the farmer are short
+True	the mechanics thought the manager laughs
+False	the mechanics thought the manager laugh
+True	the mechanics thought the manager swims
+False	the mechanics thought the manager swim
+True	the mechanics thought the manager smiles
+False	the mechanics thought the manager smile
+True	the mechanics thought the manager is tall
+False	the mechanics thought the manager are tall
+True	the mechanics thought the manager is old
+False	the mechanics thought the manager are old
+True	the mechanics thought the manager is young
+False	the mechanics thought the manager are young
+True	the mechanics thought the manager is short
+False	the mechanics thought the manager are short
+True	the mechanics thought the customer laughs
+False	the mechanics thought the customer laugh
+True	the mechanics thought the customer swims
+False	the mechanics thought the customer swim
+True	the mechanics thought the customer smiles
+False	the mechanics thought the customer smile
+True	the mechanics thought the customer is tall
+False	the mechanics thought the customer are tall
+True	the mechanics thought the customer is old
+False	the mechanics thought the customer are old
+True	the mechanics thought the customer is young
+False	the mechanics thought the customer are young
+True	the mechanics thought the customer is short
+False	the mechanics thought the customer are short
+True	the mechanics thought the officer laughs
+False	the mechanics thought the officer laugh
+True	the mechanics thought the officer swims
+False	the mechanics thought the officer swim
+True	the mechanics thought the officer smiles
+False	the mechanics thought the officer smile
+True	the mechanics thought the officer is tall
+False	the mechanics thought the officer are tall
+True	the mechanics thought the officer is old
+False	the mechanics thought the officer are old
+True	the mechanics thought the officer is young
+False	the mechanics thought the officer are young
+True	the mechanics thought the officer is short
+False	the mechanics thought the officer are short
+True	the mechanics thought the teacher laughs
+False	the mechanics thought the teacher laugh
+True	the mechanics thought the teacher swims
+False	the mechanics thought the teacher swim
+True	the mechanics thought the teacher smiles
+False	the mechanics thought the teacher smile
+True	the mechanics thought the teacher is tall
+False	the mechanics thought the teacher are tall
+True	the mechanics thought the teacher is old
+False	the mechanics thought the teacher are old
+True	the mechanics thought the teacher is young
+False	the mechanics thought the teacher are young
+True	the mechanics thought the teacher is short
+False	the mechanics thought the teacher are short
+True	the mechanics thought the senator laughs
+False	the mechanics thought the senator laugh
+True	the mechanics thought the senator swims
+False	the mechanics thought the senator swim
+True	the mechanics thought the senator smiles
+False	the mechanics thought the senator smile
+True	the mechanics thought the senator is tall
+False	the mechanics thought the senator are tall
+True	the mechanics thought the senator is old
+False	the mechanics thought the senator are old
+True	the mechanics thought the senator is young
+False	the mechanics thought the senator are young
+True	the mechanics thought the senator is short
+False	the mechanics thought the senator are short
+True	the mechanics thought the consultant laughs
+False	the mechanics thought the consultant laugh
+True	the mechanics thought the consultant swims
+False	the mechanics thought the consultant swim
+True	the mechanics thought the consultant smiles
+False	the mechanics thought the consultant smile
+True	the mechanics thought the consultant is tall
+False	the mechanics thought the consultant are tall
+True	the mechanics thought the consultant is old
+False	the mechanics thought the consultant are old
+True	the mechanics thought the consultant is young
+False	the mechanics thought the consultant are young
+True	the mechanics thought the consultant is short
+False	the mechanics thought the consultant are short
+True	the mechanics knew the author laughs
+False	the mechanics knew the author laugh
+True	the mechanics knew the author swims
+False	the mechanics knew the author swim
+True	the mechanics knew the author smiles
+False	the mechanics knew the author smile
+True	the mechanics knew the author is tall
+False	the mechanics knew the author are tall
+True	the mechanics knew the author is old
+False	the mechanics knew the author are old
+True	the mechanics knew the author is young
+False	the mechanics knew the author are young
+True	the mechanics knew the author is short
+False	the mechanics knew the author are short
+True	the mechanics knew the pilot laughs
+False	the mechanics knew the pilot laugh
+True	the mechanics knew the pilot swims
+False	the mechanics knew the pilot swim
+True	the mechanics knew the pilot smiles
+False	the mechanics knew the pilot smile
+True	the mechanics knew the pilot is tall
+False	the mechanics knew the pilot are tall
+True	the mechanics knew the pilot is old
+False	the mechanics knew the pilot are old
+True	the mechanics knew the pilot is young
+False	the mechanics knew the pilot are young
+True	the mechanics knew the pilot is short
+False	the mechanics knew the pilot are short
+True	the mechanics knew the surgeon laughs
+False	the mechanics knew the surgeon laugh
+True	the mechanics knew the surgeon swims
+False	the mechanics knew the surgeon swim
+True	the mechanics knew the surgeon smiles
+False	the mechanics knew the surgeon smile
+True	the mechanics knew the surgeon is tall
+False	the mechanics knew the surgeon are tall
+True	the mechanics knew the surgeon is old
+False	the mechanics knew the surgeon are old
+True	the mechanics knew the surgeon is young
+False	the mechanics knew the surgeon are young
+True	the mechanics knew the surgeon is short
+False	the mechanics knew the surgeon are short
+True	the mechanics knew the farmer laughs
+False	the mechanics knew the farmer laugh
+True	the mechanics knew the farmer swims
+False	the mechanics knew the farmer swim
+True	the mechanics knew the farmer smiles
+False	the mechanics knew the farmer smile
+True	the mechanics knew the farmer is tall
+False	the mechanics knew the farmer are tall
+True	the mechanics knew the farmer is old
+False	the mechanics knew the farmer are old
+True	the mechanics knew the farmer is young
+False	the mechanics knew the farmer are young
+True	the mechanics knew the farmer is short
+False	the mechanics knew the farmer are short
+True	the mechanics knew the manager laughs
+False	the mechanics knew the manager laugh
+True	the mechanics knew the manager swims
+False	the mechanics knew the manager swim
+True	the mechanics knew the manager smiles
+False	the mechanics knew the manager smile
+True	the mechanics knew the manager is tall
+False	the mechanics knew the manager are tall
+True	the mechanics knew the manager is old
+False	the mechanics knew the manager are old
+True	the mechanics knew the manager is young
+False	the mechanics knew the manager are young
+True	the mechanics knew the manager is short
+False	the mechanics knew the manager are short
+True	the mechanics knew the customer laughs
+False	the mechanics knew the customer laugh
+True	the mechanics knew the customer swims
+False	the mechanics knew the customer swim
+True	the mechanics knew the customer smiles
+False	the mechanics knew the customer smile
+True	the mechanics knew the customer is tall
+False	the mechanics knew the customer are tall
+True	the mechanics knew the customer is old
+False	the mechanics knew the customer are old
+True	the mechanics knew the customer is young
+False	the mechanics knew the customer are young
+True	the mechanics knew the customer is short
+False	the mechanics knew the customer are short
+True	the mechanics knew the officer laughs
+False	the mechanics knew the officer laugh
+True	the mechanics knew the officer swims
+False	the mechanics knew the officer swim
+True	the mechanics knew the officer smiles
+False	the mechanics knew the officer smile
+True	the mechanics knew the officer is tall
+False	the mechanics knew the officer are tall
+True	the mechanics knew the officer is old
+False	the mechanics knew the officer are old
+True	the mechanics knew the officer is young
+False	the mechanics knew the officer are young
+True	the mechanics knew the officer is short
+False	the mechanics knew the officer are short
+True	the mechanics knew the teacher laughs
+False	the mechanics knew the teacher laugh
+True	the mechanics knew the teacher swims
+False	the mechanics knew the teacher swim
+True	the mechanics knew the teacher smiles
+False	the mechanics knew the teacher smile
+True	the mechanics knew the teacher is tall
+False	the mechanics knew the teacher are tall
+True	the mechanics knew the teacher is old
+False	the mechanics knew the teacher are old
+True	the mechanics knew the teacher is young
+False	the mechanics knew the teacher are young
+True	the mechanics knew the teacher is short
+False	the mechanics knew the teacher are short
+True	the mechanics knew the senator laughs
+False	the mechanics knew the senator laugh
+True	the mechanics knew the senator swims
+False	the mechanics knew the senator swim
+True	the mechanics knew the senator smiles
+False	the mechanics knew the senator smile
+True	the mechanics knew the senator is tall
+False	the mechanics knew the senator are tall
+True	the mechanics knew the senator is old
+False	the mechanics knew the senator are old
+True	the mechanics knew the senator is young
+False	the mechanics knew the senator are young
+True	the mechanics knew the senator is short
+False	the mechanics knew the senator are short
+True	the mechanics knew the consultant laughs
+False	the mechanics knew the consultant laugh
+True	the mechanics knew the consultant swims
+False	the mechanics knew the consultant swim
+True	the mechanics knew the consultant smiles
+False	the mechanics knew the consultant smile
+True	the mechanics knew the consultant is tall
+False	the mechanics knew the consultant are tall
+True	the mechanics knew the consultant is old
+False	the mechanics knew the consultant are old
+True	the mechanics knew the consultant is young
+False	the mechanics knew the consultant are young
+True	the mechanics knew the consultant is short
+False	the mechanics knew the consultant are short
+True	the bankers said the author laughs
+False	the bankers said the author laugh
+True	the bankers said the author swims
+False	the bankers said the author swim
+True	the bankers said the author smiles
+False	the bankers said the author smile
+True	the bankers said the author is tall
+False	the bankers said the author are tall
+True	the bankers said the author is old
+False	the bankers said the author are old
+True	the bankers said the author is young
+False	the bankers said the author are young
+True	the bankers said the author is short
+False	the bankers said the author are short
+True	the bankers said the pilot laughs
+False	the bankers said the pilot laugh
+True	the bankers said the pilot swims
+False	the bankers said the pilot swim
+True	the bankers said the pilot smiles
+False	the bankers said the pilot smile
+True	the bankers said the pilot is tall
+False	the bankers said the pilot are tall
+True	the bankers said the pilot is old
+False	the bankers said the pilot are old
+True	the bankers said the pilot is young
+False	the bankers said the pilot are young
+True	the bankers said the pilot is short
+False	the bankers said the pilot are short
+True	the bankers said the surgeon laughs
+False	the bankers said the surgeon laugh
+True	the bankers said the surgeon swims
+False	the bankers said the surgeon swim
+True	the bankers said the surgeon smiles
+False	the bankers said the surgeon smile
+True	the bankers said the surgeon is tall
+False	the bankers said the surgeon are tall
+True	the bankers said the surgeon is old
+False	the bankers said the surgeon are old
+True	the bankers said the surgeon is young
+False	the bankers said the surgeon are young
+True	the bankers said the surgeon is short
+False	the bankers said the surgeon are short
+True	the bankers said the farmer laughs
+False	the bankers said the farmer laugh
+True	the bankers said the farmer swims
+False	the bankers said the farmer swim
+True	the bankers said the farmer smiles
+False	the bankers said the farmer smile
+True	the bankers said the farmer is tall
+False	the bankers said the farmer are tall
+True	the bankers said the farmer is old
+False	the bankers said the farmer are old
+True	the bankers said the farmer is young
+False	the bankers said the farmer are young
+True	the bankers said the farmer is short
+False	the bankers said the farmer are short
+True	the bankers said the manager laughs
+False	the bankers said the manager laugh
+True	the bankers said the manager swims
+False	the bankers said the manager swim
+True	the bankers said the manager smiles
+False	the bankers said the manager smile
+True	the bankers said the manager is tall
+False	the bankers said the manager are tall
+True	the bankers said the manager is old
+False	the bankers said the manager are old
+True	the bankers said the manager is young
+False	the bankers said the manager are young
+True	the bankers said the manager is short
+False	the bankers said the manager are short
+True	the bankers said the customer laughs
+False	the bankers said the customer laugh
+True	the bankers said the customer swims
+False	the bankers said the customer swim
+True	the bankers said the customer smiles
+False	the bankers said the customer smile
+True	the bankers said the customer is tall
+False	the bankers said the customer are tall
+True	the bankers said the customer is old
+False	the bankers said the customer are old
+True	the bankers said the customer is young
+False	the bankers said the customer are young
+True	the bankers said the customer is short
+False	the bankers said the customer are short
+True	the bankers said the officer laughs
+False	the bankers said the officer laugh
+True	the bankers said the officer swims
+False	the bankers said the officer swim
+True	the bankers said the officer smiles
+False	the bankers said the officer smile
+True	the bankers said the officer is tall
+False	the bankers said the officer are tall
+True	the bankers said the officer is old
+False	the bankers said the officer are old
+True	the bankers said the officer is young
+False	the bankers said the officer are young
+True	the bankers said the officer is short
+False	the bankers said the officer are short
+True	the bankers said the teacher laughs
+False	the bankers said the teacher laugh
+True	the bankers said the teacher swims
+False	the bankers said the teacher swim
+True	the bankers said the teacher smiles
+False	the bankers said the teacher smile
+True	the bankers said the teacher is tall
+False	the bankers said the teacher are tall
+True	the bankers said the teacher is old
+False	the bankers said the teacher are old
+True	the bankers said the teacher is young
+False	the bankers said the teacher are young
+True	the bankers said the teacher is short
+False	the bankers said the teacher are short
+True	the bankers said the senator laughs
+False	the bankers said the senator laugh
+True	the bankers said the senator swims
+False	the bankers said the senator swim
+True	the bankers said the senator smiles
+False	the bankers said the senator smile
+True	the bankers said the senator is tall
+False	the bankers said the senator are tall
+True	the bankers said the senator is old
+False	the bankers said the senator are old
+True	the bankers said the senator is young
+False	the bankers said the senator are young
+True	the bankers said the senator is short
+False	the bankers said the senator are short
+True	the bankers said the consultant laughs
+False	the bankers said the consultant laugh
+True	the bankers said the consultant swims
+False	the bankers said the consultant swim
+True	the bankers said the consultant smiles
+False	the bankers said the consultant smile
+True	the bankers said the consultant is tall
+False	the bankers said the consultant are tall
+True	the bankers said the consultant is old
+False	the bankers said the consultant are old
+True	the bankers said the consultant is young
+False	the bankers said the consultant are young
+True	the bankers said the consultant is short
+False	the bankers said the consultant are short
+True	the bankers thought the author laughs
+False	the bankers thought the author laugh
+True	the bankers thought the author swims
+False	the bankers thought the author swim
+True	the bankers thought the author smiles
+False	the bankers thought the author smile
+True	the bankers thought the author is tall
+False	the bankers thought the author are tall
+True	the bankers thought the author is old
+False	the bankers thought the author are old
+True	the bankers thought the author is young
+False	the bankers thought the author are young
+True	the bankers thought the author is short
+False	the bankers thought the author are short
+True	the bankers thought the pilot laughs
+False	the bankers thought the pilot laugh
+True	the bankers thought the pilot swims
+False	the bankers thought the pilot swim
+True	the bankers thought the pilot smiles
+False	the bankers thought the pilot smile
+True	the bankers thought the pilot is tall
+False	the bankers thought the pilot are tall
+True	the bankers thought the pilot is old
+False	the bankers thought the pilot are old
+True	the bankers thought the pilot is young
+False	the bankers thought the pilot are young
+True	the bankers thought the pilot is short
+False	the bankers thought the pilot are short
+True	the bankers thought the surgeon laughs
+False	the bankers thought the surgeon laugh
+True	the bankers thought the surgeon swims
+False	the bankers thought the surgeon swim
+True	the bankers thought the surgeon smiles
+False	the bankers thought the surgeon smile
+True	the bankers thought the surgeon is tall
+False	the bankers thought the surgeon are tall
+True	the bankers thought the surgeon is old
+False	the bankers thought the surgeon are old
+True	the bankers thought the surgeon is young
+False	the bankers thought the surgeon are young
+True	the bankers thought the surgeon is short
+False	the bankers thought the surgeon are short
+True	the bankers thought the farmer laughs
+False	the bankers thought the farmer laugh
+True	the bankers thought the farmer swims
+False	the bankers thought the farmer swim
+True	the bankers thought the farmer smiles
+False	the bankers thought the farmer smile
+True	the bankers thought the farmer is tall
+False	the bankers thought the farmer are tall
+True	the bankers thought the farmer is old
+False	the bankers thought the farmer are old
+True	the bankers thought the farmer is young
+False	the bankers thought the farmer are young
+True	the bankers thought the farmer is short
+False	the bankers thought the farmer are short
+True	the bankers thought the manager laughs
+False	the bankers thought the manager laugh
+True	the bankers thought the manager swims
+False	the bankers thought the manager swim
+True	the bankers thought the manager smiles
+False	the bankers thought the manager smile
+True	the bankers thought the manager is tall
+False	the bankers thought the manager are tall
+True	the bankers thought the manager is old
+False	the bankers thought the manager are old
+True	the bankers thought the manager is young
+False	the bankers thought the manager are young
+True	the bankers thought the manager is short
+False	the bankers thought the manager are short
+True	the bankers thought the customer laughs
+False	the bankers thought the customer laugh
+True	the bankers thought the customer swims
+False	the bankers thought the customer swim
+True	the bankers thought the customer smiles
+False	the bankers thought the customer smile
+True	the bankers thought the customer is tall
+False	the bankers thought the customer are tall
+True	the bankers thought the customer is old
+False	the bankers thought the customer are old
+True	the bankers thought the customer is young
+False	the bankers thought the customer are young
+True	the bankers thought the customer is short
+False	the bankers thought the customer are short
+True	the bankers thought the officer laughs
+False	the bankers thought the officer laugh
+True	the bankers thought the officer swims
+False	the bankers thought the officer swim
+True	the bankers thought the officer smiles
+False	the bankers thought the officer smile
+True	the bankers thought the officer is tall
+False	the bankers thought the officer are tall
+True	the bankers thought the officer is old
+False	the bankers thought the officer are old
+True	the bankers thought the officer is young
+False	the bankers thought the officer are young
+True	the bankers thought the officer is short
+False	the bankers thought the officer are short
+True	the bankers thought the teacher laughs
+False	the bankers thought the teacher laugh
+True	the bankers thought the teacher swims
+False	the bankers thought the teacher swim
+True	the bankers thought the teacher smiles
+False	the bankers thought the teacher smile
+True	the bankers thought the teacher is tall
+False	the bankers thought the teacher are tall
+True	the bankers thought the teacher is old
+False	the bankers thought the teacher are old
+True	the bankers thought the teacher is young
+False	the bankers thought the teacher are young
+True	the bankers thought the teacher is short
+False	the bankers thought the teacher are short
+True	the bankers thought the senator laughs
+False	the bankers thought the senator laugh
+True	the bankers thought the senator swims
+False	the bankers thought the senator swim
+True	the bankers thought the senator smiles
+False	the bankers thought the senator smile
+True	the bankers thought the senator is tall
+False	the bankers thought the senator are tall
+True	the bankers thought the senator is old
+False	the bankers thought the senator are old
+True	the bankers thought the senator is young
+False	the bankers thought the senator are young
+True	the bankers thought the senator is short
+False	the bankers thought the senator are short
+True	the bankers thought the consultant laughs
+False	the bankers thought the consultant laugh
+True	the bankers thought the consultant swims
+False	the bankers thought the consultant swim
+True	the bankers thought the consultant smiles
+False	the bankers thought the consultant smile
+True	the bankers thought the consultant is tall
+False	the bankers thought the consultant are tall
+True	the bankers thought the consultant is old
+False	the bankers thought the consultant are old
+True	the bankers thought the consultant is young
+False	the bankers thought the consultant are young
+True	the bankers thought the consultant is short
+False	the bankers thought the consultant are short
+True	the bankers knew the author laughs
+False	the bankers knew the author laugh
+True	the bankers knew the author swims
+False	the bankers knew the author swim
+True	the bankers knew the author smiles
+False	the bankers knew the author smile
+True	the bankers knew the author is tall
+False	the bankers knew the author are tall
+True	the bankers knew the author is old
+False	the bankers knew the author are old
+True	the bankers knew the author is young
+False	the bankers knew the author are young
+True	the bankers knew the author is short
+False	the bankers knew the author are short
+True	the bankers knew the pilot laughs
+False	the bankers knew the pilot laugh
+True	the bankers knew the pilot swims
+False	the bankers knew the pilot swim
+True	the bankers knew the pilot smiles
+False	the bankers knew the pilot smile
+True	the bankers knew the pilot is tall
+False	the bankers knew the pilot are tall
+True	the bankers knew the pilot is old
+False	the bankers knew the pilot are old
+True	the bankers knew the pilot is young
+False	the bankers knew the pilot are young
+True	the bankers knew the pilot is short
+False	the bankers knew the pilot are short
+True	the bankers knew the surgeon laughs
+False	the bankers knew the surgeon laugh
+True	the bankers knew the surgeon swims
+False	the bankers knew the surgeon swim
+True	the bankers knew the surgeon smiles
+False	the bankers knew the surgeon smile
+True	the bankers knew the surgeon is tall
+False	the bankers knew the surgeon are tall
+True	the bankers knew the surgeon is old
+False	the bankers knew the surgeon are old
+True	the bankers knew the surgeon is young
+False	the bankers knew the surgeon are young
+True	the bankers knew the surgeon is short
+False	the bankers knew the surgeon are short
+True	the bankers knew the farmer laughs
+False	the bankers knew the farmer laugh
+True	the bankers knew the farmer swims
+False	the bankers knew the farmer swim
+True	the bankers knew the farmer smiles
+False	the bankers knew the farmer smile
+True	the bankers knew the farmer is tall
+False	the bankers knew the farmer are tall
+True	the bankers knew the farmer is old
+False	the bankers knew the farmer are old
+True	the bankers knew the farmer is young
+False	the bankers knew the farmer are young
+True	the bankers knew the farmer is short
+False	the bankers knew the farmer are short
+True	the bankers knew the manager laughs
+False	the bankers knew the manager laugh
+True	the bankers knew the manager swims
+False	the bankers knew the manager swim
+True	the bankers knew the manager smiles
+False	the bankers knew the manager smile
+True	the bankers knew the manager is tall
+False	the bankers knew the manager are tall
+True	the bankers knew the manager is old
+False	the bankers knew the manager are old
+True	the bankers knew the manager is young
+False	the bankers knew the manager are young
+True	the bankers knew the manager is short
+False	the bankers knew the manager are short
+True	the bankers knew the customer laughs
+False	the bankers knew the customer laugh
+True	the bankers knew the customer swims
+False	the bankers knew the customer swim
+True	the bankers knew the customer smiles
+False	the bankers knew the customer smile
+True	the bankers knew the customer is tall
+False	the bankers knew the customer are tall
+True	the bankers knew the customer is old
+False	the bankers knew the customer are old
+True	the bankers knew the customer is young
+False	the bankers knew the customer are young
+True	the bankers knew the customer is short
+False	the bankers knew the customer are short
+True	the bankers knew the officer laughs
+False	the bankers knew the officer laugh
+True	the bankers knew the officer swims
+False	the bankers knew the officer swim
+True	the bankers knew the officer smiles
+False	the bankers knew the officer smile
+True	the bankers knew the officer is tall
+False	the bankers knew the officer are tall
+True	the bankers knew the officer is old
+False	the bankers knew the officer are old
+True	the bankers knew the officer is young
+False	the bankers knew the officer are young
+True	the bankers knew the officer is short
+False	the bankers knew the officer are short
+True	the bankers knew the teacher laughs
+False	the bankers knew the teacher laugh
+True	the bankers knew the teacher swims
+False	the bankers knew the teacher swim
+True	the bankers knew the teacher smiles
+False	the bankers knew the teacher smile
+True	the bankers knew the teacher is tall
+False	the bankers knew the teacher are tall
+True	the bankers knew the teacher is old
+False	the bankers knew the teacher are old
+True	the bankers knew the teacher is young
+False	the bankers knew the teacher are young
+True	the bankers knew the teacher is short
+False	the bankers knew the teacher are short
+True	the bankers knew the senator laughs
+False	the bankers knew the senator laugh
+True	the bankers knew the senator swims
+False	the bankers knew the senator swim
+True	the bankers knew the senator smiles
+False	the bankers knew the senator smile
+True	the bankers knew the senator is tall
+False	the bankers knew the senator are tall
+True	the bankers knew the senator is old
+False	the bankers knew the senator are old
+True	the bankers knew the senator is young
+False	the bankers knew the senator are young
+True	the bankers knew the senator is short
+False	the bankers knew the senator are short
+True	the bankers knew the consultant laughs
+False	the bankers knew the consultant laugh
+True	the bankers knew the consultant swims
+False	the bankers knew the consultant swim
+True	the bankers knew the consultant smiles
+False	the bankers knew the consultant smile
+True	the bankers knew the consultant is tall
+False	the bankers knew the consultant are tall
+True	the bankers knew the consultant is old
+False	the bankers knew the consultant are old
+True	the bankers knew the consultant is young
+False	the bankers knew the consultant are young
+True	the bankers knew the consultant is short
+False	the bankers knew the consultant are short
+True	the mechanic said the author laughs
+False	the mechanic said the author laugh
+True	the mechanic said the author swims
+False	the mechanic said the author swim
+True	the mechanic said the author smiles
+False	the mechanic said the author smile
+True	the mechanic said the author is tall
+False	the mechanic said the author are tall
+True	the mechanic said the author is old
+False	the mechanic said the author are old
+True	the mechanic said the author is young
+False	the mechanic said the author are young
+True	the mechanic said the author is short
+False	the mechanic said the author are short
+True	the mechanic said the pilot laughs
+False	the mechanic said the pilot laugh
+True	the mechanic said the pilot swims
+False	the mechanic said the pilot swim
+True	the mechanic said the pilot smiles
+False	the mechanic said the pilot smile
+True	the mechanic said the pilot is tall
+False	the mechanic said the pilot are tall
+True	the mechanic said the pilot is old
+False	the mechanic said the pilot are old
+True	the mechanic said the pilot is young
+False	the mechanic said the pilot are young
+True	the mechanic said the pilot is short
+False	the mechanic said the pilot are short
+True	the mechanic said the surgeon laughs
+False	the mechanic said the surgeon laugh
+True	the mechanic said the surgeon swims
+False	the mechanic said the surgeon swim
+True	the mechanic said the surgeon smiles
+False	the mechanic said the surgeon smile
+True	the mechanic said the surgeon is tall
+False	the mechanic said the surgeon are tall
+True	the mechanic said the surgeon is old
+False	the mechanic said the surgeon are old
+True	the mechanic said the surgeon is young
+False	the mechanic said the surgeon are young
+True	the mechanic said the surgeon is short
+False	the mechanic said the surgeon are short
+True	the mechanic said the farmer laughs
+False	the mechanic said the farmer laugh
+True	the mechanic said the farmer swims
+False	the mechanic said the farmer swim
+True	the mechanic said the farmer smiles
+False	the mechanic said the farmer smile
+True	the mechanic said the farmer is tall
+False	the mechanic said the farmer are tall
+True	the mechanic said the farmer is old
+False	the mechanic said the farmer are old
+True	the mechanic said the farmer is young
+False	the mechanic said the farmer are young
+True	the mechanic said the farmer is short
+False	the mechanic said the farmer are short
+True	the mechanic said the manager laughs
+False	the mechanic said the manager laugh
+True	the mechanic said the manager swims
+False	the mechanic said the manager swim
+True	the mechanic said the manager smiles
+False	the mechanic said the manager smile
+True	the mechanic said the manager is tall
+False	the mechanic said the manager are tall
+True	the mechanic said the manager is old
+False	the mechanic said the manager are old
+True	the mechanic said the manager is young
+False	the mechanic said the manager are young
+True	the mechanic said the manager is short
+False	the mechanic said the manager are short
+True	the mechanic said the customer laughs
+False	the mechanic said the customer laugh
+True	the mechanic said the customer swims
+False	the mechanic said the customer swim
+True	the mechanic said the customer smiles
+False	the mechanic said the customer smile
+True	the mechanic said the customer is tall
+False	the mechanic said the customer are tall
+True	the mechanic said the customer is old
+False	the mechanic said the customer are old
+True	the mechanic said the customer is young
+False	the mechanic said the customer are young
+True	the mechanic said the customer is short
+False	the mechanic said the customer are short
+True	the mechanic said the officer laughs
+False	the mechanic said the officer laugh
+True	the mechanic said the officer swims
+False	the mechanic said the officer swim
+True	the mechanic said the officer smiles
+False	the mechanic said the officer smile
+True	the mechanic said the officer is tall
+False	the mechanic said the officer are tall
+True	the mechanic said the officer is old
+False	the mechanic said the officer are old
+True	the mechanic said the officer is young
+False	the mechanic said the officer are young
+True	the mechanic said the officer is short
+False	the mechanic said the officer are short
+True	the mechanic said the teacher laughs
+False	the mechanic said the teacher laugh
+True	the mechanic said the teacher swims
+False	the mechanic said the teacher swim
+True	the mechanic said the teacher smiles
+False	the mechanic said the teacher smile
+True	the mechanic said the teacher is tall
+False	the mechanic said the teacher are tall
+True	the mechanic said the teacher is old
+False	the mechanic said the teacher are old
+True	the mechanic said the teacher is young
+False	the mechanic said the teacher are young
+True	the mechanic said the teacher is short
+False	the mechanic said the teacher are short
+True	the mechanic said the senator laughs
+False	the mechanic said the senator laugh
+True	the mechanic said the senator swims
+False	the mechanic said the senator swim
+True	the mechanic said the senator smiles
+False	the mechanic said the senator smile
+True	the mechanic said the senator is tall
+False	the mechanic said the senator are tall
+True	the mechanic said the senator is old
+False	the mechanic said the senator are old
+True	the mechanic said the senator is young
+False	the mechanic said the senator are young
+True	the mechanic said the senator is short
+False	the mechanic said the senator are short
+True	the mechanic said the consultant laughs
+False	the mechanic said the consultant laugh
+True	the mechanic said the consultant swims
+False	the mechanic said the consultant swim
+True	the mechanic said the consultant smiles
+False	the mechanic said the consultant smile
+True	the mechanic said the consultant is tall
+False	the mechanic said the consultant are tall
+True	the mechanic said the consultant is old
+False	the mechanic said the consultant are old
+True	the mechanic said the consultant is young
+False	the mechanic said the consultant are young
+True	the mechanic said the consultant is short
+False	the mechanic said the consultant are short
+True	the mechanic thought the author laughs
+False	the mechanic thought the author laugh
+True	the mechanic thought the author swims
+False	the mechanic thought the author swim
+True	the mechanic thought the author smiles
+False	the mechanic thought the author smile
+True	the mechanic thought the author is tall
+False	the mechanic thought the author are tall
+True	the mechanic thought the author is old
+False	the mechanic thought the author are old
+True	the mechanic thought the author is young
+False	the mechanic thought the author are young
+True	the mechanic thought the author is short
+False	the mechanic thought the author are short
+True	the mechanic thought the pilot laughs
+False	the mechanic thought the pilot laugh
+True	the mechanic thought the pilot swims
+False	the mechanic thought the pilot swim
+True	the mechanic thought the pilot smiles
+False	the mechanic thought the pilot smile
+True	the mechanic thought the pilot is tall
+False	the mechanic thought the pilot are tall
+True	the mechanic thought the pilot is old
+False	the mechanic thought the pilot are old
+True	the mechanic thought the pilot is young
+False	the mechanic thought the pilot are young
+True	the mechanic thought the pilot is short
+False	the mechanic thought the pilot are short
+True	the mechanic thought the surgeon laughs
+False	the mechanic thought the surgeon laugh
+True	the mechanic thought the surgeon swims
+False	the mechanic thought the surgeon swim
+True	the mechanic thought the surgeon smiles
+False	the mechanic thought the surgeon smile
+True	the mechanic thought the surgeon is tall
+False	the mechanic thought the surgeon are tall
+True	the mechanic thought the surgeon is old
+False	the mechanic thought the surgeon are old
+True	the mechanic thought the surgeon is young
+False	the mechanic thought the surgeon are young
+True	the mechanic thought the surgeon is short
+False	the mechanic thought the surgeon are short
+True	the mechanic thought the farmer laughs
+False	the mechanic thought the farmer laugh
+True	the mechanic thought the farmer swims
+False	the mechanic thought the farmer swim
+True	the mechanic thought the farmer smiles
+False	the mechanic thought the farmer smile
+True	the mechanic thought the farmer is tall
+False	the mechanic thought the farmer are tall
+True	the mechanic thought the farmer is old
+False	the mechanic thought the farmer are old
+True	the mechanic thought the farmer is young
+False	the mechanic thought the farmer are young
+True	the mechanic thought the farmer is short
+False	the mechanic thought the farmer are short
+True	the mechanic thought the manager laughs
+False	the mechanic thought the manager laugh
+True	the mechanic thought the manager swims
+False	the mechanic thought the manager swim
+True	the mechanic thought the manager smiles
+False	the mechanic thought the manager smile
+True	the mechanic thought the manager is tall
+False	the mechanic thought the manager are tall
+True	the mechanic thought the manager is old
+False	the mechanic thought the manager are old
+True	the mechanic thought the manager is young
+False	the mechanic thought the manager are young
+True	the mechanic thought the manager is short
+False	the mechanic thought the manager are short
+True	the mechanic thought the customer laughs
+False	the mechanic thought the customer laugh
+True	the mechanic thought the customer swims
+False	the mechanic thought the customer swim
+True	the mechanic thought the customer smiles
+False	the mechanic thought the customer smile
+True	the mechanic thought the customer is tall
+False	the mechanic thought the customer are tall
+True	the mechanic thought the customer is old
+False	the mechanic thought the customer are old
+True	the mechanic thought the customer is young
+False	the mechanic thought the customer are young
+True	the mechanic thought the customer is short
+False	the mechanic thought the customer are short
+True	the mechanic thought the officer laughs
+False	the mechanic thought the officer laugh
+True	the mechanic thought the officer swims
+False	the mechanic thought the officer swim
+True	the mechanic thought the officer smiles
+False	the mechanic thought the officer smile
+True	the mechanic thought the officer is tall
+False	the mechanic thought the officer are tall
+True	the mechanic thought the officer is old
+False	the mechanic thought the officer are old
+True	the mechanic thought the officer is young
+False	the mechanic thought the officer are young
+True	the mechanic thought the officer is short
+False	the mechanic thought the officer are short
+True	the mechanic thought the teacher laughs
+False	the mechanic thought the teacher laugh
+True	the mechanic thought the teacher swims
+False	the mechanic thought the teacher swim
+True	the mechanic thought the teacher smiles
+False	the mechanic thought the teacher smile
+True	the mechanic thought the teacher is tall
+False	the mechanic thought the teacher are tall
+True	the mechanic thought the teacher is old
+False	the mechanic thought the teacher are old
+True	the mechanic thought the teacher is young
+False	the mechanic thought the teacher are young
+True	the mechanic thought the teacher is short
+False	the mechanic thought the teacher are short
+True	the mechanic thought the senator laughs
+False	the mechanic thought the senator laugh
+True	the mechanic thought the senator swims
+False	the mechanic thought the senator swim
+True	the mechanic thought the senator smiles
+False	the mechanic thought the senator smile
+True	the mechanic thought the senator is tall
+False	the mechanic thought the senator are tall
+True	the mechanic thought the senator is old
+False	the mechanic thought the senator are old
+True	the mechanic thought the senator is young
+False	the mechanic thought the senator are young
+True	the mechanic thought the senator is short
+False	the mechanic thought the senator are short
+True	the mechanic thought the consultant laughs
+False	the mechanic thought the consultant laugh
+True	the mechanic thought the consultant swims
+False	the mechanic thought the consultant swim
+True	the mechanic thought the consultant smiles
+False	the mechanic thought the consultant smile
+True	the mechanic thought the consultant is tall
+False	the mechanic thought the consultant are tall
+True	the mechanic thought the consultant is old
+False	the mechanic thought the consultant are old
+True	the mechanic thought the consultant is young
+False	the mechanic thought the consultant are young
+True	the mechanic thought the consultant is short
+False	the mechanic thought the consultant are short
+True	the mechanic knew the author laughs
+False	the mechanic knew the author laugh
+True	the mechanic knew the author swims
+False	the mechanic knew the author swim
+True	the mechanic knew the author smiles
+False	the mechanic knew the author smile
+True	the mechanic knew the author is tall
+False	the mechanic knew the author are tall
+True	the mechanic knew the author is old
+False	the mechanic knew the author are old
+True	the mechanic knew the author is young
+False	the mechanic knew the author are young
+True	the mechanic knew the author is short
+False	the mechanic knew the author are short
+True	the mechanic knew the pilot laughs
+False	the mechanic knew the pilot laugh
+True	the mechanic knew the pilot swims
+False	the mechanic knew the pilot swim
+True	the mechanic knew the pilot smiles
+False	the mechanic knew the pilot smile
+True	the mechanic knew the pilot is tall
+False	the mechanic knew the pilot are tall
+True	the mechanic knew the pilot is old
+False	the mechanic knew the pilot are old
+True	the mechanic knew the pilot is young
+False	the mechanic knew the pilot are young
+True	the mechanic knew the pilot is short
+False	the mechanic knew the pilot are short
+True	the mechanic knew the surgeon laughs
+False	the mechanic knew the surgeon laugh
+True	the mechanic knew the surgeon swims
+False	the mechanic knew the surgeon swim
+True	the mechanic knew the surgeon smiles
+False	the mechanic knew the surgeon smile
+True	the mechanic knew the surgeon is tall
+False	the mechanic knew the surgeon are tall
+True	the mechanic knew the surgeon is old
+False	the mechanic knew the surgeon are old
+True	the mechanic knew the surgeon is young
+False	the mechanic knew the surgeon are young
+True	the mechanic knew the surgeon is short
+False	the mechanic knew the surgeon are short
+True	the mechanic knew the farmer laughs
+False	the mechanic knew the farmer laugh
+True	the mechanic knew the farmer swims
+False	the mechanic knew the farmer swim
+True	the mechanic knew the farmer smiles
+False	the mechanic knew the farmer smile
+True	the mechanic knew the farmer is tall
+False	the mechanic knew the farmer are tall
+True	the mechanic knew the farmer is old
+False	the mechanic knew the farmer are old
+True	the mechanic knew the farmer is young
+False	the mechanic knew the farmer are young
+True	the mechanic knew the farmer is short
+False	the mechanic knew the farmer are short
+True	the mechanic knew the manager laughs
+False	the mechanic knew the manager laugh
+True	the mechanic knew the manager swims
+False	the mechanic knew the manager swim
+True	the mechanic knew the manager smiles
+False	the mechanic knew the manager smile
+True	the mechanic knew the manager is tall
+False	the mechanic knew the manager are tall
+True	the mechanic knew the manager is old
+False	the mechanic knew the manager are old
+True	the mechanic knew the manager is young
+False	the mechanic knew the manager are young
+True	the mechanic knew the manager is short
+False	the mechanic knew the manager are short
+True	the mechanic knew the customer laughs
+False	the mechanic knew the customer laugh
+True	the mechanic knew the customer swims
+False	the mechanic knew the customer swim
+True	the mechanic knew the customer smiles
+False	the mechanic knew the customer smile
+True	the mechanic knew the customer is tall
+False	the mechanic knew the customer are tall
+True	the mechanic knew the customer is old
+False	the mechanic knew the customer are old
+True	the mechanic knew the customer is young
+False	the mechanic knew the customer are young
+True	the mechanic knew the customer is short
+False	the mechanic knew the customer are short
+True	the mechanic knew the officer laughs
+False	the mechanic knew the officer laugh
+True	the mechanic knew the officer swims
+False	the mechanic knew the officer swim
+True	the mechanic knew the officer smiles
+False	the mechanic knew the officer smile
+True	the mechanic knew the officer is tall
+False	the mechanic knew the officer are tall
+True	the mechanic knew the officer is old
+False	the mechanic knew the officer are old
+True	the mechanic knew the officer is young
+False	the mechanic knew the officer are young
+True	the mechanic knew the officer is short
+False	the mechanic knew the officer are short
+True	the mechanic knew the teacher laughs
+False	the mechanic knew the teacher laugh
+True	the mechanic knew the teacher swims
+False	the mechanic knew the teacher swim
+True	the mechanic knew the teacher smiles
+False	the mechanic knew the teacher smile
+True	the mechanic knew the teacher is tall
+False	the mechanic knew the teacher are tall
+True	the mechanic knew the teacher is old
+False	the mechanic knew the teacher are old
+True	the mechanic knew the teacher is young
+False	the mechanic knew the teacher are young
+True	the mechanic knew the teacher is short
+False	the mechanic knew the teacher are short
+True	the mechanic knew the senator laughs
+False	the mechanic knew the senator laugh
+True	the mechanic knew the senator swims
+False	the mechanic knew the senator swim
+True	the mechanic knew the senator smiles
+False	the mechanic knew the senator smile
+True	the mechanic knew the senator is tall
+False	the mechanic knew the senator are tall
+True	the mechanic knew the senator is old
+False	the mechanic knew the senator are old
+True	the mechanic knew the senator is young
+False	the mechanic knew the senator are young
+True	the mechanic knew the senator is short
+False	the mechanic knew the senator are short
+True	the mechanic knew the consultant laughs
+False	the mechanic knew the consultant laugh
+True	the mechanic knew the consultant swims
+False	the mechanic knew the consultant swim
+True	the mechanic knew the consultant smiles
+False	the mechanic knew the consultant smile
+True	the mechanic knew the consultant is tall
+False	the mechanic knew the consultant are tall
+True	the mechanic knew the consultant is old
+False	the mechanic knew the consultant are old
+True	the mechanic knew the consultant is young
+False	the mechanic knew the consultant are young
+True	the mechanic knew the consultant is short
+False	the mechanic knew the consultant are short
+True	the banker said the author laughs
+False	the banker said the author laugh
+True	the banker said the author swims
+False	the banker said the author swim
+True	the banker said the author smiles
+False	the banker said the author smile
+True	the banker said the author is tall
+False	the banker said the author are tall
+True	the banker said the author is old
+False	the banker said the author are old
+True	the banker said the author is young
+False	the banker said the author are young
+True	the banker said the author is short
+False	the banker said the author are short
+True	the banker said the pilot laughs
+False	the banker said the pilot laugh
+True	the banker said the pilot swims
+False	the banker said the pilot swim
+True	the banker said the pilot smiles
+False	the banker said the pilot smile
+True	the banker said the pilot is tall
+False	the banker said the pilot are tall
+True	the banker said the pilot is old
+False	the banker said the pilot are old
+True	the banker said the pilot is young
+False	the banker said the pilot are young
+True	the banker said the pilot is short
+False	the banker said the pilot are short
+True	the banker said the surgeon laughs
+False	the banker said the surgeon laugh
+True	the banker said the surgeon swims
+False	the banker said the surgeon swim
+True	the banker said the surgeon smiles
+False	the banker said the surgeon smile
+True	the banker said the surgeon is tall
+False	the banker said the surgeon are tall
+True	the banker said the surgeon is old
+False	the banker said the surgeon are old
+True	the banker said the surgeon is young
+False	the banker said the surgeon are young
+True	the banker said the surgeon is short
+False	the banker said the surgeon are short
+True	the banker said the farmer laughs
+False	the banker said the farmer laugh
+True	the banker said the farmer swims
+False	the banker said the farmer swim
+True	the banker said the farmer smiles
+False	the banker said the farmer smile
+True	the banker said the farmer is tall
+False	the banker said the farmer are tall
+True	the banker said the farmer is old
+False	the banker said the farmer are old
+True	the banker said the farmer is young
+False	the banker said the farmer are young
+True	the banker said the farmer is short
+False	the banker said the farmer are short
+True	the banker said the manager laughs
+False	the banker said the manager laugh
+True	the banker said the manager swims
+False	the banker said the manager swim
+True	the banker said the manager smiles
+False	the banker said the manager smile
+True	the banker said the manager is tall
+False	the banker said the manager are tall
+True	the banker said the manager is old
+False	the banker said the manager are old
+True	the banker said the manager is young
+False	the banker said the manager are young
+True	the banker said the manager is short
+False	the banker said the manager are short
+True	the banker said the customer laughs
+False	the banker said the customer laugh
+True	the banker said the customer swims
+False	the banker said the customer swim
+True	the banker said the customer smiles
+False	the banker said the customer smile
+True	the banker said the customer is tall
+False	the banker said the customer are tall
+True	the banker said the customer is old
+False	the banker said the customer are old
+True	the banker said the customer is young
+False	the banker said the customer are young
+True	the banker said the customer is short
+False	the banker said the customer are short
+True	the banker said the officer laughs
+False	the banker said the officer laugh
+True	the banker said the officer swims
+False	the banker said the officer swim
+True	the banker said the officer smiles
+False	the banker said the officer smile
+True	the banker said the officer is tall
+False	the banker said the officer are tall
+True	the banker said the officer is old
+False	the banker said the officer are old
+True	the banker said the officer is young
+False	the banker said the officer are young
+True	the banker said the officer is short
+False	the banker said the officer are short
+True	the banker said the teacher laughs
+False	the banker said the teacher laugh
+True	the banker said the teacher swims
+False	the banker said the teacher swim
+True	the banker said the teacher smiles
+False	the banker said the teacher smile
+True	the banker said the teacher is tall
+False	the banker said the teacher are tall
+True	the banker said the teacher is old
+False	the banker said the teacher are old
+True	the banker said the teacher is young
+False	the banker said the teacher are young
+True	the banker said the teacher is short
+False	the banker said the teacher are short
+True	the banker said the senator laughs
+False	the banker said the senator laugh
+True	the banker said the senator swims
+False	the banker said the senator swim
+True	the banker said the senator smiles
+False	the banker said the senator smile
+True	the banker said the senator is tall
+False	the banker said the senator are tall
+True	the banker said the senator is old
+False	the banker said the senator are old
+True	the banker said the senator is young
+False	the banker said the senator are young
+True	the banker said the senator is short
+False	the banker said the senator are short
+True	the banker said the consultant laughs
+False	the banker said the consultant laugh
+True	the banker said the consultant swims
+False	the banker said the consultant swim
+True	the banker said the consultant smiles
+False	the banker said the consultant smile
+True	the banker said the consultant is tall
+False	the banker said the consultant are tall
+True	the banker said the consultant is old
+False	the banker said the consultant are old
+True	the banker said the consultant is young
+False	the banker said the consultant are young
+True	the banker said the consultant is short
+False	the banker said the consultant are short
+True	the banker thought the author laughs
+False	the banker thought the author laugh
+True	the banker thought the author swims
+False	the banker thought the author swim
+True	the banker thought the author smiles
+False	the banker thought the author smile
+True	the banker thought the author is tall
+False	the banker thought the author are tall
+True	the banker thought the author is old
+False	the banker thought the author are old
+True	the banker thought the author is young
+False	the banker thought the author are young
+True	the banker thought the author is short
+False	the banker thought the author are short
+True	the banker thought the pilot laughs
+False	the banker thought the pilot laugh
+True	the banker thought the pilot swims
+False	the banker thought the pilot swim
+True	the banker thought the pilot smiles
+False	the banker thought the pilot smile
+True	the banker thought the pilot is tall
+False	the banker thought the pilot are tall
+True	the banker thought the pilot is old
+False	the banker thought the pilot are old
+True	the banker thought the pilot is young
+False	the banker thought the pilot are young
+True	the banker thought the pilot is short
+False	the banker thought the pilot are short
+True	the banker thought the surgeon laughs
+False	the banker thought the surgeon laugh
+True	the banker thought the surgeon swims
+False	the banker thought the surgeon swim
+True	the banker thought the surgeon smiles
+False	the banker thought the surgeon smile
+True	the banker thought the surgeon is tall
+False	the banker thought the surgeon are tall
+True	the banker thought the surgeon is old
+False	the banker thought the surgeon are old
+True	the banker thought the surgeon is young
+False	the banker thought the surgeon are young
+True	the banker thought the surgeon is short
+False	the banker thought the surgeon are short
+True	the banker thought the farmer laughs
+False	the banker thought the farmer laugh
+True	the banker thought the farmer swims
+False	the banker thought the farmer swim
+True	the banker thought the farmer smiles
+False	the banker thought the farmer smile
+True	the banker thought the farmer is tall
+False	the banker thought the farmer are tall
+True	the banker thought the farmer is old
+False	the banker thought the farmer are old
+True	the banker thought the farmer is young
+False	the banker thought the farmer are young
+True	the banker thought the farmer is short
+False	the banker thought the farmer are short
+True	the banker thought the manager laughs
+False	the banker thought the manager laugh
+True	the banker thought the manager swims
+False	the banker thought the manager swim
+True	the banker thought the manager smiles
+False	the banker thought the manager smile
+True	the banker thought the manager is tall
+False	the banker thought the manager are tall
+True	the banker thought the manager is old
+False	the banker thought the manager are old
+True	the banker thought the manager is young
+False	the banker thought the manager are young
+True	the banker thought the manager is short
+False	the banker thought the manager are short
+True	the banker thought the customer laughs
+False	the banker thought the customer laugh
+True	the banker thought the customer swims
+False	the banker thought the customer swim
+True	the banker thought the customer smiles
+False	the banker thought the customer smile
+True	the banker thought the customer is tall
+False	the banker thought the customer are tall
+True	the banker thought the customer is old
+False	the banker thought the customer are old
+True	the banker thought the customer is young
+False	the banker thought the customer are young
+True	the banker thought the customer is short
+False	the banker thought the customer are short
+True	the banker thought the officer laughs
+False	the banker thought the officer laugh
+True	the banker thought the officer swims
+False	the banker thought the officer swim
+True	the banker thought the officer smiles
+False	the banker thought the officer smile
+True	the banker thought the officer is tall
+False	the banker thought the officer are tall
+True	the banker thought the officer is old
+False	the banker thought the officer are old
+True	the banker thought the officer is young
+False	the banker thought the officer are young
+True	the banker thought the officer is short
+False	the banker thought the officer are short
+True	the banker thought the teacher laughs
+False	the banker thought the teacher laugh
+True	the banker thought the teacher swims
+False	the banker thought the teacher swim
+True	the banker thought the teacher smiles
+False	the banker thought the teacher smile
+True	the banker thought the teacher is tall
+False	the banker thought the teacher are tall
+True	the banker thought the teacher is old
+False	the banker thought the teacher are old
+True	the banker thought the teacher is young
+False	the banker thought the teacher are young
+True	the banker thought the teacher is short
+False	the banker thought the teacher are short
+True	the banker thought the senator laughs
+False	the banker thought the senator laugh
+True	the banker thought the senator swims
+False	the banker thought the senator swim
+True	the banker thought the senator smiles
+False	the banker thought the senator smile
+True	the banker thought the senator is tall
+False	the banker thought the senator are tall
+True	the banker thought the senator is old
+False	the banker thought the senator are old
+True	the banker thought the senator is young
+False	the banker thought the senator are young
+True	the banker thought the senator is short
+False	the banker thought the senator are short
+True	the banker thought the consultant laughs
+False	the banker thought the consultant laugh
+True	the banker thought the consultant swims
+False	the banker thought the consultant swim
+True	the banker thought the consultant smiles
+False	the banker thought the consultant smile
+True	the banker thought the consultant is tall
+False	the banker thought the consultant are tall
+True	the banker thought the consultant is old
+False	the banker thought the consultant are old
+True	the banker thought the consultant is young
+False	the banker thought the consultant are young
+True	the banker thought the consultant is short
+False	the banker thought the consultant are short
+True	the banker knew the author laughs
+False	the banker knew the author laugh
+True	the banker knew the author swims
+False	the banker knew the author swim
+True	the banker knew the author smiles
+False	the banker knew the author smile
+True	the banker knew the author is tall
+False	the banker knew the author are tall
+True	the banker knew the author is old
+False	the banker knew the author are old
+True	the banker knew the author is young
+False	the banker knew the author are young
+True	the banker knew the author is short
+False	the banker knew the author are short
+True	the banker knew the pilot laughs
+False	the banker knew the pilot laugh
+True	the banker knew the pilot swims
+False	the banker knew the pilot swim
+True	the banker knew the pilot smiles
+False	the banker knew the pilot smile
+True	the banker knew the pilot is tall
+False	the banker knew the pilot are tall
+True	the banker knew the pilot is old
+False	the banker knew the pilot are old
+True	the banker knew the pilot is young
+False	the banker knew the pilot are young
+True	the banker knew the pilot is short
+False	the banker knew the pilot are short
+True	the banker knew the surgeon laughs
+False	the banker knew the surgeon laugh
+True	the banker knew the surgeon swims
+False	the banker knew the surgeon swim
+True	the banker knew the surgeon smiles
+False	the banker knew the surgeon smile
+True	the banker knew the surgeon is tall
+False	the banker knew the surgeon are tall
+True	the banker knew the surgeon is old
+False	the banker knew the surgeon are old
+True	the banker knew the surgeon is young
+False	the banker knew the surgeon are young
+True	the banker knew the surgeon is short
+False	the banker knew the surgeon are short
+True	the banker knew the farmer laughs
+False	the banker knew the farmer laugh
+True	the banker knew the farmer swims
+False	the banker knew the farmer swim
+True	the banker knew the farmer smiles
+False	the banker knew the farmer smile
+True	the banker knew the farmer is tall
+False	the banker knew the farmer are tall
+True	the banker knew the farmer is old
+False	the banker knew the farmer are old
+True	the banker knew the farmer is young
+False	the banker knew the farmer are young
+True	the banker knew the farmer is short
+False	the banker knew the farmer are short
+True	the banker knew the manager laughs
+False	the banker knew the manager laugh
+True	the banker knew the manager swims
+False	the banker knew the manager swim
+True	the banker knew the manager smiles
+False	the banker knew the manager smile
+True	the banker knew the manager is tall
+False	the banker knew the manager are tall
+True	the banker knew the manager is old
+False	the banker knew the manager are old
+True	the banker knew the manager is young
+False	the banker knew the manager are young
+True	the banker knew the manager is short
+False	the banker knew the manager are short
+True	the banker knew the customer laughs
+False	the banker knew the customer laugh
+True	the banker knew the customer swims
+False	the banker knew the customer swim
+True	the banker knew the customer smiles
+False	the banker knew the customer smile
+True	the banker knew the customer is tall
+False	the banker knew the customer are tall
+True	the banker knew the customer is old
+False	the banker knew the customer are old
+True	the banker knew the customer is young
+False	the banker knew the customer are young
+True	the banker knew the customer is short
+False	the banker knew the customer are short
+True	the banker knew the officer laughs
+False	the banker knew the officer laugh
+True	the banker knew the officer swims
+False	the banker knew the officer swim
+True	the banker knew the officer smiles
+False	the banker knew the officer smile
+True	the banker knew the officer is tall
+False	the banker knew the officer are tall
+True	the banker knew the officer is old
+False	the banker knew the officer are old
+True	the banker knew the officer is young
+False	the banker knew the officer are young
+True	the banker knew the officer is short
+False	the banker knew the officer are short
+True	the banker knew the teacher laughs
+False	the banker knew the teacher laugh
+True	the banker knew the teacher swims
+False	the banker knew the teacher swim
+True	the banker knew the teacher smiles
+False	the banker knew the teacher smile
+True	the banker knew the teacher is tall
+False	the banker knew the teacher are tall
+True	the banker knew the teacher is old
+False	the banker knew the teacher are old
+True	the banker knew the teacher is young
+False	the banker knew the teacher are young
+True	the banker knew the teacher is short
+False	the banker knew the teacher are short
+True	the banker knew the senator laughs
+False	the banker knew the senator laugh
+True	the banker knew the senator swims
+False	the banker knew the senator swim
+True	the banker knew the senator smiles
+False	the banker knew the senator smile
+True	the banker knew the senator is tall
+False	the banker knew the senator are tall
+True	the banker knew the senator is old
+False	the banker knew the senator are old
+True	the banker knew the senator is young
+False	the banker knew the senator are young
+True	the banker knew the senator is short
+False	the banker knew the senator are short
+True	the banker knew the consultant laughs
+False	the banker knew the consultant laugh
+True	the banker knew the consultant swims
+False	the banker knew the consultant swim
+True	the banker knew the consultant smiles
+False	the banker knew the consultant smile
+True	the banker knew the consultant is tall
+False	the banker knew the consultant are tall
+True	the banker knew the consultant is old
+False	the banker knew the consultant are old
+True	the banker knew the consultant is young
+False	the banker knew the consultant are young
+True	the banker knew the consultant is short
+False	the banker knew the consultant are short

@@ -1,0 +1,9 @@
+vary: VP[]
+
+S[] Det[3,p] N_1[3,p,m,anim] VP[3,p]
+S[] NP_1[3,s,m,anim] VP[3,s]
+S[] Det[3,p] N_2[3,p,m] VP[3,p]
+S[] NP_2[3,s,m] VP[3,s]
+
+VP[3,s] est vieux | est jeune | est petit | est grand | déménage | parle | retourne 
+VP[3,p] sont vieux | sont jeunes | sont petits | sont grands | déménagent | parlent | retournent

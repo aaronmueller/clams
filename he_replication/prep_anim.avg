@@ -1,0 +1,9 @@
+vary: V_intr[]
+
+S[] Det[] N_1[3,s,m,anim] Prep[] Det[] N_2[3,s,m] V_intr[3,s]
+S[] Det[] N_1[3,s,m,anim] Prep[] Det[] N_2[3,p,m] V_intr[3,s]
+
+S[] Det[] N_1[3,p,m,anim] Prep[] Det[] N_2[3,s,m] V_intr[3,p]
+S[] Det[] N_1[3,p,m,anim] Prep[] Det[] N_2[3,p,m] V_intr[3,p]
+
+Prep[] מאחורי | ליד

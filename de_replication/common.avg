@@ -1,0 +1,25 @@
+Det[3,p,n] die
+Det[3,p,d] den
+
+N_1[3,p,m,anim] Schriftsteller | Direktoren | Bauern | Chirurgen | Senatoren | Lehrer | Kunden | Polizisten | Piloten | Berater 
+NP_1[3,s,m,anim] der Schriftsteller | der Direktor | der Bauer | der Chirurg | der Senator | der Lehrer | der Kunde | der Polizist | der Pilot | der Berater
+
+N_1[3,p,m,inanim] Spiele | Filme | Romanen | Berge | Computer
+NP_1[3,s,m,inanim] der Spiele | der Film | der Roman | der Berg | der Computer
+N_1[3,p,f,inanim] Städte | Federn | Erzählungen
+NP_1[3,s,f,inanim] die Stadt | die Feder | die Erzählung
+N_1[3,p,n,inanim] Bücher | Gedichte | Gemälde | Lieder | Bilder | Fotos
+NP_1[3,s,n,inanim] das Buch | das Gedicht | das Gemälde | das Lied | das Bild | das Foto
+
+N_2[3,p,m] Wächter | Minister | Leiter | Mitarbeiter | Taxifahrer | Tänzer | Architekten | Köche | Brüder | Kellner
+NP_2[3,s,m] der Wächter | der Minister | der Leiter | der Mitarbeiter | der Taxifahrer | der Tänzer | der Architekt | der Koch | der Bruder | der Kellner
+NP_2[3,s,m,a] den Wächter | den Minister | den Leiter | den Mitarbeiter | den Taxifahrer | den Tänzer | den Architekt | den Koch | den Bruder | den Kellner
+
+N_2[3,p,f] Mitarbeiterinnen | Tänzerinnen | Schwestern | Spielerinnen
+NP_2[3,s,f] die Mitarbeiterin | Die Tänzerin | die Schwester | die Spielerin
+
+N_2[3,p,n] Kinder | Mädchen | Babys
+NP_2[3,s,n] das Kind | das Mädchen | das Baby 
+
+V_1[3,s] mag | vermeidet | verehrt | hasst
+V_1[3,p] mögen | vermeiden | verehren | hassen 

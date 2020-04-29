@@ -1,0 +1,560 @@
+True	les auteurs sont vieux
+False	les auteurs est vieux
+True	les auteurs sont jeunes
+False	les auteurs est jeune
+True	les auteurs sont petits
+False	les auteurs est petit
+True	les auteurs sont grands
+False	les auteurs est grand
+True	les auteurs déménagent
+False	les auteurs déménage
+True	les auteurs parlent
+False	les auteurs parle
+True	les auteurs retournent
+False	les auteurs retourne
+True	les directeurs sont vieux
+False	les directeurs est vieux
+True	les directeurs sont jeunes
+False	les directeurs est jeune
+True	les directeurs sont petits
+False	les directeurs est petit
+True	les directeurs sont grands
+False	les directeurs est grand
+True	les directeurs déménagent
+False	les directeurs déménage
+True	les directeurs parlent
+False	les directeurs parle
+True	les directeurs retournent
+False	les directeurs retourne
+True	les agriculteurs sont vieux
+False	les agriculteurs est vieux
+True	les agriculteurs sont jeunes
+False	les agriculteurs est jeune
+True	les agriculteurs sont petits
+False	les agriculteurs est petit
+True	les agriculteurs sont grands
+False	les agriculteurs est grand
+True	les agriculteurs déménagent
+False	les agriculteurs déménage
+True	les agriculteurs parlent
+False	les agriculteurs parle
+True	les agriculteurs retournent
+False	les agriculteurs retourne
+True	les chirurgiens sont vieux
+False	les chirurgiens est vieux
+True	les chirurgiens sont jeunes
+False	les chirurgiens est jeune
+True	les chirurgiens sont petits
+False	les chirurgiens est petit
+True	les chirurgiens sont grands
+False	les chirurgiens est grand
+True	les chirurgiens déménagent
+False	les chirurgiens déménage
+True	les chirurgiens parlent
+False	les chirurgiens parle
+True	les chirurgiens retournent
+False	les chirurgiens retourne
+True	les sénateurs sont vieux
+False	les sénateurs est vieux
+True	les sénateurs sont jeunes
+False	les sénateurs est jeune
+True	les sénateurs sont petits
+False	les sénateurs est petit
+True	les sénateurs sont grands
+False	les sénateurs est grand
+True	les sénateurs déménagent
+False	les sénateurs déménage
+True	les sénateurs parlent
+False	les sénateurs parle
+True	les sénateurs retournent
+False	les sénateurs retourne
+True	les professeurs sont vieux
+False	les professeurs est vieux
+True	les professeurs sont jeunes
+False	les professeurs est jeune
+True	les professeurs sont petits
+False	les professeurs est petit
+True	les professeurs sont grands
+False	les professeurs est grand
+True	les professeurs déménagent
+False	les professeurs déménage
+True	les professeurs parlent
+False	les professeurs parle
+True	les professeurs retournent
+False	les professeurs retourne
+True	les clients sont vieux
+False	les clients est vieux
+True	les clients sont jeunes
+False	les clients est jeune
+True	les clients sont petits
+False	les clients est petit
+True	les clients sont grands
+False	les clients est grand
+True	les clients déménagent
+False	les clients déménage
+True	les clients parlent
+False	les clients parle
+True	les clients retournent
+False	les clients retourne
+True	les officiers sont vieux
+False	les officiers est vieux
+True	les officiers sont jeunes
+False	les officiers est jeune
+True	les officiers sont petits
+False	les officiers est petit
+True	les officiers sont grands
+False	les officiers est grand
+True	les officiers déménagent
+False	les officiers déménage
+True	les officiers parlent
+False	les officiers parle
+True	les officiers retournent
+False	les officiers retourne
+True	les pilotes sont vieux
+False	les pilotes est vieux
+True	les pilotes sont jeunes
+False	les pilotes est jeune
+True	les pilotes sont petits
+False	les pilotes est petit
+True	les pilotes sont grands
+False	les pilotes est grand
+True	les pilotes déménagent
+False	les pilotes déménage
+True	les pilotes parlent
+False	les pilotes parle
+True	les pilotes retournent
+False	les pilotes retourne
+True	les consultants sont vieux
+False	les consultants est vieux
+True	les consultants sont jeunes
+False	les consultants est jeune
+True	les consultants sont petits
+False	les consultants est petit
+True	les consultants sont grands
+False	les consultants est grand
+True	les consultants déménagent
+False	les consultants déménage
+True	les consultants parlent
+False	les consultants parle
+True	les consultants retournent
+False	les consultants retourne
+True	l' auteur est vieux
+False	l' auteur sont vieux
+True	l' auteur est jeune
+False	l' auteur sont jeunes
+True	l' auteur est petit
+False	l' auteur sont petits
+True	l' auteur est grand
+False	l' auteur sont grands
+True	l' auteur déménage
+False	l' auteur déménagent
+True	l' auteur parle
+False	l' auteur parlent
+True	l' auteur retourne
+False	l' auteur retournent
+True	le directeur est vieux
+False	le directeur sont vieux
+True	le directeur est jeune
+False	le directeur sont jeunes
+True	le directeur est petit
+False	le directeur sont petits
+True	le directeur est grand
+False	le directeur sont grands
+True	le directeur déménage
+False	le directeur déménagent
+True	le directeur parle
+False	le directeur parlent
+True	le directeur retourne
+False	le directeur retournent
+True	l' agriculteur est vieux
+False	l' agriculteur sont vieux
+True	l' agriculteur est jeune
+False	l' agriculteur sont jeunes
+True	l' agriculteur est petit
+False	l' agriculteur sont petits
+True	l' agriculteur est grand
+False	l' agriculteur sont grands
+True	l' agriculteur déménage
+False	l' agriculteur déménagent
+True	l' agriculteur parle
+False	l' agriculteur parlent
+True	l' agriculteur retourne
+False	l' agriculteur retournent
+True	le chirurgien est vieux
+False	le chirurgien sont vieux
+True	le chirurgien est jeune
+False	le chirurgien sont jeunes
+True	le chirurgien est petit
+False	le chirurgien sont petits
+True	le chirurgien est grand
+False	le chirurgien sont grands
+True	le chirurgien déménage
+False	le chirurgien déménagent
+True	le chirurgien parle
+False	le chirurgien parlent
+True	le chirurgien retourne
+False	le chirurgien retournent
+True	le sénateur est vieux
+False	le sénateur sont vieux
+True	le sénateur est jeune
+False	le sénateur sont jeunes
+True	le sénateur est petit
+False	le sénateur sont petits
+True	le sénateur est grand
+False	le sénateur sont grands
+True	le sénateur déménage
+False	le sénateur déménagent
+True	le sénateur parle
+False	le sénateur parlent
+True	le sénateur retourne
+False	le sénateur retournent
+True	le professeur est vieux
+False	le professeur sont vieux
+True	le professeur est jeune
+False	le professeur sont jeunes
+True	le professeur est petit
+False	le professeur sont petits
+True	le professeur est grand
+False	le professeur sont grands
+True	le professeur déménage
+False	le professeur déménagent
+True	le professeur parle
+False	le professeur parlent
+True	le professeur retourne
+False	le professeur retournent
+True	le client est vieux
+False	le client sont vieux
+True	le client est jeune
+False	le client sont jeunes
+True	le client est petit
+False	le client sont petits
+True	le client est grand
+False	le client sont grands
+True	le client déménage
+False	le client déménagent
+True	le client parle
+False	le client parlent
+True	le client retourne
+False	le client retournent
+True	l' officier est vieux
+False	l' officier sont vieux
+True	l' officier est jeune
+False	l' officier sont jeunes
+True	l' officier est petit
+False	l' officier sont petits
+True	l' officier est grand
+False	l' officier sont grands
+True	l' officier déménage
+False	l' officier déménagent
+True	l' officier parle
+False	l' officier parlent
+True	l' officier retourne
+False	l' officier retournent
+True	le pilote est vieux
+False	le pilote sont vieux
+True	le pilote est jeune
+False	le pilote sont jeunes
+True	le pilote est petit
+False	le pilote sont petits
+True	le pilote est grand
+False	le pilote sont grands
+True	le pilote déménage
+False	le pilote déménagent
+True	le pilote parle
+False	le pilote parlent
+True	le pilote retourne
+False	le pilote retournent
+True	le consultant est vieux
+False	le consultant sont vieux
+True	le consultant est jeune
+False	le consultant sont jeunes
+True	le consultant est petit
+False	le consultant sont petits
+True	le consultant est grand
+False	le consultant sont grands
+True	le consultant déménage
+False	le consultant déménagent
+True	le consultant parle
+False	le consultant parlent
+True	le consultant retourne
+False	le consultant retournent
+True	les gardes sont vieux
+False	les gardes est vieux
+True	les gardes sont jeunes
+False	les gardes est jeune
+True	les gardes sont petits
+False	les gardes est petit
+True	les gardes sont grands
+False	les gardes est grand
+True	les gardes déménagent
+False	les gardes déménage
+True	les gardes parlent
+False	les gardes parle
+True	les gardes retournent
+False	les gardes retourne
+True	les ministres sont vieux
+False	les ministres est vieux
+True	les ministres sont jeunes
+False	les ministres est jeune
+True	les ministres sont petits
+False	les ministres est petit
+True	les ministres sont grands
+False	les ministres est grand
+True	les ministres déménagent
+False	les ministres déménage
+True	les ministres parlent
+False	les ministres parle
+True	les ministres retournent
+False	les ministres retourne
+True	les cadres sont vieux
+False	les cadres est vieux
+True	les cadres sont jeunes
+False	les cadres est jeune
+True	les cadres sont petits
+False	les cadres est petit
+True	les cadres sont grands
+False	les cadres est grand
+True	les cadres déménagent
+False	les cadres déménage
+True	les cadres parlent
+False	les cadres parle
+True	les cadres retournent
+False	les cadres retourne
+True	les adjoints sont vieux
+False	les adjoints est vieux
+True	les adjoints sont jeunes
+False	les adjoints est jeune
+True	les adjoints sont petits
+False	les adjoints est petit
+True	les adjoints sont grands
+False	les adjoints est grand
+True	les adjoints déménagent
+False	les adjoints déménage
+True	les adjoints parlent
+False	les adjoints parle
+True	les adjoints retournent
+False	les adjoints retourne
+True	les chauffeurs de taxi sont vieux
+False	les chauffeurs de taxi est vieux
+True	les chauffeurs de taxi sont jeunes
+False	les chauffeurs de taxi est jeune
+True	les chauffeurs de taxi sont petits
+False	les chauffeurs de taxi est petit
+True	les chauffeurs de taxi sont grands
+False	les chauffeurs de taxi est grand
+True	les chauffeurs de taxi déménagent
+False	les chauffeurs de taxi déménage
+True	les chauffeurs de taxi parlent
+False	les chauffeurs de taxi parle
+True	les chauffeurs de taxi retournent
+False	les chauffeurs de taxi retourne
+True	les danseurs sont vieux
+False	les danseurs est vieux
+True	les danseurs sont jeunes
+False	les danseurs est jeune
+True	les danseurs sont petits
+False	les danseurs est petit
+True	les danseurs sont grands
+False	les danseurs est grand
+True	les danseurs déménagent
+False	les danseurs déménage
+True	les danseurs parlent
+False	les danseurs parle
+True	les danseurs retournent
+False	les danseurs retourne
+True	les architectes sont vieux
+False	les architectes est vieux
+True	les architectes sont jeunes
+False	les architectes est jeune
+True	les architectes sont petits
+False	les architectes est petit
+True	les architectes sont grands
+False	les architectes est grand
+True	les architectes déménagent
+False	les architectes déménage
+True	les architectes parlent
+False	les architectes parle
+True	les architectes retournent
+False	les architectes retourne
+True	les chefs sont vieux
+False	les chefs est vieux
+True	les chefs sont jeunes
+False	les chefs est jeune
+True	les chefs sont petits
+False	les chefs est petit
+True	les chefs sont grands
+False	les chefs est grand
+True	les chefs déménagent
+False	les chefs déménage
+True	les chefs parlent
+False	les chefs parle
+True	les chefs retournent
+False	les chefs retourne
+True	les patineurs sont vieux
+False	les patineurs est vieux
+True	les patineurs sont jeunes
+False	les patineurs est jeune
+True	les patineurs sont petits
+False	les patineurs est petit
+True	les patineurs sont grands
+False	les patineurs est grand
+True	les patineurs déménagent
+False	les patineurs déménage
+True	les patineurs parlent
+False	les patineurs parle
+True	les patineurs retournent
+False	les patineurs retourne
+True	les parents sont vieux
+False	les parents est vieux
+True	les parents sont jeunes
+False	les parents est jeune
+True	les parents sont petits
+False	les parents est petit
+True	les parents sont grands
+False	les parents est grand
+True	les parents déménagent
+False	les parents déménage
+True	les parents parlent
+False	les parents parle
+True	les parents retournent
+False	les parents retourne
+True	le garde est vieux
+False	le garde sont vieux
+True	le garde est jeune
+False	le garde sont jeunes
+True	le garde est petit
+False	le garde sont petits
+True	le garde est grand
+False	le garde sont grands
+True	le garde déménage
+False	le garde déménagent
+True	le garde parle
+False	le garde parlent
+True	le garde retourne
+False	le garde retournent
+True	le ministre est vieux
+False	le ministre sont vieux
+True	le ministre est jeune
+False	le ministre sont jeunes
+True	le ministre est petit
+False	le ministre sont petits
+True	le ministre est grand
+False	le ministre sont grands
+True	le ministre déménage
+False	le ministre déménagent
+True	le ministre parle
+False	le ministre parlent
+True	le ministre retourne
+False	le ministre retournent
+True	le cadre est vieux
+False	le cadre sont vieux
+True	le cadre est jeune
+False	le cadre sont jeunes
+True	le cadre est petit
+False	le cadre sont petits
+True	le cadre est grand
+False	le cadre sont grands
+True	le cadre déménage
+False	le cadre déménagent
+True	le cadre parle
+False	le cadre parlent
+True	le cadre retourne
+False	le cadre retournent
+True	l' adjoint est vieux
+False	l' adjoint sont vieux
+True	l' adjoint est jeune
+False	l' adjoint sont jeunes
+True	l' adjoint est petit
+False	l' adjoint sont petits
+True	l' adjoint est grand
+False	l' adjoint sont grands
+True	l' adjoint déménage
+False	l' adjoint déménagent
+True	l' adjoint parle
+False	l' adjoint parlent
+True	l' adjoint retourne
+False	l' adjoint retournent
+True	le chauffeur de taxi est vieux
+False	le chauffeur de taxi sont vieux
+True	le chauffeur de taxi est jeune
+False	le chauffeur de taxi sont jeunes
+True	le chauffeur de taxi est petit
+False	le chauffeur de taxi sont petits
+True	le chauffeur de taxi est grand
+False	le chauffeur de taxi sont grands
+True	le chauffeur de taxi déménage
+False	le chauffeur de taxi déménagent
+True	le chauffeur de taxi parle
+False	le chauffeur de taxi parlent
+True	le chauffeur de taxi retourne
+False	le chauffeur de taxi retournent
+True	le danseur est vieux
+False	le danseur sont vieux
+True	le danseur est jeune
+False	le danseur sont jeunes
+True	le danseur est petit
+False	le danseur sont petits
+True	le danseur est grand
+False	le danseur sont grands
+True	le danseur déménage
+False	le danseur déménagent
+True	le danseur parle
+False	le danseur parlent
+True	le danseur retourne
+False	le danseur retournent
+True	l' architecte est vieux
+False	l' architecte sont vieux
+True	l' architecte est jeune
+False	l' architecte sont jeunes
+True	l' architecte est petit
+False	l' architecte sont petits
+True	l' architecte est grand
+False	l' architecte sont grands
+True	l' architecte déménage
+False	l' architecte déménagent
+True	l' architecte parle
+False	l' architecte parlent
+True	l' architecte retourne
+False	l' architecte retournent
+True	le chef est vieux
+False	le chef sont vieux
+True	le chef est jeune
+False	le chef sont jeunes
+True	le chef est petit
+False	le chef sont petits
+True	le chef est grand
+False	le chef sont grands
+True	le chef déménage
+False	le chef déménagent
+True	le chef parle
+False	le chef parlent
+True	le chef retourne
+False	le chef retournent
+True	le patineur est vieux
+False	le patineur sont vieux
+True	le patineur est jeune
+False	le patineur sont jeunes
+True	le patineur est petit
+False	le patineur sont petits
+True	le patineur est grand
+False	le patineur sont grands
+True	le patineur déménage
+False	le patineur déménagent
+True	le patineur parle
+False	le patineur parlent
+True	le patineur retourne
+False	le patineur retournent
+True	le parent est vieux
+False	le parent sont vieux
+True	le parent est jeune
+False	le parent sont jeunes
+True	le parent est petit
+False	le parent sont petits
+True	le parent est grand
+False	le parent sont grands
+True	le parent déménage
+False	le parent déménagent
+True	le parent parle
+False	le parent parlent
+True	le parent retourne
+False	le parent retournent

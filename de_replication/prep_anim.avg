@@ -1,0 +1,19 @@
+vary: VP[]
+
+S[] Det[3,p,n] N_1[3,p,m,anim] Prep[3,p] N_3[3,p,m,d] VP[3,p]
+S[] Det[3,p,n] N_1[3,p,m,anim] Prep[3,s] N_3[3,s,m,d] VP[3,p]
+
+S[] NP_1[3,s,m,anim] Prep[3,p] N_3[3,p,m,d] VP[3,s]
+S[] NP_1[3,s,m,anim] Prep[3,s] N_3[3,s,m,d] VP[3,s]
+
+
+Prep[3,s] vor dem | nach dem | neben dem | in der Nähe vom | gegenüber vom
+
+Prep[3,p] vor den | nach den | neben den | in der Nähe von den | gegenüber von den
+
+N_3[3,s,m,d] Wächter | Minister | Leiter | Mitarbeiter | Taxifahrer | Tänzer | Architekt | Koch | Vater
+
+N_3[3,p,m,d] Wächter | Ministern | Leitern | Mitarbeitern | Taxifahrer | Tänzern | Architekten | Köche | Vätern
+
+VP[3,s] ist alt | ist jung | ist klein | ist groß | schwimmt | spricht | lacht 
+VP[3,p] sind alt | sind jung | sind klein | sind groß | schwimmen | sprechen | lachen 

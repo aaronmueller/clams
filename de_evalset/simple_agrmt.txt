@@ -1,0 +1,280 @@
+True	die Schriftsteller sind alt
+False	die Schriftsteller ist alt
+True	die Schriftsteller sind jung
+False	die Schriftsteller ist jung
+True	die Schriftsteller sind klein
+False	die Schriftsteller ist klein
+True	die Schriftsteller sind groß
+False	die Schriftsteller ist groß
+True	die Schriftsteller schwimmen
+False	die Schriftsteller schwimmt
+True	die Schriftsteller sprechen
+False	die Schriftsteller spricht
+True	die Schriftsteller lachen
+False	die Schriftsteller lacht
+True	die Direktoren sind alt
+False	die Direktoren ist alt
+True	die Direktoren sind jung
+False	die Direktoren ist jung
+True	die Direktoren sind klein
+False	die Direktoren ist klein
+True	die Direktoren sind groß
+False	die Direktoren ist groß
+True	die Direktoren schwimmen
+False	die Direktoren schwimmt
+True	die Direktoren sprechen
+False	die Direktoren spricht
+True	die Direktoren lachen
+False	die Direktoren lacht
+True	die Bauern sind alt
+False	die Bauern ist alt
+True	die Bauern sind jung
+False	die Bauern ist jung
+True	die Bauern sind klein
+False	die Bauern ist klein
+True	die Bauern sind groß
+False	die Bauern ist groß
+True	die Bauern schwimmen
+False	die Bauern schwimmt
+True	die Bauern sprechen
+False	die Bauern spricht
+True	die Bauern lachen
+False	die Bauern lacht
+True	die Chirurgen sind alt
+False	die Chirurgen ist alt
+True	die Chirurgen sind jung
+False	die Chirurgen ist jung
+True	die Chirurgen sind klein
+False	die Chirurgen ist klein
+True	die Chirurgen sind groß
+False	die Chirurgen ist groß
+True	die Chirurgen schwimmen
+False	die Chirurgen schwimmt
+True	die Chirurgen sprechen
+False	die Chirurgen spricht
+True	die Chirurgen lachen
+False	die Chirurgen lacht
+True	die Senatoren sind alt
+False	die Senatoren ist alt
+True	die Senatoren sind jung
+False	die Senatoren ist jung
+True	die Senatoren sind klein
+False	die Senatoren ist klein
+True	die Senatoren sind groß
+False	die Senatoren ist groß
+True	die Senatoren schwimmen
+False	die Senatoren schwimmt
+True	die Senatoren sprechen
+False	die Senatoren spricht
+True	die Senatoren lachen
+False	die Senatoren lacht
+True	die Lehrer sind alt
+False	die Lehrer ist alt
+True	die Lehrer sind jung
+False	die Lehrer ist jung
+True	die Lehrer sind klein
+False	die Lehrer ist klein
+True	die Lehrer sind groß
+False	die Lehrer ist groß
+True	die Lehrer schwimmen
+False	die Lehrer schwimmt
+True	die Lehrer sprechen
+False	die Lehrer spricht
+True	die Lehrer lachen
+False	die Lehrer lacht
+True	die Kunden sind alt
+False	die Kunden ist alt
+True	die Kunden sind jung
+False	die Kunden ist jung
+True	die Kunden sind klein
+False	die Kunden ist klein
+True	die Kunden sind groß
+False	die Kunden ist groß
+True	die Kunden schwimmen
+False	die Kunden schwimmt
+True	die Kunden sprechen
+False	die Kunden spricht
+True	die Kunden lachen
+False	die Kunden lacht
+True	die Polizisten sind alt
+False	die Polizisten ist alt
+True	die Polizisten sind jung
+False	die Polizisten ist jung
+True	die Polizisten sind klein
+False	die Polizisten ist klein
+True	die Polizisten sind groß
+False	die Polizisten ist groß
+True	die Polizisten schwimmen
+False	die Polizisten schwimmt
+True	die Polizisten sprechen
+False	die Polizisten spricht
+True	die Polizisten lachen
+False	die Polizisten lacht
+True	die Piloten sind alt
+False	die Piloten ist alt
+True	die Piloten sind jung
+False	die Piloten ist jung
+True	die Piloten sind klein
+False	die Piloten ist klein
+True	die Piloten sind groß
+False	die Piloten ist groß
+True	die Piloten schwimmen
+False	die Piloten schwimmt
+True	die Piloten sprechen
+False	die Piloten spricht
+True	die Piloten lachen
+False	die Piloten lacht
+True	die Berater sind alt
+False	die Berater ist alt
+True	die Berater sind jung
+False	die Berater ist jung
+True	die Berater sind klein
+False	die Berater ist klein
+True	die Berater sind groß
+False	die Berater ist groß
+True	die Berater schwimmen
+False	die Berater schwimmt
+True	die Berater sprechen
+False	die Berater spricht
+True	die Berater lachen
+False	die Berater lacht
+True	der Schriftsteller ist alt
+False	der Schriftsteller sind alt
+True	der Schriftsteller ist jung
+False	der Schriftsteller sind jung
+True	der Schriftsteller ist klein
+False	der Schriftsteller sind klein
+True	der Schriftsteller ist groß
+False	der Schriftsteller sind groß
+True	der Schriftsteller schwimmt
+False	der Schriftsteller schwimmen
+True	der Schriftsteller spricht
+False	der Schriftsteller sprechen
+True	der Schriftsteller lacht
+False	der Schriftsteller lachen
+True	der Direktor ist alt
+False	der Direktor sind alt
+True	der Direktor ist jung
+False	der Direktor sind jung
+True	der Direktor ist klein
+False	der Direktor sind klein
+True	der Direktor ist groß
+False	der Direktor sind groß
+True	der Direktor schwimmt
+False	der Direktor schwimmen
+True	der Direktor spricht
+False	der Direktor sprechen
+True	der Direktor lacht
+False	der Direktor lachen
+True	der Bauer ist alt
+False	der Bauer sind alt
+True	der Bauer ist jung
+False	der Bauer sind jung
+True	der Bauer ist klein
+False	der Bauer sind klein
+True	der Bauer ist groß
+False	der Bauer sind groß
+True	der Bauer schwimmt
+False	der Bauer schwimmen
+True	der Bauer spricht
+False	der Bauer sprechen
+True	der Bauer lacht
+False	der Bauer lachen
+True	der Chirurg ist alt
+False	der Chirurg sind alt
+True	der Chirurg ist jung
+False	der Chirurg sind jung
+True	der Chirurg ist klein
+False	der Chirurg sind klein
+True	der Chirurg ist groß
+False	der Chirurg sind groß
+True	der Chirurg schwimmt
+False	der Chirurg schwimmen
+True	der Chirurg spricht
+False	der Chirurg sprechen
+True	der Chirurg lacht
+False	der Chirurg lachen
+True	der Senator ist alt
+False	der Senator sind alt
+True	der Senator ist jung
+False	der Senator sind jung
+True	der Senator ist klein
+False	der Senator sind klein
+True	der Senator ist groß
+False	der Senator sind groß
+True	der Senator schwimmt
+False	der Senator schwimmen
+True	der Senator spricht
+False	der Senator sprechen
+True	der Senator lacht
+False	der Senator lachen
+True	der Lehrer ist alt
+False	der Lehrer sind alt
+True	der Lehrer ist jung
+False	der Lehrer sind jung
+True	der Lehrer ist klein
+False	der Lehrer sind klein
+True	der Lehrer ist groß
+False	der Lehrer sind groß
+True	der Lehrer schwimmt
+False	der Lehrer schwimmen
+True	der Lehrer spricht
+False	der Lehrer sprechen
+True	der Lehrer lacht
+False	der Lehrer lachen
+True	der Kunde ist alt
+False	der Kunde sind alt
+True	der Kunde ist jung
+False	der Kunde sind jung
+True	der Kunde ist klein
+False	der Kunde sind klein
+True	der Kunde ist groß
+False	der Kunde sind groß
+True	der Kunde schwimmt
+False	der Kunde schwimmen
+True	der Kunde spricht
+False	der Kunde sprechen
+True	der Kunde lacht
+False	der Kunde lachen
+True	der Polizist ist alt
+False	der Polizist sind alt
+True	der Polizist ist jung
+False	der Polizist sind jung
+True	der Polizist ist klein
+False	der Polizist sind klein
+True	der Polizist ist groß
+False	der Polizist sind groß
+True	der Polizist schwimmt
+False	der Polizist schwimmen
+True	der Polizist spricht
+False	der Polizist sprechen
+True	der Polizist lacht
+False	der Polizist lachen
+True	der Pilot ist alt
+False	der Pilot sind alt
+True	der Pilot ist jung
+False	der Pilot sind jung
+True	der Pilot ist klein
+False	der Pilot sind klein
+True	der Pilot ist groß
+False	der Pilot sind groß
+True	der Pilot schwimmt
+False	der Pilot schwimmen
+True	der Pilot spricht
+False	der Pilot sprechen
+True	der Pilot lacht
+False	der Pilot lachen
+True	der Berater ist alt
+False	der Berater sind alt
+True	der Berater ist jung
+False	der Berater sind jung
+True	der Berater ist klein
+False	der Berater sind klein
+True	der Berater ist groß
+False	der Berater sind groß
+True	der Berater schwimmt
+False	der Berater schwimmen
+True	der Berater spricht
+False	der Berater sprechen
+True	der Berater lacht
+False	der Berater lachen

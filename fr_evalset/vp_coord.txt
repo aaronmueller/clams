@@ -1,0 +1,1960 @@
+True	l' auteur déménage et déménage
+False	l' auteur déménage et déménagent
+True	l' auteur déménage et parle
+False	l' auteur déménage et parlent
+True	l' auteur déménage et retourne
+False	l' auteur déménage et retournent
+True	l' auteur déménage et est petit
+False	l' auteur déménage et sont petits
+True	l' auteur déménage et est grand
+False	l' auteur déménage et sont grands
+True	l' auteur déménage et est vieux
+False	l' auteur déménage et sont vieux
+True	l' auteur déménage et est jeune
+False	l' auteur déménage et sont jeunes
+True	le directeur déménage et déménage
+False	le directeur déménage et déménagent
+True	le directeur déménage et parle
+False	le directeur déménage et parlent
+True	le directeur déménage et retourne
+False	le directeur déménage et retournent
+True	le directeur déménage et est petit
+False	le directeur déménage et sont petits
+True	le directeur déménage et est grand
+False	le directeur déménage et sont grands
+True	le directeur déménage et est vieux
+False	le directeur déménage et sont vieux
+True	le directeur déménage et est jeune
+False	le directeur déménage et sont jeunes
+True	l' agriculteur déménage et déménage
+False	l' agriculteur déménage et déménagent
+True	l' agriculteur déménage et parle
+False	l' agriculteur déménage et parlent
+True	l' agriculteur déménage et retourne
+False	l' agriculteur déménage et retournent
+True	l' agriculteur déménage et est petit
+False	l' agriculteur déménage et sont petits
+True	l' agriculteur déménage et est grand
+False	l' agriculteur déménage et sont grands
+True	l' agriculteur déménage et est vieux
+False	l' agriculteur déménage et sont vieux
+True	l' agriculteur déménage et est jeune
+False	l' agriculteur déménage et sont jeunes
+True	le chirurgien déménage et déménage
+False	le chirurgien déménage et déménagent
+True	le chirurgien déménage et parle
+False	le chirurgien déménage et parlent
+True	le chirurgien déménage et retourne
+False	le chirurgien déménage et retournent
+True	le chirurgien déménage et est petit
+False	le chirurgien déménage et sont petits
+True	le chirurgien déménage et est grand
+False	le chirurgien déménage et sont grands
+True	le chirurgien déménage et est vieux
+False	le chirurgien déménage et sont vieux
+True	le chirurgien déménage et est jeune
+False	le chirurgien déménage et sont jeunes
+True	le sénateur déménage et déménage
+False	le sénateur déménage et déménagent
+True	le sénateur déménage et parle
+False	le sénateur déménage et parlent
+True	le sénateur déménage et retourne
+False	le sénateur déménage et retournent
+True	le sénateur déménage et est petit
+False	le sénateur déménage et sont petits
+True	le sénateur déménage et est grand
+False	le sénateur déménage et sont grands
+True	le sénateur déménage et est vieux
+False	le sénateur déménage et sont vieux
+True	le sénateur déménage et est jeune
+False	le sénateur déménage et sont jeunes
+True	le professeur déménage et déménage
+False	le professeur déménage et déménagent
+True	le professeur déménage et parle
+False	le professeur déménage et parlent
+True	le professeur déménage et retourne
+False	le professeur déménage et retournent
+True	le professeur déménage et est petit
+False	le professeur déménage et sont petits
+True	le professeur déménage et est grand
+False	le professeur déménage et sont grands
+True	le professeur déménage et est vieux
+False	le professeur déménage et sont vieux
+True	le professeur déménage et est jeune
+False	le professeur déménage et sont jeunes
+True	le client déménage et déménage
+False	le client déménage et déménagent
+True	le client déménage et parle
+False	le client déménage et parlent
+True	le client déménage et retourne
+False	le client déménage et retournent
+True	le client déménage et est petit
+False	le client déménage et sont petits
+True	le client déménage et est grand
+False	le client déménage et sont grands
+True	le client déménage et est vieux
+False	le client déménage et sont vieux
+True	le client déménage et est jeune
+False	le client déménage et sont jeunes
+True	l' officier déménage et déménage
+False	l' officier déménage et déménagent
+True	l' officier déménage et parle
+False	l' officier déménage et parlent
+True	l' officier déménage et retourne
+False	l' officier déménage et retournent
+True	l' officier déménage et est petit
+False	l' officier déménage et sont petits
+True	l' officier déménage et est grand
+False	l' officier déménage et sont grands
+True	l' officier déménage et est vieux
+False	l' officier déménage et sont vieux
+True	l' officier déménage et est jeune
+False	l' officier déménage et sont jeunes
+True	le pilote déménage et déménage
+False	le pilote déménage et déménagent
+True	le pilote déménage et parle
+False	le pilote déménage et parlent
+True	le pilote déménage et retourne
+False	le pilote déménage et retournent
+True	le pilote déménage et est petit
+False	le pilote déménage et sont petits
+True	le pilote déménage et est grand
+False	le pilote déménage et sont grands
+True	le pilote déménage et est vieux
+False	le pilote déménage et sont vieux
+True	le pilote déménage et est jeune
+False	le pilote déménage et sont jeunes
+True	le consultant déménage et déménage
+False	le consultant déménage et déménagent
+True	le consultant déménage et parle
+False	le consultant déménage et parlent
+True	le consultant déménage et retourne
+False	le consultant déménage et retournent
+True	le consultant déménage et est petit
+False	le consultant déménage et sont petits
+True	le consultant déménage et est grand
+False	le consultant déménage et sont grands
+True	le consultant déménage et est vieux
+False	le consultant déménage et sont vieux
+True	le consultant déménage et est jeune
+False	le consultant déménage et sont jeunes
+True	l' auteur parle et déménage
+False	l' auteur parle et déménagent
+True	l' auteur parle et parle
+False	l' auteur parle et parlent
+True	l' auteur parle et retourne
+False	l' auteur parle et retournent
+True	l' auteur parle et est petit
+False	l' auteur parle et sont petits
+True	l' auteur parle et est grand
+False	l' auteur parle et sont grands
+True	l' auteur parle et est vieux
+False	l' auteur parle et sont vieux
+True	l' auteur parle et est jeune
+False	l' auteur parle et sont jeunes
+True	le directeur parle et déménage
+False	le directeur parle et déménagent
+True	le directeur parle et parle
+False	le directeur parle et parlent
+True	le directeur parle et retourne
+False	le directeur parle et retournent
+True	le directeur parle et est petit
+False	le directeur parle et sont petits
+True	le directeur parle et est grand
+False	le directeur parle et sont grands
+True	le directeur parle et est vieux
+False	le directeur parle et sont vieux
+True	le directeur parle et est jeune
+False	le directeur parle et sont jeunes
+True	l' agriculteur parle et déménage
+False	l' agriculteur parle et déménagent
+True	l' agriculteur parle et parle
+False	l' agriculteur parle et parlent
+True	l' agriculteur parle et retourne
+False	l' agriculteur parle et retournent
+True	l' agriculteur parle et est petit
+False	l' agriculteur parle et sont petits
+True	l' agriculteur parle et est grand
+False	l' agriculteur parle et sont grands
+True	l' agriculteur parle et est vieux
+False	l' agriculteur parle et sont vieux
+True	l' agriculteur parle et est jeune
+False	l' agriculteur parle et sont jeunes
+True	le chirurgien parle et déménage
+False	le chirurgien parle et déménagent
+True	le chirurgien parle et parle
+False	le chirurgien parle et parlent
+True	le chirurgien parle et retourne
+False	le chirurgien parle et retournent
+True	le chirurgien parle et est petit
+False	le chirurgien parle et sont petits
+True	le chirurgien parle et est grand
+False	le chirurgien parle et sont grands
+True	le chirurgien parle et est vieux
+False	le chirurgien parle et sont vieux
+True	le chirurgien parle et est jeune
+False	le chirurgien parle et sont jeunes
+True	le sénateur parle et déménage
+False	le sénateur parle et déménagent
+True	le sénateur parle et parle
+False	le sénateur parle et parlent
+True	le sénateur parle et retourne
+False	le sénateur parle et retournent
+True	le sénateur parle et est petit
+False	le sénateur parle et sont petits
+True	le sénateur parle et est grand
+False	le sénateur parle et sont grands
+True	le sénateur parle et est vieux
+False	le sénateur parle et sont vieux
+True	le sénateur parle et est jeune
+False	le sénateur parle et sont jeunes
+True	le professeur parle et déménage
+False	le professeur parle et déménagent
+True	le professeur parle et parle
+False	le professeur parle et parlent
+True	le professeur parle et retourne
+False	le professeur parle et retournent
+True	le professeur parle et est petit
+False	le professeur parle et sont petits
+True	le professeur parle et est grand
+False	le professeur parle et sont grands
+True	le professeur parle et est vieux
+False	le professeur parle et sont vieux
+True	le professeur parle et est jeune
+False	le professeur parle et sont jeunes
+True	le client parle et déménage
+False	le client parle et déménagent
+True	le client parle et parle
+False	le client parle et parlent
+True	le client parle et retourne
+False	le client parle et retournent
+True	le client parle et est petit
+False	le client parle et sont petits
+True	le client parle et est grand
+False	le client parle et sont grands
+True	le client parle et est vieux
+False	le client parle et sont vieux
+True	le client parle et est jeune
+False	le client parle et sont jeunes
+True	l' officier parle et déménage
+False	l' officier parle et déménagent
+True	l' officier parle et parle
+False	l' officier parle et parlent
+True	l' officier parle et retourne
+False	l' officier parle et retournent
+True	l' officier parle et est petit
+False	l' officier parle et sont petits
+True	l' officier parle et est grand
+False	l' officier parle et sont grands
+True	l' officier parle et est vieux
+False	l' officier parle et sont vieux
+True	l' officier parle et est jeune
+False	l' officier parle et sont jeunes
+True	le pilote parle et déménage
+False	le pilote parle et déménagent
+True	le pilote parle et parle
+False	le pilote parle et parlent
+True	le pilote parle et retourne
+False	le pilote parle et retournent
+True	le pilote parle et est petit
+False	le pilote parle et sont petits
+True	le pilote parle et est grand
+False	le pilote parle et sont grands
+True	le pilote parle et est vieux
+False	le pilote parle et sont vieux
+True	le pilote parle et est jeune
+False	le pilote parle et sont jeunes
+True	le consultant parle et déménage
+False	le consultant parle et déménagent
+True	le consultant parle et parle
+False	le consultant parle et parlent
+True	le consultant parle et retourne
+False	le consultant parle et retournent
+True	le consultant parle et est petit
+False	le consultant parle et sont petits
+True	le consultant parle et est grand
+False	le consultant parle et sont grands
+True	le consultant parle et est vieux
+False	le consultant parle et sont vieux
+True	le consultant parle et est jeune
+False	le consultant parle et sont jeunes
+True	l' auteur retourne et déménage
+False	l' auteur retourne et déménagent
+True	l' auteur retourne et parle
+False	l' auteur retourne et parlent
+True	l' auteur retourne et retourne
+False	l' auteur retourne et retournent
+True	l' auteur retourne et est petit
+False	l' auteur retourne et sont petits
+True	l' auteur retourne et est grand
+False	l' auteur retourne et sont grands
+True	l' auteur retourne et est vieux
+False	l' auteur retourne et sont vieux
+True	l' auteur retourne et est jeune
+False	l' auteur retourne et sont jeunes
+True	le directeur retourne et déménage
+False	le directeur retourne et déménagent
+True	le directeur retourne et parle
+False	le directeur retourne et parlent
+True	le directeur retourne et retourne
+False	le directeur retourne et retournent
+True	le directeur retourne et est petit
+False	le directeur retourne et sont petits
+True	le directeur retourne et est grand
+False	le directeur retourne et sont grands
+True	le directeur retourne et est vieux
+False	le directeur retourne et sont vieux
+True	le directeur retourne et est jeune
+False	le directeur retourne et sont jeunes
+True	l' agriculteur retourne et déménage
+False	l' agriculteur retourne et déménagent
+True	l' agriculteur retourne et parle
+False	l' agriculteur retourne et parlent
+True	l' agriculteur retourne et retourne
+False	l' agriculteur retourne et retournent
+True	l' agriculteur retourne et est petit
+False	l' agriculteur retourne et sont petits
+True	l' agriculteur retourne et est grand
+False	l' agriculteur retourne et sont grands
+True	l' agriculteur retourne et est vieux
+False	l' agriculteur retourne et sont vieux
+True	l' agriculteur retourne et est jeune
+False	l' agriculteur retourne et sont jeunes
+True	le chirurgien retourne et déménage
+False	le chirurgien retourne et déménagent
+True	le chirurgien retourne et parle
+False	le chirurgien retourne et parlent
+True	le chirurgien retourne et retourne
+False	le chirurgien retourne et retournent
+True	le chirurgien retourne et est petit
+False	le chirurgien retourne et sont petits
+True	le chirurgien retourne et est grand
+False	le chirurgien retourne et sont grands
+True	le chirurgien retourne et est vieux
+False	le chirurgien retourne et sont vieux
+True	le chirurgien retourne et est jeune
+False	le chirurgien retourne et sont jeunes
+True	le sénateur retourne et déménage
+False	le sénateur retourne et déménagent
+True	le sénateur retourne et parle
+False	le sénateur retourne et parlent
+True	le sénateur retourne et retourne
+False	le sénateur retourne et retournent
+True	le sénateur retourne et est petit
+False	le sénateur retourne et sont petits
+True	le sénateur retourne et est grand
+False	le sénateur retourne et sont grands
+True	le sénateur retourne et est vieux
+False	le sénateur retourne et sont vieux
+True	le sénateur retourne et est jeune
+False	le sénateur retourne et sont jeunes
+True	le professeur retourne et déménage
+False	le professeur retourne et déménagent
+True	le professeur retourne et parle
+False	le professeur retourne et parlent
+True	le professeur retourne et retourne
+False	le professeur retourne et retournent
+True	le professeur retourne et est petit
+False	le professeur retourne et sont petits
+True	le professeur retourne et est grand
+False	le professeur retourne et sont grands
+True	le professeur retourne et est vieux
+False	le professeur retourne et sont vieux
+True	le professeur retourne et est jeune
+False	le professeur retourne et sont jeunes
+True	le client retourne et déménage
+False	le client retourne et déménagent
+True	le client retourne et parle
+False	le client retourne et parlent
+True	le client retourne et retourne
+False	le client retourne et retournent
+True	le client retourne et est petit
+False	le client retourne et sont petits
+True	le client retourne et est grand
+False	le client retourne et sont grands
+True	le client retourne et est vieux
+False	le client retourne et sont vieux
+True	le client retourne et est jeune
+False	le client retourne et sont jeunes
+True	l' officier retourne et déménage
+False	l' officier retourne et déménagent
+True	l' officier retourne et parle
+False	l' officier retourne et parlent
+True	l' officier retourne et retourne
+False	l' officier retourne et retournent
+True	l' officier retourne et est petit
+False	l' officier retourne et sont petits
+True	l' officier retourne et est grand
+False	l' officier retourne et sont grands
+True	l' officier retourne et est vieux
+False	l' officier retourne et sont vieux
+True	l' officier retourne et est jeune
+False	l' officier retourne et sont jeunes
+True	le pilote retourne et déménage
+False	le pilote retourne et déménagent
+True	le pilote retourne et parle
+False	le pilote retourne et parlent
+True	le pilote retourne et retourne
+False	le pilote retourne et retournent
+True	le pilote retourne et est petit
+False	le pilote retourne et sont petits
+True	le pilote retourne et est grand
+False	le pilote retourne et sont grands
+True	le pilote retourne et est vieux
+False	le pilote retourne et sont vieux
+True	le pilote retourne et est jeune
+False	le pilote retourne et sont jeunes
+True	le consultant retourne et déménage
+False	le consultant retourne et déménagent
+True	le consultant retourne et parle
+False	le consultant retourne et parlent
+True	le consultant retourne et retourne
+False	le consultant retourne et retournent
+True	le consultant retourne et est petit
+False	le consultant retourne et sont petits
+True	le consultant retourne et est grand
+False	le consultant retourne et sont grands
+True	le consultant retourne et est vieux
+False	le consultant retourne et sont vieux
+True	le consultant retourne et est jeune
+False	le consultant retourne et sont jeunes
+True	l' auteur est petit et déménage
+False	l' auteur est petit et déménagent
+True	l' auteur est petit et parle
+False	l' auteur est petit et parlent
+True	l' auteur est petit et retourne
+False	l' auteur est petit et retournent
+True	l' auteur est petit et est petit
+False	l' auteur est petit et sont petits
+True	l' auteur est petit et est grand
+False	l' auteur est petit et sont grands
+True	l' auteur est petit et est vieux
+False	l' auteur est petit et sont vieux
+True	l' auteur est petit et est jeune
+False	l' auteur est petit et sont jeunes
+True	le directeur est petit et déménage
+False	le directeur est petit et déménagent
+True	le directeur est petit et parle
+False	le directeur est petit et parlent
+True	le directeur est petit et retourne
+False	le directeur est petit et retournent
+True	le directeur est petit et est petit
+False	le directeur est petit et sont petits
+True	le directeur est petit et est grand
+False	le directeur est petit et sont grands
+True	le directeur est petit et est vieux
+False	le directeur est petit et sont vieux
+True	le directeur est petit et est jeune
+False	le directeur est petit et sont jeunes
+True	l' agriculteur est petit et déménage
+False	l' agriculteur est petit et déménagent
+True	l' agriculteur est petit et parle
+False	l' agriculteur est petit et parlent
+True	l' agriculteur est petit et retourne
+False	l' agriculteur est petit et retournent
+True	l' agriculteur est petit et est petit
+False	l' agriculteur est petit et sont petits
+True	l' agriculteur est petit et est grand
+False	l' agriculteur est petit et sont grands
+True	l' agriculteur est petit et est vieux
+False	l' agriculteur est petit et sont vieux
+True	l' agriculteur est petit et est jeune
+False	l' agriculteur est petit et sont jeunes
+True	le chirurgien est petit et déménage
+False	le chirurgien est petit et déménagent
+True	le chirurgien est petit et parle
+False	le chirurgien est petit et parlent
+True	le chirurgien est petit et retourne
+False	le chirurgien est petit et retournent
+True	le chirurgien est petit et est petit
+False	le chirurgien est petit et sont petits
+True	le chirurgien est petit et est grand
+False	le chirurgien est petit et sont grands
+True	le chirurgien est petit et est vieux
+False	le chirurgien est petit et sont vieux
+True	le chirurgien est petit et est jeune
+False	le chirurgien est petit et sont jeunes
+True	le sénateur est petit et déménage
+False	le sénateur est petit et déménagent
+True	le sénateur est petit et parle
+False	le sénateur est petit et parlent
+True	le sénateur est petit et retourne
+False	le sénateur est petit et retournent
+True	le sénateur est petit et est petit
+False	le sénateur est petit et sont petits
+True	le sénateur est petit et est grand
+False	le sénateur est petit et sont grands
+True	le sénateur est petit et est vieux
+False	le sénateur est petit et sont vieux
+True	le sénateur est petit et est jeune
+False	le sénateur est petit et sont jeunes
+True	le professeur est petit et déménage
+False	le professeur est petit et déménagent
+True	le professeur est petit et parle
+False	le professeur est petit et parlent
+True	le professeur est petit et retourne
+False	le professeur est petit et retournent
+True	le professeur est petit et est petit
+False	le professeur est petit et sont petits
+True	le professeur est petit et est grand
+False	le professeur est petit et sont grands
+True	le professeur est petit et est vieux
+False	le professeur est petit et sont vieux
+True	le professeur est petit et est jeune
+False	le professeur est petit et sont jeunes
+True	le client est petit et déménage
+False	le client est petit et déménagent
+True	le client est petit et parle
+False	le client est petit et parlent
+True	le client est petit et retourne
+False	le client est petit et retournent
+True	le client est petit et est petit
+False	le client est petit et sont petits
+True	le client est petit et est grand
+False	le client est petit et sont grands
+True	le client est petit et est vieux
+False	le client est petit et sont vieux
+True	le client est petit et est jeune
+False	le client est petit et sont jeunes
+True	l' officier est petit et déménage
+False	l' officier est petit et déménagent
+True	l' officier est petit et parle
+False	l' officier est petit et parlent
+True	l' officier est petit et retourne
+False	l' officier est petit et retournent
+True	l' officier est petit et est petit
+False	l' officier est petit et sont petits
+True	l' officier est petit et est grand
+False	l' officier est petit et sont grands
+True	l' officier est petit et est vieux
+False	l' officier est petit et sont vieux
+True	l' officier est petit et est jeune
+False	l' officier est petit et sont jeunes
+True	le pilote est petit et déménage
+False	le pilote est petit et déménagent
+True	le pilote est petit et parle
+False	le pilote est petit et parlent
+True	le pilote est petit et retourne
+False	le pilote est petit et retournent
+True	le pilote est petit et est petit
+False	le pilote est petit et sont petits
+True	le pilote est petit et est grand
+False	le pilote est petit et sont grands
+True	le pilote est petit et est vieux
+False	le pilote est petit et sont vieux
+True	le pilote est petit et est jeune
+False	le pilote est petit et sont jeunes
+True	le consultant est petit et déménage
+False	le consultant est petit et déménagent
+True	le consultant est petit et parle
+False	le consultant est petit et parlent
+True	le consultant est petit et retourne
+False	le consultant est petit et retournent
+True	le consultant est petit et est petit
+False	le consultant est petit et sont petits
+True	le consultant est petit et est grand
+False	le consultant est petit et sont grands
+True	le consultant est petit et est vieux
+False	le consultant est petit et sont vieux
+True	le consultant est petit et est jeune
+False	le consultant est petit et sont jeunes
+True	l' auteur est grand et déménage
+False	l' auteur est grand et déménagent
+True	l' auteur est grand et parle
+False	l' auteur est grand et parlent
+True	l' auteur est grand et retourne
+False	l' auteur est grand et retournent
+True	l' auteur est grand et est petit
+False	l' auteur est grand et sont petits
+True	l' auteur est grand et est grand
+False	l' auteur est grand et sont grands
+True	l' auteur est grand et est vieux
+False	l' auteur est grand et sont vieux
+True	l' auteur est grand et est jeune
+False	l' auteur est grand et sont jeunes
+True	le directeur est grand et déménage
+False	le directeur est grand et déménagent
+True	le directeur est grand et parle
+False	le directeur est grand et parlent
+True	le directeur est grand et retourne
+False	le directeur est grand et retournent
+True	le directeur est grand et est petit
+False	le directeur est grand et sont petits
+True	le directeur est grand et est grand
+False	le directeur est grand et sont grands
+True	le directeur est grand et est vieux
+False	le directeur est grand et sont vieux
+True	le directeur est grand et est jeune
+False	le directeur est grand et sont jeunes
+True	l' agriculteur est grand et déménage
+False	l' agriculteur est grand et déménagent
+True	l' agriculteur est grand et parle
+False	l' agriculteur est grand et parlent
+True	l' agriculteur est grand et retourne
+False	l' agriculteur est grand et retournent
+True	l' agriculteur est grand et est petit
+False	l' agriculteur est grand et sont petits
+True	l' agriculteur est grand et est grand
+False	l' agriculteur est grand et sont grands
+True	l' agriculteur est grand et est vieux
+False	l' agriculteur est grand et sont vieux
+True	l' agriculteur est grand et est jeune
+False	l' agriculteur est grand et sont jeunes
+True	le chirurgien est grand et déménage
+False	le chirurgien est grand et déménagent
+True	le chirurgien est grand et parle
+False	le chirurgien est grand et parlent
+True	le chirurgien est grand et retourne
+False	le chirurgien est grand et retournent
+True	le chirurgien est grand et est petit
+False	le chirurgien est grand et sont petits
+True	le chirurgien est grand et est grand
+False	le chirurgien est grand et sont grands
+True	le chirurgien est grand et est vieux
+False	le chirurgien est grand et sont vieux
+True	le chirurgien est grand et est jeune
+False	le chirurgien est grand et sont jeunes
+True	le sénateur est grand et déménage
+False	le sénateur est grand et déménagent
+True	le sénateur est grand et parle
+False	le sénateur est grand et parlent
+True	le sénateur est grand et retourne
+False	le sénateur est grand et retournent
+True	le sénateur est grand et est petit
+False	le sénateur est grand et sont petits
+True	le sénateur est grand et est grand
+False	le sénateur est grand et sont grands
+True	le sénateur est grand et est vieux
+False	le sénateur est grand et sont vieux
+True	le sénateur est grand et est jeune
+False	le sénateur est grand et sont jeunes
+True	le professeur est grand et déménage
+False	le professeur est grand et déménagent
+True	le professeur est grand et parle
+False	le professeur est grand et parlent
+True	le professeur est grand et retourne
+False	le professeur est grand et retournent
+True	le professeur est grand et est petit
+False	le professeur est grand et sont petits
+True	le professeur est grand et est grand
+False	le professeur est grand et sont grands
+True	le professeur est grand et est vieux
+False	le professeur est grand et sont vieux
+True	le professeur est grand et est jeune
+False	le professeur est grand et sont jeunes
+True	le client est grand et déménage
+False	le client est grand et déménagent
+True	le client est grand et parle
+False	le client est grand et parlent
+True	le client est grand et retourne
+False	le client est grand et retournent
+True	le client est grand et est petit
+False	le client est grand et sont petits
+True	le client est grand et est grand
+False	le client est grand et sont grands
+True	le client est grand et est vieux
+False	le client est grand et sont vieux
+True	le client est grand et est jeune
+False	le client est grand et sont jeunes
+True	l' officier est grand et déménage
+False	l' officier est grand et déménagent
+True	l' officier est grand et parle
+False	l' officier est grand et parlent
+True	l' officier est grand et retourne
+False	l' officier est grand et retournent
+True	l' officier est grand et est petit
+False	l' officier est grand et sont petits
+True	l' officier est grand et est grand
+False	l' officier est grand et sont grands
+True	l' officier est grand et est vieux
+False	l' officier est grand et sont vieux
+True	l' officier est grand et est jeune
+False	l' officier est grand et sont jeunes
+True	le pilote est grand et déménage
+False	le pilote est grand et déménagent
+True	le pilote est grand et parle
+False	le pilote est grand et parlent
+True	le pilote est grand et retourne
+False	le pilote est grand et retournent
+True	le pilote est grand et est petit
+False	le pilote est grand et sont petits
+True	le pilote est grand et est grand
+False	le pilote est grand et sont grands
+True	le pilote est grand et est vieux
+False	le pilote est grand et sont vieux
+True	le pilote est grand et est jeune
+False	le pilote est grand et sont jeunes
+True	le consultant est grand et déménage
+False	le consultant est grand et déménagent
+True	le consultant est grand et parle
+False	le consultant est grand et parlent
+True	le consultant est grand et retourne
+False	le consultant est grand et retournent
+True	le consultant est grand et est petit
+False	le consultant est grand et sont petits
+True	le consultant est grand et est grand
+False	le consultant est grand et sont grands
+True	le consultant est grand et est vieux
+False	le consultant est grand et sont vieux
+True	le consultant est grand et est jeune
+False	le consultant est grand et sont jeunes
+True	l' auteur est vieux et déménage
+False	l' auteur est vieux et déménagent
+True	l' auteur est vieux et parle
+False	l' auteur est vieux et parlent
+True	l' auteur est vieux et retourne
+False	l' auteur est vieux et retournent
+True	l' auteur est vieux et est petit
+False	l' auteur est vieux et sont petits
+True	l' auteur est vieux et est grand
+False	l' auteur est vieux et sont grands
+True	l' auteur est vieux et est vieux
+False	l' auteur est vieux et sont vieux
+True	l' auteur est vieux et est jeune
+False	l' auteur est vieux et sont jeunes
+True	le directeur est vieux et déménage
+False	le directeur est vieux et déménagent
+True	le directeur est vieux et parle
+False	le directeur est vieux et parlent
+True	le directeur est vieux et retourne
+False	le directeur est vieux et retournent
+True	le directeur est vieux et est petit
+False	le directeur est vieux et sont petits
+True	le directeur est vieux et est grand
+False	le directeur est vieux et sont grands
+True	le directeur est vieux et est vieux
+False	le directeur est vieux et sont vieux
+True	le directeur est vieux et est jeune
+False	le directeur est vieux et sont jeunes
+True	l' agriculteur est vieux et déménage
+False	l' agriculteur est vieux et déménagent
+True	l' agriculteur est vieux et parle
+False	l' agriculteur est vieux et parlent
+True	l' agriculteur est vieux et retourne
+False	l' agriculteur est vieux et retournent
+True	l' agriculteur est vieux et est petit
+False	l' agriculteur est vieux et sont petits
+True	l' agriculteur est vieux et est grand
+False	l' agriculteur est vieux et sont grands
+True	l' agriculteur est vieux et est vieux
+False	l' agriculteur est vieux et sont vieux
+True	l' agriculteur est vieux et est jeune
+False	l' agriculteur est vieux et sont jeunes
+True	le chirurgien est vieux et déménage
+False	le chirurgien est vieux et déménagent
+True	le chirurgien est vieux et parle
+False	le chirurgien est vieux et parlent
+True	le chirurgien est vieux et retourne
+False	le chirurgien est vieux et retournent
+True	le chirurgien est vieux et est petit
+False	le chirurgien est vieux et sont petits
+True	le chirurgien est vieux et est grand
+False	le chirurgien est vieux et sont grands
+True	le chirurgien est vieux et est vieux
+False	le chirurgien est vieux et sont vieux
+True	le chirurgien est vieux et est jeune
+False	le chirurgien est vieux et sont jeunes
+True	le sénateur est vieux et déménage
+False	le sénateur est vieux et déménagent
+True	le sénateur est vieux et parle
+False	le sénateur est vieux et parlent
+True	le sénateur est vieux et retourne
+False	le sénateur est vieux et retournent
+True	le sénateur est vieux et est petit
+False	le sénateur est vieux et sont petits
+True	le sénateur est vieux et est grand
+False	le sénateur est vieux et sont grands
+True	le sénateur est vieux et est vieux
+False	le sénateur est vieux et sont vieux
+True	le sénateur est vieux et est jeune
+False	le sénateur est vieux et sont jeunes
+True	le professeur est vieux et déménage
+False	le professeur est vieux et déménagent
+True	le professeur est vieux et parle
+False	le professeur est vieux et parlent
+True	le professeur est vieux et retourne
+False	le professeur est vieux et retournent
+True	le professeur est vieux et est petit
+False	le professeur est vieux et sont petits
+True	le professeur est vieux et est grand
+False	le professeur est vieux et sont grands
+True	le professeur est vieux et est vieux
+False	le professeur est vieux et sont vieux
+True	le professeur est vieux et est jeune
+False	le professeur est vieux et sont jeunes
+True	le client est vieux et déménage
+False	le client est vieux et déménagent
+True	le client est vieux et parle
+False	le client est vieux et parlent
+True	le client est vieux et retourne
+False	le client est vieux et retournent
+True	le client est vieux et est petit
+False	le client est vieux et sont petits
+True	le client est vieux et est grand
+False	le client est vieux et sont grands
+True	le client est vieux et est vieux
+False	le client est vieux et sont vieux
+True	le client est vieux et est jeune
+False	le client est vieux et sont jeunes
+True	l' officier est vieux et déménage
+False	l' officier est vieux et déménagent
+True	l' officier est vieux et parle
+False	l' officier est vieux et parlent
+True	l' officier est vieux et retourne
+False	l' officier est vieux et retournent
+True	l' officier est vieux et est petit
+False	l' officier est vieux et sont petits
+True	l' officier est vieux et est grand
+False	l' officier est vieux et sont grands
+True	l' officier est vieux et est vieux
+False	l' officier est vieux et sont vieux
+True	l' officier est vieux et est jeune
+False	l' officier est vieux et sont jeunes
+True	le pilote est vieux et déménage
+False	le pilote est vieux et déménagent
+True	le pilote est vieux et parle
+False	le pilote est vieux et parlent
+True	le pilote est vieux et retourne
+False	le pilote est vieux et retournent
+True	le pilote est vieux et est petit
+False	le pilote est vieux et sont petits
+True	le pilote est vieux et est grand
+False	le pilote est vieux et sont grands
+True	le pilote est vieux et est vieux
+False	le pilote est vieux et sont vieux
+True	le pilote est vieux et est jeune
+False	le pilote est vieux et sont jeunes
+True	le consultant est vieux et déménage
+False	le consultant est vieux et déménagent
+True	le consultant est vieux et parle
+False	le consultant est vieux et parlent
+True	le consultant est vieux et retourne
+False	le consultant est vieux et retournent
+True	le consultant est vieux et est petit
+False	le consultant est vieux et sont petits
+True	le consultant est vieux et est grand
+False	le consultant est vieux et sont grands
+True	le consultant est vieux et est vieux
+False	le consultant est vieux et sont vieux
+True	le consultant est vieux et est jeune
+False	le consultant est vieux et sont jeunes
+True	l' auteur est jeune et déménage
+False	l' auteur est jeune et déménagent
+True	l' auteur est jeune et parle
+False	l' auteur est jeune et parlent
+True	l' auteur est jeune et retourne
+False	l' auteur est jeune et retournent
+True	l' auteur est jeune et est petit
+False	l' auteur est jeune et sont petits
+True	l' auteur est jeune et est grand
+False	l' auteur est jeune et sont grands
+True	l' auteur est jeune et est vieux
+False	l' auteur est jeune et sont vieux
+True	l' auteur est jeune et est jeune
+False	l' auteur est jeune et sont jeunes
+True	le directeur est jeune et déménage
+False	le directeur est jeune et déménagent
+True	le directeur est jeune et parle
+False	le directeur est jeune et parlent
+True	le directeur est jeune et retourne
+False	le directeur est jeune et retournent
+True	le directeur est jeune et est petit
+False	le directeur est jeune et sont petits
+True	le directeur est jeune et est grand
+False	le directeur est jeune et sont grands
+True	le directeur est jeune et est vieux
+False	le directeur est jeune et sont vieux
+True	le directeur est jeune et est jeune
+False	le directeur est jeune et sont jeunes
+True	l' agriculteur est jeune et déménage
+False	l' agriculteur est jeune et déménagent
+True	l' agriculteur est jeune et parle
+False	l' agriculteur est jeune et parlent
+True	l' agriculteur est jeune et retourne
+False	l' agriculteur est jeune et retournent
+True	l' agriculteur est jeune et est petit
+False	l' agriculteur est jeune et sont petits
+True	l' agriculteur est jeune et est grand
+False	l' agriculteur est jeune et sont grands
+True	l' agriculteur est jeune et est vieux
+False	l' agriculteur est jeune et sont vieux
+True	l' agriculteur est jeune et est jeune
+False	l' agriculteur est jeune et sont jeunes
+True	le chirurgien est jeune et déménage
+False	le chirurgien est jeune et déménagent
+True	le chirurgien est jeune et parle
+False	le chirurgien est jeune et parlent
+True	le chirurgien est jeune et retourne
+False	le chirurgien est jeune et retournent
+True	le chirurgien est jeune et est petit
+False	le chirurgien est jeune et sont petits
+True	le chirurgien est jeune et est grand
+False	le chirurgien est jeune et sont grands
+True	le chirurgien est jeune et est vieux
+False	le chirurgien est jeune et sont vieux
+True	le chirurgien est jeune et est jeune
+False	le chirurgien est jeune et sont jeunes
+True	le sénateur est jeune et déménage
+False	le sénateur est jeune et déménagent
+True	le sénateur est jeune et parle
+False	le sénateur est jeune et parlent
+True	le sénateur est jeune et retourne
+False	le sénateur est jeune et retournent
+True	le sénateur est jeune et est petit
+False	le sénateur est jeune et sont petits
+True	le sénateur est jeune et est grand
+False	le sénateur est jeune et sont grands
+True	le sénateur est jeune et est vieux
+False	le sénateur est jeune et sont vieux
+True	le sénateur est jeune et est jeune
+False	le sénateur est jeune et sont jeunes
+True	le professeur est jeune et déménage
+False	le professeur est jeune et déménagent
+True	le professeur est jeune et parle
+False	le professeur est jeune et parlent
+True	le professeur est jeune et retourne
+False	le professeur est jeune et retournent
+True	le professeur est jeune et est petit
+False	le professeur est jeune et sont petits
+True	le professeur est jeune et est grand
+False	le professeur est jeune et sont grands
+True	le professeur est jeune et est vieux
+False	le professeur est jeune et sont vieux
+True	le professeur est jeune et est jeune
+False	le professeur est jeune et sont jeunes
+True	le client est jeune et déménage
+False	le client est jeune et déménagent
+True	le client est jeune et parle
+False	le client est jeune et parlent
+True	le client est jeune et retourne
+False	le client est jeune et retournent
+True	le client est jeune et est petit
+False	le client est jeune et sont petits
+True	le client est jeune et est grand
+False	le client est jeune et sont grands
+True	le client est jeune et est vieux
+False	le client est jeune et sont vieux
+True	le client est jeune et est jeune
+False	le client est jeune et sont jeunes
+True	l' officier est jeune et déménage
+False	l' officier est jeune et déménagent
+True	l' officier est jeune et parle
+False	l' officier est jeune et parlent
+True	l' officier est jeune et retourne
+False	l' officier est jeune et retournent
+True	l' officier est jeune et est petit
+False	l' officier est jeune et sont petits
+True	l' officier est jeune et est grand
+False	l' officier est jeune et sont grands
+True	l' officier est jeune et est vieux
+False	l' officier est jeune et sont vieux
+True	l' officier est jeune et est jeune
+False	l' officier est jeune et sont jeunes
+True	le pilote est jeune et déménage
+False	le pilote est jeune et déménagent
+True	le pilote est jeune et parle
+False	le pilote est jeune et parlent
+True	le pilote est jeune et retourne
+False	le pilote est jeune et retournent
+True	le pilote est jeune et est petit
+False	le pilote est jeune et sont petits
+True	le pilote est jeune et est grand
+False	le pilote est jeune et sont grands
+True	le pilote est jeune et est vieux
+False	le pilote est jeune et sont vieux
+True	le pilote est jeune et est jeune
+False	le pilote est jeune et sont jeunes
+True	le consultant est jeune et déménage
+False	le consultant est jeune et déménagent
+True	le consultant est jeune et parle
+False	le consultant est jeune et parlent
+True	le consultant est jeune et retourne
+False	le consultant est jeune et retournent
+True	le consultant est jeune et est petit
+False	le consultant est jeune et sont petits
+True	le consultant est jeune et est grand
+False	le consultant est jeune et sont grands
+True	le consultant est jeune et est vieux
+False	le consultant est jeune et sont vieux
+True	le consultant est jeune et est jeune
+False	le consultant est jeune et sont jeunes
+True	les auteurs déménagent et déménagent
+False	les auteurs déménagent et déménage
+True	les auteurs déménagent et parlent
+False	les auteurs déménagent et parle
+True	les auteurs déménagent et retournent
+False	les auteurs déménagent et retourne
+True	les auteurs déménagent et sont petits
+False	les auteurs déménagent et est petit
+True	les auteurs déménagent et sont grands
+False	les auteurs déménagent et est grand
+True	les auteurs déménagent et sont vieux
+False	les auteurs déménagent et est vieux
+True	les auteurs déménagent et sont jeunes
+False	les auteurs déménagent et est jeune
+True	les directeurs déménagent et déménagent
+False	les directeurs déménagent et déménage
+True	les directeurs déménagent et parlent
+False	les directeurs déménagent et parle
+True	les directeurs déménagent et retournent
+False	les directeurs déménagent et retourne
+True	les directeurs déménagent et sont petits
+False	les directeurs déménagent et est petit
+True	les directeurs déménagent et sont grands
+False	les directeurs déménagent et est grand
+True	les directeurs déménagent et sont vieux
+False	les directeurs déménagent et est vieux
+True	les directeurs déménagent et sont jeunes
+False	les directeurs déménagent et est jeune
+True	les agriculteurs déménagent et déménagent
+False	les agriculteurs déménagent et déménage
+True	les agriculteurs déménagent et parlent
+False	les agriculteurs déménagent et parle
+True	les agriculteurs déménagent et retournent
+False	les agriculteurs déménagent et retourne
+True	les agriculteurs déménagent et sont petits
+False	les agriculteurs déménagent et est petit
+True	les agriculteurs déménagent et sont grands
+False	les agriculteurs déménagent et est grand
+True	les agriculteurs déménagent et sont vieux
+False	les agriculteurs déménagent et est vieux
+True	les agriculteurs déménagent et sont jeunes
+False	les agriculteurs déménagent et est jeune
+True	les chirurgiens déménagent et déménagent
+False	les chirurgiens déménagent et déménage
+True	les chirurgiens déménagent et parlent
+False	les chirurgiens déménagent et parle
+True	les chirurgiens déménagent et retournent
+False	les chirurgiens déménagent et retourne
+True	les chirurgiens déménagent et sont petits
+False	les chirurgiens déménagent et est petit
+True	les chirurgiens déménagent et sont grands
+False	les chirurgiens déménagent et est grand
+True	les chirurgiens déménagent et sont vieux
+False	les chirurgiens déménagent et est vieux
+True	les chirurgiens déménagent et sont jeunes
+False	les chirurgiens déménagent et est jeune
+True	les sénateurs déménagent et déménagent
+False	les sénateurs déménagent et déménage
+True	les sénateurs déménagent et parlent
+False	les sénateurs déménagent et parle
+True	les sénateurs déménagent et retournent
+False	les sénateurs déménagent et retourne
+True	les sénateurs déménagent et sont petits
+False	les sénateurs déménagent et est petit
+True	les sénateurs déménagent et sont grands
+False	les sénateurs déménagent et est grand
+True	les sénateurs déménagent et sont vieux
+False	les sénateurs déménagent et est vieux
+True	les sénateurs déménagent et sont jeunes
+False	les sénateurs déménagent et est jeune
+True	les professeurs déménagent et déménagent
+False	les professeurs déménagent et déménage
+True	les professeurs déménagent et parlent
+False	les professeurs déménagent et parle
+True	les professeurs déménagent et retournent
+False	les professeurs déménagent et retourne
+True	les professeurs déménagent et sont petits
+False	les professeurs déménagent et est petit
+True	les professeurs déménagent et sont grands
+False	les professeurs déménagent et est grand
+True	les professeurs déménagent et sont vieux
+False	les professeurs déménagent et est vieux
+True	les professeurs déménagent et sont jeunes
+False	les professeurs déménagent et est jeune
+True	les clients déménagent et déménagent
+False	les clients déménagent et déménage
+True	les clients déménagent et parlent
+False	les clients déménagent et parle
+True	les clients déménagent et retournent
+False	les clients déménagent et retourne
+True	les clients déménagent et sont petits
+False	les clients déménagent et est petit
+True	les clients déménagent et sont grands
+False	les clients déménagent et est grand
+True	les clients déménagent et sont vieux
+False	les clients déménagent et est vieux
+True	les clients déménagent et sont jeunes
+False	les clients déménagent et est jeune
+True	les officiers déménagent et déménagent
+False	les officiers déménagent et déménage
+True	les officiers déménagent et parlent
+False	les officiers déménagent et parle
+True	les officiers déménagent et retournent
+False	les officiers déménagent et retourne
+True	les officiers déménagent et sont petits
+False	les officiers déménagent et est petit
+True	les officiers déménagent et sont grands
+False	les officiers déménagent et est grand
+True	les officiers déménagent et sont vieux
+False	les officiers déménagent et est vieux
+True	les officiers déménagent et sont jeunes
+False	les officiers déménagent et est jeune
+True	les pilotes déménagent et déménagent
+False	les pilotes déménagent et déménage
+True	les pilotes déménagent et parlent
+False	les pilotes déménagent et parle
+True	les pilotes déménagent et retournent
+False	les pilotes déménagent et retourne
+True	les pilotes déménagent et sont petits
+False	les pilotes déménagent et est petit
+True	les pilotes déménagent et sont grands
+False	les pilotes déménagent et est grand
+True	les pilotes déménagent et sont vieux
+False	les pilotes déménagent et est vieux
+True	les pilotes déménagent et sont jeunes
+False	les pilotes déménagent et est jeune
+True	les consultants déménagent et déménagent
+False	les consultants déménagent et déménage
+True	les consultants déménagent et parlent
+False	les consultants déménagent et parle
+True	les consultants déménagent et retournent
+False	les consultants déménagent et retourne
+True	les consultants déménagent et sont petits
+False	les consultants déménagent et est petit
+True	les consultants déménagent et sont grands
+False	les consultants déménagent et est grand
+True	les consultants déménagent et sont vieux
+False	les consultants déménagent et est vieux
+True	les consultants déménagent et sont jeunes
+False	les consultants déménagent et est jeune
+True	les auteurs parlent et déménagent
+False	les auteurs parlent et déménage
+True	les auteurs parlent et parlent
+False	les auteurs parlent et parle
+True	les auteurs parlent et retournent
+False	les auteurs parlent et retourne
+True	les auteurs parlent et sont petits
+False	les auteurs parlent et est petit
+True	les auteurs parlent et sont grands
+False	les auteurs parlent et est grand
+True	les auteurs parlent et sont vieux
+False	les auteurs parlent et est vieux
+True	les auteurs parlent et sont jeunes
+False	les auteurs parlent et est jeune
+True	les directeurs parlent et déménagent
+False	les directeurs parlent et déménage
+True	les directeurs parlent et parlent
+False	les directeurs parlent et parle
+True	les directeurs parlent et retournent
+False	les directeurs parlent et retourne
+True	les directeurs parlent et sont petits
+False	les directeurs parlent et est petit
+True	les directeurs parlent et sont grands
+False	les directeurs parlent et est grand
+True	les directeurs parlent et sont vieux
+False	les directeurs parlent et est vieux
+True	les directeurs parlent et sont jeunes
+False	les directeurs parlent et est jeune
+True	les agriculteurs parlent et déménagent
+False	les agriculteurs parlent et déménage
+True	les agriculteurs parlent et parlent
+False	les agriculteurs parlent et parle
+True	les agriculteurs parlent et retournent
+False	les agriculteurs parlent et retourne
+True	les agriculteurs parlent et sont petits
+False	les agriculteurs parlent et est petit
+True	les agriculteurs parlent et sont grands
+False	les agriculteurs parlent et est grand
+True	les agriculteurs parlent et sont vieux
+False	les agriculteurs parlent et est vieux
+True	les agriculteurs parlent et sont jeunes
+False	les agriculteurs parlent et est jeune
+True	les chirurgiens parlent et déménagent
+False	les chirurgiens parlent et déménage
+True	les chirurgiens parlent et parlent
+False	les chirurgiens parlent et parle
+True	les chirurgiens parlent et retournent
+False	les chirurgiens parlent et retourne
+True	les chirurgiens parlent et sont petits
+False	les chirurgiens parlent et est petit
+True	les chirurgiens parlent et sont grands
+False	les chirurgiens parlent et est grand
+True	les chirurgiens parlent et sont vieux
+False	les chirurgiens parlent et est vieux
+True	les chirurgiens parlent et sont jeunes
+False	les chirurgiens parlent et est jeune
+True	les sénateurs parlent et déménagent
+False	les sénateurs parlent et déménage
+True	les sénateurs parlent et parlent
+False	les sénateurs parlent et parle
+True	les sénateurs parlent et retournent
+False	les sénateurs parlent et retourne
+True	les sénateurs parlent et sont petits
+False	les sénateurs parlent et est petit
+True	les sénateurs parlent et sont grands
+False	les sénateurs parlent et est grand
+True	les sénateurs parlent et sont vieux
+False	les sénateurs parlent et est vieux
+True	les sénateurs parlent et sont jeunes
+False	les sénateurs parlent et est jeune
+True	les professeurs parlent et déménagent
+False	les professeurs parlent et déménage
+True	les professeurs parlent et parlent
+False	les professeurs parlent et parle
+True	les professeurs parlent et retournent
+False	les professeurs parlent et retourne
+True	les professeurs parlent et sont petits
+False	les professeurs parlent et est petit
+True	les professeurs parlent et sont grands
+False	les professeurs parlent et est grand
+True	les professeurs parlent et sont vieux
+False	les professeurs parlent et est vieux
+True	les professeurs parlent et sont jeunes
+False	les professeurs parlent et est jeune
+True	les clients parlent et déménagent
+False	les clients parlent et déménage
+True	les clients parlent et parlent
+False	les clients parlent et parle
+True	les clients parlent et retournent
+False	les clients parlent et retourne
+True	les clients parlent et sont petits
+False	les clients parlent et est petit
+True	les clients parlent et sont grands
+False	les clients parlent et est grand
+True	les clients parlent et sont vieux
+False	les clients parlent et est vieux
+True	les clients parlent et sont jeunes
+False	les clients parlent et est jeune
+True	les officiers parlent et déménagent
+False	les officiers parlent et déménage
+True	les officiers parlent et parlent
+False	les officiers parlent et parle
+True	les officiers parlent et retournent
+False	les officiers parlent et retourne
+True	les officiers parlent et sont petits
+False	les officiers parlent et est petit
+True	les officiers parlent et sont grands
+False	les officiers parlent et est grand
+True	les officiers parlent et sont vieux
+False	les officiers parlent et est vieux
+True	les officiers parlent et sont jeunes
+False	les officiers parlent et est jeune
+True	les pilotes parlent et déménagent
+False	les pilotes parlent et déménage
+True	les pilotes parlent et parlent
+False	les pilotes parlent et parle
+True	les pilotes parlent et retournent
+False	les pilotes parlent et retourne
+True	les pilotes parlent et sont petits
+False	les pilotes parlent et est petit
+True	les pilotes parlent et sont grands
+False	les pilotes parlent et est grand
+True	les pilotes parlent et sont vieux
+False	les pilotes parlent et est vieux
+True	les pilotes parlent et sont jeunes
+False	les pilotes parlent et est jeune
+True	les consultants parlent et déménagent
+False	les consultants parlent et déménage
+True	les consultants parlent et parlent
+False	les consultants parlent et parle
+True	les consultants parlent et retournent
+False	les consultants parlent et retourne
+True	les consultants parlent et sont petits
+False	les consultants parlent et est petit
+True	les consultants parlent et sont grands
+False	les consultants parlent et est grand
+True	les consultants parlent et sont vieux
+False	les consultants parlent et est vieux
+True	les consultants parlent et sont jeunes
+False	les consultants parlent et est jeune
+True	les auteurs retournent et déménagent
+False	les auteurs retournent et déménage
+True	les auteurs retournent et parlent
+False	les auteurs retournent et parle
+True	les auteurs retournent et retournent
+False	les auteurs retournent et retourne
+True	les auteurs retournent et sont petits
+False	les auteurs retournent et est petit
+True	les auteurs retournent et sont grands
+False	les auteurs retournent et est grand
+True	les auteurs retournent et sont vieux
+False	les auteurs retournent et est vieux
+True	les auteurs retournent et sont jeunes
+False	les auteurs retournent et est jeune
+True	les directeurs retournent et déménagent
+False	les directeurs retournent et déménage
+True	les directeurs retournent et parlent
+False	les directeurs retournent et parle
+True	les directeurs retournent et retournent
+False	les directeurs retournent et retourne
+True	les directeurs retournent et sont petits
+False	les directeurs retournent et est petit
+True	les directeurs retournent et sont grands
+False	les directeurs retournent et est grand
+True	les directeurs retournent et sont vieux
+False	les directeurs retournent et est vieux
+True	les directeurs retournent et sont jeunes
+False	les directeurs retournent et est jeune
+True	les agriculteurs retournent et déménagent
+False	les agriculteurs retournent et déménage
+True	les agriculteurs retournent et parlent
+False	les agriculteurs retournent et parle
+True	les agriculteurs retournent et retournent
+False	les agriculteurs retournent et retourne
+True	les agriculteurs retournent et sont petits
+False	les agriculteurs retournent et est petit
+True	les agriculteurs retournent et sont grands
+False	les agriculteurs retournent et est grand
+True	les agriculteurs retournent et sont vieux
+False	les agriculteurs retournent et est vieux
+True	les agriculteurs retournent et sont jeunes
+False	les agriculteurs retournent et est jeune
+True	les chirurgiens retournent et déménagent
+False	les chirurgiens retournent et déménage
+True	les chirurgiens retournent et parlent
+False	les chirurgiens retournent et parle
+True	les chirurgiens retournent et retournent
+False	les chirurgiens retournent et retourne
+True	les chirurgiens retournent et sont petits
+False	les chirurgiens retournent et est petit
+True	les chirurgiens retournent et sont grands
+False	les chirurgiens retournent et est grand
+True	les chirurgiens retournent et sont vieux
+False	les chirurgiens retournent et est vieux
+True	les chirurgiens retournent et sont jeunes
+False	les chirurgiens retournent et est jeune
+True	les sénateurs retournent et déménagent
+False	les sénateurs retournent et déménage
+True	les sénateurs retournent et parlent
+False	les sénateurs retournent et parle
+True	les sénateurs retournent et retournent
+False	les sénateurs retournent et retourne
+True	les sénateurs retournent et sont petits
+False	les sénateurs retournent et est petit
+True	les sénateurs retournent et sont grands
+False	les sénateurs retournent et est grand
+True	les sénateurs retournent et sont vieux
+False	les sénateurs retournent et est vieux
+True	les sénateurs retournent et sont jeunes
+False	les sénateurs retournent et est jeune
+True	les professeurs retournent et déménagent
+False	les professeurs retournent et déménage
+True	les professeurs retournent et parlent
+False	les professeurs retournent et parle
+True	les professeurs retournent et retournent
+False	les professeurs retournent et retourne
+True	les professeurs retournent et sont petits
+False	les professeurs retournent et est petit
+True	les professeurs retournent et sont grands
+False	les professeurs retournent et est grand
+True	les professeurs retournent et sont vieux
+False	les professeurs retournent et est vieux
+True	les professeurs retournent et sont jeunes
+False	les professeurs retournent et est jeune
+True	les clients retournent et déménagent
+False	les clients retournent et déménage
+True	les clients retournent et parlent
+False	les clients retournent et parle
+True	les clients retournent et retournent
+False	les clients retournent et retourne
+True	les clients retournent et sont petits
+False	les clients retournent et est petit
+True	les clients retournent et sont grands
+False	les clients retournent et est grand
+True	les clients retournent et sont vieux
+False	les clients retournent et est vieux
+True	les clients retournent et sont jeunes
+False	les clients retournent et est jeune
+True	les officiers retournent et déménagent
+False	les officiers retournent et déménage
+True	les officiers retournent et parlent
+False	les officiers retournent et parle
+True	les officiers retournent et retournent
+False	les officiers retournent et retourne
+True	les officiers retournent et sont petits
+False	les officiers retournent et est petit
+True	les officiers retournent et sont grands
+False	les officiers retournent et est grand
+True	les officiers retournent et sont vieux
+False	les officiers retournent et est vieux
+True	les officiers retournent et sont jeunes
+False	les officiers retournent et est jeune
+True	les pilotes retournent et déménagent
+False	les pilotes retournent et déménage
+True	les pilotes retournent et parlent
+False	les pilotes retournent et parle
+True	les pilotes retournent et retournent
+False	les pilotes retournent et retourne
+True	les pilotes retournent et sont petits
+False	les pilotes retournent et est petit
+True	les pilotes retournent et sont grands
+False	les pilotes retournent et est grand
+True	les pilotes retournent et sont vieux
+False	les pilotes retournent et est vieux
+True	les pilotes retournent et sont jeunes
+False	les pilotes retournent et est jeune
+True	les consultants retournent et déménagent
+False	les consultants retournent et déménage
+True	les consultants retournent et parlent
+False	les consultants retournent et parle
+True	les consultants retournent et retournent
+False	les consultants retournent et retourne
+True	les consultants retournent et sont petits
+False	les consultants retournent et est petit
+True	les consultants retournent et sont grands
+False	les consultants retournent et est grand
+True	les consultants retournent et sont vieux
+False	les consultants retournent et est vieux
+True	les consultants retournent et sont jeunes
+False	les consultants retournent et est jeune
+True	les auteurs sont petits et déménagent
+False	les auteurs sont petits et déménage
+True	les auteurs sont petits et parlent
+False	les auteurs sont petits et parle
+True	les auteurs sont petits et retournent
+False	les auteurs sont petits et retourne
+True	les auteurs sont petits et sont petits
+False	les auteurs sont petits et est petit
+True	les auteurs sont petits et sont grands
+False	les auteurs sont petits et est grand
+True	les auteurs sont petits et sont vieux
+False	les auteurs sont petits et est vieux
+True	les auteurs sont petits et sont jeunes
+False	les auteurs sont petits et est jeune
+True	les directeurs sont petits et déménagent
+False	les directeurs sont petits et déménage
+True	les directeurs sont petits et parlent
+False	les directeurs sont petits et parle
+True	les directeurs sont petits et retournent
+False	les directeurs sont petits et retourne
+True	les directeurs sont petits et sont petits
+False	les directeurs sont petits et est petit
+True	les directeurs sont petits et sont grands
+False	les directeurs sont petits et est grand
+True	les directeurs sont petits et sont vieux
+False	les directeurs sont petits et est vieux
+True	les directeurs sont petits et sont jeunes
+False	les directeurs sont petits et est jeune
+True	les agriculteurs sont petits et déménagent
+False	les agriculteurs sont petits et déménage
+True	les agriculteurs sont petits et parlent
+False	les agriculteurs sont petits et parle
+True	les agriculteurs sont petits et retournent
+False	les agriculteurs sont petits et retourne
+True	les agriculteurs sont petits et sont petits
+False	les agriculteurs sont petits et est petit
+True	les agriculteurs sont petits et sont grands
+False	les agriculteurs sont petits et est grand
+True	les agriculteurs sont petits et sont vieux
+False	les agriculteurs sont petits et est vieux
+True	les agriculteurs sont petits et sont jeunes
+False	les agriculteurs sont petits et est jeune
+True	les chirurgiens sont petits et déménagent
+False	les chirurgiens sont petits et déménage
+True	les chirurgiens sont petits et parlent
+False	les chirurgiens sont petits et parle
+True	les chirurgiens sont petits et retournent
+False	les chirurgiens sont petits et retourne
+True	les chirurgiens sont petits et sont petits
+False	les chirurgiens sont petits et est petit
+True	les chirurgiens sont petits et sont grands
+False	les chirurgiens sont petits et est grand
+True	les chirurgiens sont petits et sont vieux
+False	les chirurgiens sont petits et est vieux
+True	les chirurgiens sont petits et sont jeunes
+False	les chirurgiens sont petits et est jeune
+True	les sénateurs sont petits et déménagent
+False	les sénateurs sont petits et déménage
+True	les sénateurs sont petits et parlent
+False	les sénateurs sont petits et parle
+True	les sénateurs sont petits et retournent
+False	les sénateurs sont petits et retourne
+True	les sénateurs sont petits et sont petits
+False	les sénateurs sont petits et est petit
+True	les sénateurs sont petits et sont grands
+False	les sénateurs sont petits et est grand
+True	les sénateurs sont petits et sont vieux
+False	les sénateurs sont petits et est vieux
+True	les sénateurs sont petits et sont jeunes
+False	les sénateurs sont petits et est jeune
+True	les professeurs sont petits et déménagent
+False	les professeurs sont petits et déménage
+True	les professeurs sont petits et parlent
+False	les professeurs sont petits et parle
+True	les professeurs sont petits et retournent
+False	les professeurs sont petits et retourne
+True	les professeurs sont petits et sont petits
+False	les professeurs sont petits et est petit
+True	les professeurs sont petits et sont grands
+False	les professeurs sont petits et est grand
+True	les professeurs sont petits et sont vieux
+False	les professeurs sont petits et est vieux
+True	les professeurs sont petits et sont jeunes
+False	les professeurs sont petits et est jeune
+True	les clients sont petits et déménagent
+False	les clients sont petits et déménage
+True	les clients sont petits et parlent
+False	les clients sont petits et parle
+True	les clients sont petits et retournent
+False	les clients sont petits et retourne
+True	les clients sont petits et sont petits
+False	les clients sont petits et est petit
+True	les clients sont petits et sont grands
+False	les clients sont petits et est grand
+True	les clients sont petits et sont vieux
+False	les clients sont petits et est vieux
+True	les clients sont petits et sont jeunes
+False	les clients sont petits et est jeune
+True	les officiers sont petits et déménagent
+False	les officiers sont petits et déménage
+True	les officiers sont petits et parlent
+False	les officiers sont petits et parle
+True	les officiers sont petits et retournent
+False	les officiers sont petits et retourne
+True	les officiers sont petits et sont petits
+False	les officiers sont petits et est petit
+True	les officiers sont petits et sont grands
+False	les officiers sont petits et est grand
+True	les officiers sont petits et sont vieux
+False	les officiers sont petits et est vieux
+True	les officiers sont petits et sont jeunes
+False	les officiers sont petits et est jeune
+True	les pilotes sont petits et déménagent
+False	les pilotes sont petits et déménage
+True	les pilotes sont petits et parlent
+False	les pilotes sont petits et parle
+True	les pilotes sont petits et retournent
+False	les pilotes sont petits et retourne
+True	les pilotes sont petits et sont petits
+False	les pilotes sont petits et est petit
+True	les pilotes sont petits et sont grands
+False	les pilotes sont petits et est grand
+True	les pilotes sont petits et sont vieux
+False	les pilotes sont petits et est vieux
+True	les pilotes sont petits et sont jeunes
+False	les pilotes sont petits et est jeune
+True	les consultants sont petits et déménagent
+False	les consultants sont petits et déménage
+True	les consultants sont petits et parlent
+False	les consultants sont petits et parle
+True	les consultants sont petits et retournent
+False	les consultants sont petits et retourne
+True	les consultants sont petits et sont petits
+False	les consultants sont petits et est petit
+True	les consultants sont petits et sont grands
+False	les consultants sont petits et est grand
+True	les consultants sont petits et sont vieux
+False	les consultants sont petits et est vieux
+True	les consultants sont petits et sont jeunes
+False	les consultants sont petits et est jeune
+True	les auteurs sont grands et déménagent
+False	les auteurs sont grands et déménage
+True	les auteurs sont grands et parlent
+False	les auteurs sont grands et parle
+True	les auteurs sont grands et retournent
+False	les auteurs sont grands et retourne
+True	les auteurs sont grands et sont petits
+False	les auteurs sont grands et est petit
+True	les auteurs sont grands et sont grands
+False	les auteurs sont grands et est grand
+True	les auteurs sont grands et sont vieux
+False	les auteurs sont grands et est vieux
+True	les auteurs sont grands et sont jeunes
+False	les auteurs sont grands et est jeune
+True	les directeurs sont grands et déménagent
+False	les directeurs sont grands et déménage
+True	les directeurs sont grands et parlent
+False	les directeurs sont grands et parle
+True	les directeurs sont grands et retournent
+False	les directeurs sont grands et retourne
+True	les directeurs sont grands et sont petits
+False	les directeurs sont grands et est petit
+True	les directeurs sont grands et sont grands
+False	les directeurs sont grands et est grand
+True	les directeurs sont grands et sont vieux
+False	les directeurs sont grands et est vieux
+True	les directeurs sont grands et sont jeunes
+False	les directeurs sont grands et est jeune
+True	les agriculteurs sont grands et déménagent
+False	les agriculteurs sont grands et déménage
+True	les agriculteurs sont grands et parlent
+False	les agriculteurs sont grands et parle
+True	les agriculteurs sont grands et retournent
+False	les agriculteurs sont grands et retourne
+True	les agriculteurs sont grands et sont petits
+False	les agriculteurs sont grands et est petit
+True	les agriculteurs sont grands et sont grands
+False	les agriculteurs sont grands et est grand
+True	les agriculteurs sont grands et sont vieux
+False	les agriculteurs sont grands et est vieux
+True	les agriculteurs sont grands et sont jeunes
+False	les agriculteurs sont grands et est jeune
+True	les chirurgiens sont grands et déménagent
+False	les chirurgiens sont grands et déménage
+True	les chirurgiens sont grands et parlent
+False	les chirurgiens sont grands et parle
+True	les chirurgiens sont grands et retournent
+False	les chirurgiens sont grands et retourne
+True	les chirurgiens sont grands et sont petits
+False	les chirurgiens sont grands et est petit
+True	les chirurgiens sont grands et sont grands
+False	les chirurgiens sont grands et est grand
+True	les chirurgiens sont grands et sont vieux
+False	les chirurgiens sont grands et est vieux
+True	les chirurgiens sont grands et sont jeunes
+False	les chirurgiens sont grands et est jeune
+True	les sénateurs sont grands et déménagent
+False	les sénateurs sont grands et déménage
+True	les sénateurs sont grands et parlent
+False	les sénateurs sont grands et parle
+True	les sénateurs sont grands et retournent
+False	les sénateurs sont grands et retourne
+True	les sénateurs sont grands et sont petits
+False	les sénateurs sont grands et est petit
+True	les sénateurs sont grands et sont grands
+False	les sénateurs sont grands et est grand
+True	les sénateurs sont grands et sont vieux
+False	les sénateurs sont grands et est vieux
+True	les sénateurs sont grands et sont jeunes
+False	les sénateurs sont grands et est jeune
+True	les professeurs sont grands et déménagent
+False	les professeurs sont grands et déménage
+True	les professeurs sont grands et parlent
+False	les professeurs sont grands et parle
+True	les professeurs sont grands et retournent
+False	les professeurs sont grands et retourne
+True	les professeurs sont grands et sont petits
+False	les professeurs sont grands et est petit
+True	les professeurs sont grands et sont grands
+False	les professeurs sont grands et est grand
+True	les professeurs sont grands et sont vieux
+False	les professeurs sont grands et est vieux
+True	les professeurs sont grands et sont jeunes
+False	les professeurs sont grands et est jeune
+True	les clients sont grands et déménagent
+False	les clients sont grands et déménage
+True	les clients sont grands et parlent
+False	les clients sont grands et parle
+True	les clients sont grands et retournent
+False	les clients sont grands et retourne
+True	les clients sont grands et sont petits
+False	les clients sont grands et est petit
+True	les clients sont grands et sont grands
+False	les clients sont grands et est grand
+True	les clients sont grands et sont vieux
+False	les clients sont grands et est vieux
+True	les clients sont grands et sont jeunes
+False	les clients sont grands et est jeune
+True	les officiers sont grands et déménagent
+False	les officiers sont grands et déménage
+True	les officiers sont grands et parlent
+False	les officiers sont grands et parle
+True	les officiers sont grands et retournent
+False	les officiers sont grands et retourne
+True	les officiers sont grands et sont petits
+False	les officiers sont grands et est petit
+True	les officiers sont grands et sont grands
+False	les officiers sont grands et est grand
+True	les officiers sont grands et sont vieux
+False	les officiers sont grands et est vieux
+True	les officiers sont grands et sont jeunes
+False	les officiers sont grands et est jeune
+True	les pilotes sont grands et déménagent
+False	les pilotes sont grands et déménage
+True	les pilotes sont grands et parlent
+False	les pilotes sont grands et parle
+True	les pilotes sont grands et retournent
+False	les pilotes sont grands et retourne
+True	les pilotes sont grands et sont petits
+False	les pilotes sont grands et est petit
+True	les pilotes sont grands et sont grands
+False	les pilotes sont grands et est grand
+True	les pilotes sont grands et sont vieux
+False	les pilotes sont grands et est vieux
+True	les pilotes sont grands et sont jeunes
+False	les pilotes sont grands et est jeune
+True	les consultants sont grands et déménagent
+False	les consultants sont grands et déménage
+True	les consultants sont grands et parlent
+False	les consultants sont grands et parle
+True	les consultants sont grands et retournent
+False	les consultants sont grands et retourne
+True	les consultants sont grands et sont petits
+False	les consultants sont grands et est petit
+True	les consultants sont grands et sont grands
+False	les consultants sont grands et est grand
+True	les consultants sont grands et sont vieux
+False	les consultants sont grands et est vieux
+True	les consultants sont grands et sont jeunes
+False	les consultants sont grands et est jeune
+True	les auteurs sont vieux et déménagent
+False	les auteurs sont vieux et déménage
+True	les auteurs sont vieux et parlent
+False	les auteurs sont vieux et parle
+True	les auteurs sont vieux et retournent
+False	les auteurs sont vieux et retourne
+True	les auteurs sont vieux et sont petits
+False	les auteurs sont vieux et est petit
+True	les auteurs sont vieux et sont grands
+False	les auteurs sont vieux et est grand
+True	les auteurs sont vieux et sont vieux
+False	les auteurs sont vieux et est vieux
+True	les auteurs sont vieux et sont jeunes
+False	les auteurs sont vieux et est jeune
+True	les directeurs sont vieux et déménagent
+False	les directeurs sont vieux et déménage
+True	les directeurs sont vieux et parlent
+False	les directeurs sont vieux et parle
+True	les directeurs sont vieux et retournent
+False	les directeurs sont vieux et retourne
+True	les directeurs sont vieux et sont petits
+False	les directeurs sont vieux et est petit
+True	les directeurs sont vieux et sont grands
+False	les directeurs sont vieux et est grand
+True	les directeurs sont vieux et sont vieux
+False	les directeurs sont vieux et est vieux
+True	les directeurs sont vieux et sont jeunes
+False	les directeurs sont vieux et est jeune
+True	les agriculteurs sont vieux et déménagent
+False	les agriculteurs sont vieux et déménage
+True	les agriculteurs sont vieux et parlent
+False	les agriculteurs sont vieux et parle
+True	les agriculteurs sont vieux et retournent
+False	les agriculteurs sont vieux et retourne
+True	les agriculteurs sont vieux et sont petits
+False	les agriculteurs sont vieux et est petit
+True	les agriculteurs sont vieux et sont grands
+False	les agriculteurs sont vieux et est grand
+True	les agriculteurs sont vieux et sont vieux
+False	les agriculteurs sont vieux et est vieux
+True	les agriculteurs sont vieux et sont jeunes
+False	les agriculteurs sont vieux et est jeune
+True	les chirurgiens sont vieux et déménagent
+False	les chirurgiens sont vieux et déménage
+True	les chirurgiens sont vieux et parlent
+False	les chirurgiens sont vieux et parle
+True	les chirurgiens sont vieux et retournent
+False	les chirurgiens sont vieux et retourne
+True	les chirurgiens sont vieux et sont petits
+False	les chirurgiens sont vieux et est petit
+True	les chirurgiens sont vieux et sont grands
+False	les chirurgiens sont vieux et est grand
+True	les chirurgiens sont vieux et sont vieux
+False	les chirurgiens sont vieux et est vieux
+True	les chirurgiens sont vieux et sont jeunes
+False	les chirurgiens sont vieux et est jeune
+True	les sénateurs sont vieux et déménagent
+False	les sénateurs sont vieux et déménage
+True	les sénateurs sont vieux et parlent
+False	les sénateurs sont vieux et parle
+True	les sénateurs sont vieux et retournent
+False	les sénateurs sont vieux et retourne
+True	les sénateurs sont vieux et sont petits
+False	les sénateurs sont vieux et est petit
+True	les sénateurs sont vieux et sont grands
+False	les sénateurs sont vieux et est grand
+True	les sénateurs sont vieux et sont vieux
+False	les sénateurs sont vieux et est vieux
+True	les sénateurs sont vieux et sont jeunes
+False	les sénateurs sont vieux et est jeune
+True	les professeurs sont vieux et déménagent
+False	les professeurs sont vieux et déménage
+True	les professeurs sont vieux et parlent
+False	les professeurs sont vieux et parle
+True	les professeurs sont vieux et retournent
+False	les professeurs sont vieux et retourne
+True	les professeurs sont vieux et sont petits
+False	les professeurs sont vieux et est petit
+True	les professeurs sont vieux et sont grands
+False	les professeurs sont vieux et est grand
+True	les professeurs sont vieux et sont vieux
+False	les professeurs sont vieux et est vieux
+True	les professeurs sont vieux et sont jeunes
+False	les professeurs sont vieux et est jeune
+True	les clients sont vieux et déménagent
+False	les clients sont vieux et déménage
+True	les clients sont vieux et parlent
+False	les clients sont vieux et parle
+True	les clients sont vieux et retournent
+False	les clients sont vieux et retourne
+True	les clients sont vieux et sont petits
+False	les clients sont vieux et est petit
+True	les clients sont vieux et sont grands
+False	les clients sont vieux et est grand
+True	les clients sont vieux et sont vieux
+False	les clients sont vieux et est vieux
+True	les clients sont vieux et sont jeunes
+False	les clients sont vieux et est jeune
+True	les officiers sont vieux et déménagent
+False	les officiers sont vieux et déménage
+True	les officiers sont vieux et parlent
+False	les officiers sont vieux et parle
+True	les officiers sont vieux et retournent
+False	les officiers sont vieux et retourne
+True	les officiers sont vieux et sont petits
+False	les officiers sont vieux et est petit
+True	les officiers sont vieux et sont grands
+False	les officiers sont vieux et est grand
+True	les officiers sont vieux et sont vieux
+False	les officiers sont vieux et est vieux
+True	les officiers sont vieux et sont jeunes
+False	les officiers sont vieux et est jeune
+True	les pilotes sont vieux et déménagent
+False	les pilotes sont vieux et déménage
+True	les pilotes sont vieux et parlent
+False	les pilotes sont vieux et parle
+True	les pilotes sont vieux et retournent
+False	les pilotes sont vieux et retourne
+True	les pilotes sont vieux et sont petits
+False	les pilotes sont vieux et est petit
+True	les pilotes sont vieux et sont grands
+False	les pilotes sont vieux et est grand
+True	les pilotes sont vieux et sont vieux
+False	les pilotes sont vieux et est vieux
+True	les pilotes sont vieux et sont jeunes
+False	les pilotes sont vieux et est jeune
+True	les consultants sont vieux et déménagent
+False	les consultants sont vieux et déménage
+True	les consultants sont vieux et parlent
+False	les consultants sont vieux et parle
+True	les consultants sont vieux et retournent
+False	les consultants sont vieux et retourne
+True	les consultants sont vieux et sont petits
+False	les consultants sont vieux et est petit
+True	les consultants sont vieux et sont grands
+False	les consultants sont vieux et est grand
+True	les consultants sont vieux et sont vieux
+False	les consultants sont vieux et est vieux
+True	les consultants sont vieux et sont jeunes
+False	les consultants sont vieux et est jeune
+True	les auteurs sont jeunes et déménagent
+False	les auteurs sont jeunes et déménage
+True	les auteurs sont jeunes et parlent
+False	les auteurs sont jeunes et parle
+True	les auteurs sont jeunes et retournent
+False	les auteurs sont jeunes et retourne
+True	les auteurs sont jeunes et sont petits
+False	les auteurs sont jeunes et est petit
+True	les auteurs sont jeunes et sont grands
+False	les auteurs sont jeunes et est grand
+True	les auteurs sont jeunes et sont vieux
+False	les auteurs sont jeunes et est vieux
+True	les auteurs sont jeunes et sont jeunes
+False	les auteurs sont jeunes et est jeune
+True	les directeurs sont jeunes et déménagent
+False	les directeurs sont jeunes et déménage
+True	les directeurs sont jeunes et parlent
+False	les directeurs sont jeunes et parle
+True	les directeurs sont jeunes et retournent
+False	les directeurs sont jeunes et retourne
+True	les directeurs sont jeunes et sont petits
+False	les directeurs sont jeunes et est petit
+True	les directeurs sont jeunes et sont grands
+False	les directeurs sont jeunes et est grand
+True	les directeurs sont jeunes et sont vieux
+False	les directeurs sont jeunes et est vieux
+True	les directeurs sont jeunes et sont jeunes
+False	les directeurs sont jeunes et est jeune
+True	les agriculteurs sont jeunes et déménagent
+False	les agriculteurs sont jeunes et déménage
+True	les agriculteurs sont jeunes et parlent
+False	les agriculteurs sont jeunes et parle
+True	les agriculteurs sont jeunes et retournent
+False	les agriculteurs sont jeunes et retourne
+True	les agriculteurs sont jeunes et sont petits
+False	les agriculteurs sont jeunes et est petit
+True	les agriculteurs sont jeunes et sont grands
+False	les agriculteurs sont jeunes et est grand
+True	les agriculteurs sont jeunes et sont vieux
+False	les agriculteurs sont jeunes et est vieux
+True	les agriculteurs sont jeunes et sont jeunes
+False	les agriculteurs sont jeunes et est jeune
+True	les chirurgiens sont jeunes et déménagent
+False	les chirurgiens sont jeunes et déménage
+True	les chirurgiens sont jeunes et parlent
+False	les chirurgiens sont jeunes et parle
+True	les chirurgiens sont jeunes et retournent
+False	les chirurgiens sont jeunes et retourne
+True	les chirurgiens sont jeunes et sont petits
+False	les chirurgiens sont jeunes et est petit
+True	les chirurgiens sont jeunes et sont grands
+False	les chirurgiens sont jeunes et est grand
+True	les chirurgiens sont jeunes et sont vieux
+False	les chirurgiens sont jeunes et est vieux
+True	les chirurgiens sont jeunes et sont jeunes
+False	les chirurgiens sont jeunes et est jeune
+True	les sénateurs sont jeunes et déménagent
+False	les sénateurs sont jeunes et déménage
+True	les sénateurs sont jeunes et parlent
+False	les sénateurs sont jeunes et parle
+True	les sénateurs sont jeunes et retournent
+False	les sénateurs sont jeunes et retourne
+True	les sénateurs sont jeunes et sont petits
+False	les sénateurs sont jeunes et est petit
+True	les sénateurs sont jeunes et sont grands
+False	les sénateurs sont jeunes et est grand
+True	les sénateurs sont jeunes et sont vieux
+False	les sénateurs sont jeunes et est vieux
+True	les sénateurs sont jeunes et sont jeunes
+False	les sénateurs sont jeunes et est jeune
+True	les professeurs sont jeunes et déménagent
+False	les professeurs sont jeunes et déménage
+True	les professeurs sont jeunes et parlent
+False	les professeurs sont jeunes et parle
+True	les professeurs sont jeunes et retournent
+False	les professeurs sont jeunes et retourne
+True	les professeurs sont jeunes et sont petits
+False	les professeurs sont jeunes et est petit
+True	les professeurs sont jeunes et sont grands
+False	les professeurs sont jeunes et est grand
+True	les professeurs sont jeunes et sont vieux
+False	les professeurs sont jeunes et est vieux
+True	les professeurs sont jeunes et sont jeunes
+False	les professeurs sont jeunes et est jeune
+True	les clients sont jeunes et déménagent
+False	les clients sont jeunes et déménage
+True	les clients sont jeunes et parlent
+False	les clients sont jeunes et parle
+True	les clients sont jeunes et retournent
+False	les clients sont jeunes et retourne
+True	les clients sont jeunes et sont petits
+False	les clients sont jeunes et est petit
+True	les clients sont jeunes et sont grands
+False	les clients sont jeunes et est grand
+True	les clients sont jeunes et sont vieux
+False	les clients sont jeunes et est vieux
+True	les clients sont jeunes et sont jeunes
+False	les clients sont jeunes et est jeune
+True	les officiers sont jeunes et déménagent
+False	les officiers sont jeunes et déménage
+True	les officiers sont jeunes et parlent
+False	les officiers sont jeunes et parle
+True	les officiers sont jeunes et retournent
+False	les officiers sont jeunes et retourne
+True	les officiers sont jeunes et sont petits
+False	les officiers sont jeunes et est petit
+True	les officiers sont jeunes et sont grands
+False	les officiers sont jeunes et est grand
+True	les officiers sont jeunes et sont vieux
+False	les officiers sont jeunes et est vieux
+True	les officiers sont jeunes et sont jeunes
+False	les officiers sont jeunes et est jeune
+True	les pilotes sont jeunes et déménagent
+False	les pilotes sont jeunes et déménage
+True	les pilotes sont jeunes et parlent
+False	les pilotes sont jeunes et parle
+True	les pilotes sont jeunes et retournent
+False	les pilotes sont jeunes et retourne
+True	les pilotes sont jeunes et sont petits
+False	les pilotes sont jeunes et est petit
+True	les pilotes sont jeunes et sont grands
+False	les pilotes sont jeunes et est grand
+True	les pilotes sont jeunes et sont vieux
+False	les pilotes sont jeunes et est vieux
+True	les pilotes sont jeunes et sont jeunes
+False	les pilotes sont jeunes et est jeune
+True	les consultants sont jeunes et déménagent
+False	les consultants sont jeunes et déménage
+True	les consultants sont jeunes et parlent
+False	les consultants sont jeunes et parle
+True	les consultants sont jeunes et retournent
+False	les consultants sont jeunes et retourne
+True	les consultants sont jeunes et sont petits
+False	les consultants sont jeunes et est petit
+True	les consultants sont jeunes et sont grands
+False	les consultants sont jeunes et est grand
+True	les consultants sont jeunes et sont vieux
+False	les consultants sont jeunes et est vieux
+True	les consultants sont jeunes et sont jeunes
+False	les consultants sont jeunes et est jeune

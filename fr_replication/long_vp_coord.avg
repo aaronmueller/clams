@@ -1,0 +1,10 @@
+vary: V_3[]
+
+S[] NP_1[3,s,m,anim] V_2[3,s] et V_3[3,s]
+S[] Det[3,p] N_1[3,p,m,anim] V_2[3,p] et V_3[3,p]
+
+V_2[3,s] connaît beaucoup de langues étrangères | aime regarder des émissions de télévision | a vingt trois ans | préfère jouer au tennis avec des collègues | écrit dans un journal tous les jours
+V_2[3,p] connaissent beaucoup de langues étrangères | aiment regarder des émissions de télévision | ont vingt trois ans | préfèrent jouer au tennis avec des collègues | écrivent dans un journal tous les jours
+
+V_3[3,s] connaît beaucoup de langues étrangères | aime regarder des émissions de télévision | a vingt trois ans | préfère jouer au tennis avec des collègues | écrit dans un journal tous les jours
+V_3[3,p] connaissent beaucoup de langues étrangères | aiment regarder des émissions de télévision | ont vingt trois ans | préfèrent jouer au tennis avec des collègues | écrivent dans un journal tous les jours
