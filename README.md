@@ -1,6 +1,6 @@
-# Cross-Linguistic Analysis of Model Syntax
+# Cross-Linguistic Assessment of Models on Syntax
 
-Source and instructions required for replicating the CLAMS paper. 
+Source and instructions required for replicating the CLAMS paper (*Cross-Linguistic Syntactic Evaluation of Word Prediction Models*, Mueller et al., ACL 2020).
 
 In this repository, we provide the following:
 
