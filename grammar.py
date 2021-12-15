@@ -148,7 +148,9 @@ class Grammar:
     # generate all possible sentences using 'vary' system
     def sen_generate(self, evalfile):
         templates = self.rules[self.start]
+        original_num_templates = len(templates)
         while templates:
+            num_templates = len(templates)
             template = templates.popleft()
             eval_tuples = []   # list of tuples in evaluation set
                                # tuple[0] is string; tuple[1] is grammaticality
@@ -198,8 +200,10 @@ class Grammar:
                                     new_string = eval_string + " " + printable_str
                                     new_eval_tuples.append((new_string, grammatical))
                             eval_tuples = new_eval_tuples
-                # print all strings to eval file
-            with open(evalfile, 'a') as outfile:
+
+            # print all strings to eval file
+            write_or_append = 'w' if original_num_templates == num_templates else 'a'
+            with open(evalfile, write_or_append) as outfile:
                 for idx, eval_tuple in enumerate(eval_tuples):
                     outfile.write(str(eval_tuple[1])+'\t'+eval_tuple[0]+'\n')
 
