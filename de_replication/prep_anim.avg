@@ -13,7 +13,7 @@ Prep[3,p] vor den | nach den | neben den | in der Nähe von den | gegenüber von
 
 N_3[3,s,m,d] Wächter | Minister | Leiter | Mitarbeiter | Taxifahrer | Tänzer | Architekt | Koch | Vater
 
-N_3[3,p,m,d] Wächter | Ministern | Leitern | Mitarbeitern | Taxifahrer | Tänzern | Architekten | Köche | Vätern
+N_3[3,p,m,d] Wächtern | Ministern | Leitern | Mitarbeitern | Taxifahrern | Tänzern | Architekten | Köchen | Vätern
 
 VP[3,s] ist alt | ist jung | ist klein | ist groß | schwimmt | spricht | lacht 
 VP[3,p] sind alt | sind jung | sind klein | sind groß | schwimmen | sprechen | lachen 
